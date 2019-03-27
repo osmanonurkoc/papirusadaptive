@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <bool name="use_drawer_icons_bg">false</bool>
+    <bool name="config_uiABBg">false</bool>
+    <bool name="config_new_selectors">false</bool>
+    <bool name="config_drawerLabels">true</bool>
+    <bool name="config_fadeDrawerLabels">false</bool>
+    <bool name="config_desktop_indicator">false</bool>
+
+    <!-- Apex Theme settings -->
+    <bool name="config_apexskin">true</bool>
+    <bool name="config_iconpack">true</bool>
+
+    <!-- GO LAUNCHER -->
+    <bool name="enableIconPack">true</bool>
+    <bool name="enableDockPack">true</bool>
+
+    <!-- THEME MANAGER -->
+    <bool name="manager_action">false</bool>
+    <bool name="manager_adw">false</bool>
+    <bool name="manager_apex">false</bool>
+    <bool name="manager_atom">false</bool>
+    <bool name="manager_go">false</bool>
+    <bool name="manager_nova">false</bool>
+    <bool name="manager_smart">false</bool>
+    <bool name="manager_solo">false</bool>
+
+</resources>

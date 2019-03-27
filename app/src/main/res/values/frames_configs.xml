@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<bool name="use_old_json_format">false</bool>
+	<bool name="enable_colored_tiles">true</bool>
+	<bool name="enable_filled_collection_preview">false</bool>
+	<bool name="show_bottom_sheet">true</bool>
+	<bool name="notifications_enabled_by_default">true</bool>
+	<bool name="show_icons_in_tabs">false</bool>
+	<bool name="show_texts_in_tabs">true</bool>
+    <bool name="show_collections_tab">true</bool>
+</resources>

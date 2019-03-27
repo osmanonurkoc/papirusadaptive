@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="icons_preview_picture">drawer_header</string>
+	<string name="email">osmanonurkoc@gmail.com</string>
+	<string name="email_subject">Papirus Adaptive</string>
+	<string name="request_title">Papirus Adaptive Icon Request</string>
+	<string name="request_save_location">%1$s/Papirus Adaptive/Requests/</string>
+	<bool name="xml_drawable_enabled">true</bool>
+    <bool name="show_info">true</bool>
+	<bool name="with_drawer_texts">true</bool>
+	<bool name="enable_colored_cards">true</bool>
+	<integer name="max_apps_to_request">-1</integer>
+	<integer name="time_limit_in_minutes">0</integer>
+</resources>
