@@ -13,8 +13,8 @@
         <item>Telegram releases until moving Play Store.</item>
     </string-array>
     <string-array name="home_list_icons">
-        <item>ic_launcher_icon_pack</item>
-        <item>ic_launcher_icon_pack</item>
+        <item>telegram</item>
+        <item>updates</item>
     </string-array>
     <string-array name="home_list_links">
         <item>https://t.me/joinchat/IfNYJFYUXWSmBD57_0VKOw</item>
