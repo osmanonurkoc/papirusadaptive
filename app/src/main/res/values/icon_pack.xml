@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <string-array name="icons_preview">
+    <item>airvpn</item>
+    <item>android_studio</item>
+    <item>bittorrent</item>
+    <item>fb_reader</item>
+    <item>games2</item>
+    <item>google_admin</item>
+    <item>google_drive2</item>
+    <item>league_of_legends</item>
+    <item>mail2</item>
+    <item>mail3</item>
+    <item>ms_excel2</item>
+    <item>ms_onenote</item>
+    <item>ms_powerpoint2</item>
+    <item>ms_word2</item>
+    <item>opinion_rewards</item>
+    <item>signal</item>
+    <item>slack2</item>
+    <item>mx_player</item>
+    <item>videos2</item>
     <item>browser</item>
     <item>browser2</item>
     <item>calculator</item>
@@ -89,7 +108,7 @@
     <item>launcher</item>
     <item>last_fm</item>
     <item>mailru</item>
-    <item>apps_matlab</item>
+    <item>matlab</item>
     <item>math</item>
     <item>maxthon_browser</item>
     <item>mega</item>
@@ -98,7 +117,7 @@
     <item>ms_powerpoint</item>
     <item>ms_word</item>
     <item>ms_onedrive</item>
-    <item>apps_netflix</item>
+    <item>netflix</item>
     <item>nvidia</item>
     <item>opera</item>
     <item>opera_beta</item>

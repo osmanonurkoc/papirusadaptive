@@ -145,4 +145,17 @@
     <color name="facebook_lite_background">#F7F7F7</color>
     <color name="fb_messenger_lite_background">#F7F7F7</color>
     <color name="updates_background">#F79735</color>
+    <color name="airvpn_background">#006680</color>
+    <color name="android_studio_background">#88BA53</color>
+    <color name="bittorrent_background">#9264C3</color>
+    <color name="games2_background">#935AD1</color>
+    <color name="google_admin_background">#008374</color>
+    <color name="google_drive2_background">#FFFFFF</color>
+    <color name="mail2_background">#2095F2</color>
+    <color name="mail3_background">#23B7FB</color>
+    <color name="opinion_rewards_background">#4E4E4E</color>
+    <color name="signal_background">#2893EA</color>
+    <color name="slack2_background">#612862</color>
+    <color name="video_background">#4F4F4F</color>
+    <color name="videos2_background">#4F4F4F</color>
 </resources>
