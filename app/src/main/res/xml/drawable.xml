@@ -39,6 +39,7 @@
     <item drawable="google_pdf" />
     <item drawable="google_sheets" />
     <item drawable="google_slides" />
+    <item drawable="google_calendar" />
     <item drawable="fit" />
     <item drawable="maps" />
     <item drawable="movies" />
@@ -173,7 +174,4 @@
     <item drawable="dynamic_clock4" />
     <item drawable="dynamic_clock5" />
 
-    <category title="Calendar" />
-    <item drawable="logo_calendar_30" />
-    <item drawable="oneplus_calendar_30" />
 </resources>
