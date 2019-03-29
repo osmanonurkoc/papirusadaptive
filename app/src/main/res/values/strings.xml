@@ -3,5 +3,5 @@
 	<string name="app_name">Papirus Adaptive</string>
 	<string name="default_download_folder">%1$s/Papirus/Wallpapers</string>
 	<string name="app_description">fresh, slight, colorful, adaptive icon pack based on famous gtk theme</string>
-    <string name="json_url"></string>
+    <string name="json_url">https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers.json</string>
 </resources>
