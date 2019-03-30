@@ -36,6 +36,7 @@
     <item drawable="google_admin" />
     <item drawable="google_artsandculture" />
     <item drawable="google_documents" />
+    <item drawable="google_duo" />
     <item drawable="google_pdf" />
     <item drawable="google_sheets" />
     <item drawable="google_slides" />
@@ -57,6 +58,7 @@
     <item drawable="hangouts" />
     <item drawable="opinion_rewards" />
     <item drawable="store" />
+    <item drawable="snapseed" />
     <item drawable="translate" />
     <item drawable="youtube" />
 
@@ -84,6 +86,7 @@
     <item drawable="doit" />
     <item drawable="dolphin_browser" />
     <item drawable="dr_web" />
+    <item drawable="eksin" />
     <item drawable="encyclopedia" />
     <item drawable="epub" />
     <item drawable="evernote" />
@@ -135,6 +138,7 @@
     <item drawable="reddit" />
     <item drawable="root" />
     <item drawable="qr_reader" />
+    <item drawable="shazam" />
     <item drawable="signal" />
     <item drawable="skype" />
     <item drawable="slack" />

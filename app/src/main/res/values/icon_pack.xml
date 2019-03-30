@@ -48,6 +48,7 @@
     <item>sound_recorder</item>
     <item>google_artsandculture</item>
     <item>google_documents</item>
+    <item>google_duo</item>
     <item>google_pdf</item>
     <item>google_sheets</item>
     <item>google_slides</item>
@@ -88,6 +89,7 @@
     <item>doit</item>
     <item>dolphin_browser</item>
     <item>dr_web</item>
+    <item>eksin</item>
     <item>encyclopedia</item>
     <item>epub</item>
     <item>evernote</item>
@@ -131,8 +133,10 @@
     <item>reddit</item>
     <item>root</item>
     <item>qr_reader</item>
+    <item>shazam</item>
     <item>skype</item>
     <item>slack</item>
+    <item>snapseed</item>
     <item>soundcloud</item>
     <item>spotify</item>
     <item>steam</item>
