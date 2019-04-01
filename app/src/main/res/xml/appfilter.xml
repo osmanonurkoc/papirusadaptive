@@ -116,6 +116,7 @@
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />
     <item component="ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity}" drawable="google_duo" />
     <item component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}" drawable="snapseed" />
+    <item component="ComponentInfo{com.google.android.apps.enterprise.cpanel/com.google.android.apps.enterprise.cpanel.activities.EntryPointActivity}" drawable="google_admin" />
 
     <!-- Asus -->
     <item component="ComponentInfo{com.asus.maxxaudio.audiowizard/.MainActivity}" drawable="equalizer" />
@@ -299,33 +300,20 @@
     <item component="ComponentInfo{org.codeaurora.gallery/com.android.gallery3d.app.GalleryActivity}" drawable="gallery" />
 
     <!-- Apps -->
-    <item component="ComponentInfo{org.adaway/.ui.BaseActivity}" drawable="adaway" />
-    <item component="ComponentInfo{org.fdroid.fdroid/.views.main.MainActivity}" drawable="fdroid" />
-    <item component="ComponentInfo{org.omnirom.omniswitch/.SettingsActivity}" drawable="omniswitch" />
-    <item component="ComponentInfo{com.intsig.camscanner/.WelcomeActivity}" drawable="camscanner" />
-    <item component="ComponentInfo{pl.allegro/.Allegro}" drawable="allegro" />
-    <item component="ComponentInfo{com.snapchat.android/.LandingPageActivity}" drawable="snapchat" />
-    <item component="ComponentInfo{com.linkedin.android/.authenticator.LaunchActivity}" drawable="linkedin" />
-    <item component="ComponentInfo{com.dexplorer/.activities.ApplicationSelectionActivity}" drawable="dexplorer" />
-    <item component="ComponentInfo{com.musixmatch.android.lyrify/com.musixmatch.android.ui.phone.DashBoardActivity}" drawable="musixmatch" />
-    <item component="ComponentInfo{com.bitstrips.imoji/.ui.LandingActivity}" drawable="bitmoji" />
-    <item component="ComponentInfo{com.soundcloud.creators/com.soundcloud.creators.MainActivity}" drawable="soundcloud_pulse" />
-    <item component="ComponentInfo{com.spotify.s4a/.SplashActivity}" drawable="spotify_artists" />
-    <item component="ComponentInfo{com.freshdesk.helpdesk/.fdlogic.ui.activity.LoginActivity}" drawable="freshdesk" />
-    <item component="ComponentInfo{com.instagram.boomerang/.BoomerangActivity}" drawable="boomerang" />
-    <item component="ComponentInfo{com.instagram.layout/.LayoutActivity}" drawable="layout" />
-    <item component="ComponentInfo{rs.pstech.scrumtimeplanningpoker/rs.pstech.scrumtimeplanningpoker.activities.SplashScreenActivity}" drawable="scrumtime" />
-    <item component="ComponentInfo{com.apple.android.music/.onboarding.activities.SplashActivity}" drawable="applemusic" />
-    <item component="ComponentInfo{com.amazon.dee.app/.Launcher}" drawable="alexa" />
-    <item component="ComponentInfo{com.tinder/.activities.LoginActivity}" drawable="tinder" />
-    <item component="ComponentInfo{com.quora.android/.components.activities.LauncherActivity}" drawable="quora" />
-    <item component="ComponentInfo{com.sina.weibo/.SplashActivity}" drawable="weibo" />
-    <item component="ComponentInfo{com.weico.international/.activity.LogoActivity}" drawable="weibo" />
-    <item component="ComponentInfo{com.nianticproject.ingress/.NemesisActivity}" drawable="ingress" />
-    <item component="ComponentInfo{com.nianticlabs.pokemongo/com.nianticproject.holoholo.libholoholo.unity.UnityMainActivity}" drawable="pokemon_go" />
-    <item component="ComponentInfo{com.pinterest/.activity.PinterestActivity}" drawable="pinterest" />
-
-
+    <item component="ComponentInfo{com.trees_pnw/com.trees_pnw.MainActivity}" drawable="tree" />
+    <item component="ComponentInfo{com.vodafone.selfservis/com.vodafone.selfservis.activities.SplashActivity}" drawable="vodafone" />
+    <item component="ComponentInfo{com.stt.android/com.stt.android.ui.activities.ProxyActivity}" drawable="sportstracker" />
+    <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="ms_outlook" />
+    <item component="ComponentInfo{qa.vodafone.myvodafone/qa.vodafone.mcare.VFActivity}" drawable="vodafone" />
+    <item component="ComponentInfo{net.omobio.vodafonesc/net.omobio.vodafonesc.MainActivity}" drawable="vodafone" />
+    <item component="ComponentInfo{mt.com.vodafone.android.vodafoneapp/mt.com.vodafone.android.vodafoneapp.MainActivity}" drawable="vodafone" />
+    <item component="ComponentInfo{hu.vodafone.apps.myvodafone/hu.vodafone.apps.myvodafone.splash.view.VFHUSplashActivity}" drawable="vodafone" />
+    <item component="ComponentInfo{com.kktctelsim.myvodafone/com.kktctelsim.myvodafone.SplashScreenActivity}" drawable="vodafone" />
+    <item component="ComponentInfo{pf.vodafone.monvoda/com.tns.NativeScriptActivity}" drawable="vodafone" />
+    <item component="ComponentInfo{com.ttech.android.onlineislem/com.ttech.android.onlineislem.ui.splash.SplashActivity}" drawable="turkcell" />
+    <item component="ComponentInfo{com.domobile.applock/com.domobile.applock.LauncherActivity}" drawable="applock" />
+    <item component="ComponentInfo{com.emeint.android.myservices/vodafone.vis.engezly.ui.screens.splash.activity.SplashRevampActivity}" drawable="vodafone" />
+    <item component="ComponentInfo{com.kongregate.mobile.adventurecapitalist.google/com.unity3d.player.UnityPlayerNativeActivity}" drawable="adventurecap" />
     <item component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}" drawable="ms_onenote" />
     <item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.MainActivity}" drawable="shazam" />
     <item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}" drawable="shazam" />
@@ -387,7 +375,7 @@
     <item component="ComponentInfo{com.jrzheng.supervpnfree/com.jrzheng.supervpn.view.MainActivity}" drawable="vpn" />
     <item component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity}" drawable="twitch" />
     <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="whatsapp" />
-    <item component="ComponentInfo{com.waterdaaan.cpufloat/com.waterdaaan.cpufloat.MainActivity}" drawable="cpu_z" />
+    <item component="ComponentInfo{com.waterdaaan.cpufloat/com.waterdaaan.cpufloat.MainActivity}" drawable="cpu_float" />
     <item component="ComponentInfo{com.cpuid.cpu_z/com.cpuid.cpu_z.MainActivity}" drawable="cpu_z" />
     <item component="ComponentInfo{com.miniclip.eightballpool/com.miniclip.eightballpool.EightBallPoolActivity}" drawable="billiards" />
     <item component="ComponentInfo{com.arcadegame.games.ball.pool.billiards/com.unity3d.player.UnityPlayerActivity}" drawable="billiards" />
@@ -459,7 +447,6 @@
     <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="twitter" />
     <item component="ComponentInfo{com.utorrent.client/com.bittorrent.client.Main}" drawable="utorrent" />
     <item component="ComponentInfo{com.gmail.heagoo.apkeditor.parser/com.gmail.heagoo.apkeditor.MainActivity-New1}" drawable="android_studio" />
-    <item component="ComponentInfo{com.google.android.apps.enterprise.cpanel/com.google.android.apps.enterprise.cpanel.activities.EntryPointActivity}" drawable="google_admin" />
     <item component="ComponentInfo{com.bittorrent.client/com.bittorrent.client.Main}" drawable="bittorrent" />
     <item component="ComponentInfo{org.airvpn.eddie/org.airvpn.eddie.MainActivity}" drawable="airvpn" />
     <item component="ComponentInfo{org.geometerplus.zlibrary.ui.android/org.geometerplus.android.fbreader.FBReader}" drawable="fb_reader" />

@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <string-array name="icons_preview">
+    <item>adventurecap</item>
+    <item>applock</item>
+    <item>calendar2</item>
+    <item>contacts2</item>
+    <item>cpu_float</item>
+    <item>downloads</item>
+    <item>fit2</item>
+    <item>gallery2</item>
+    <item>gmail2</item>
+    <item>messages4</item>
+    <item>ms_outlook</item>
+    <item>notes2</item>
+    <item>rose</item>
+    <item>settings2</item>
+    <item>sportstracker</item>
+    <item>tree</item>
+    <item>turkcell</item>
+    <item>videos3</item>
+    <item>vodafone</item>
     <item>airvpn</item>
     <item>android_studio</item>
     <item>bittorrent</item>
