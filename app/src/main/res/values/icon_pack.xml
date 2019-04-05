@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <string-array name="icons_preview">
+    <item>applock2</item>
+    <item>azan_time</item>
+    <item>calculator2</item>
+    <item>fdroid</item>
+    <item>night_mode</item>
+    <item>pjonograph2</item>
+    <item>steam2</item>
     <item>adventurecap</item>
     <item>applock</item>
     <item>calendar2</item>
