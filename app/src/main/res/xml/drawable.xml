@@ -6,6 +6,7 @@
     <item drawable="browser" />
     <item drawable="browser2" />
     <item drawable="calculator" />
+    <item drawable="calculator2" />
     <item drawable="calendar" />
     <item drawable="calendar2" />
     <item drawable="camera" />
@@ -83,7 +84,9 @@
     <item drawable="amd" />
     <item drawable="android_studio" />
     <item drawable="applock" />
+    <item drawable="applock2" />
     <item drawable="authy" />
+    <item drawable="azan_time" />
     <item drawable="bbc" />
     <item drawable="billiards" />
     <item drawable="bitcoin" />
@@ -108,6 +111,7 @@
     <item drawable="fb_messenger" />
     <item drawable="fb_messenger_lite" />
     <item drawable="fb_reader" />
+    <item drawable="fdroid" />
     <item drawable="firefox" />
     <item drawable="firefox_focus" />
     <item drawable="flickr" />
@@ -140,12 +144,14 @@
     <item drawable="ms_onedrive" />
     <item drawable="mx_player" />
     <item drawable="netflix" />
+    <item drawable="night_mode" />
     <item drawable="nvidia" />
     <item drawable="opera" />
     <item drawable="opera_beta" />
     <item drawable="pacman" />
     <item drawable="password" />
     <item drawable="phonograph" />
+    <item drawable="phonograph2" />
     <item drawable="php" />
     <item drawable="pocket" />
     <item drawable="rar" />
@@ -161,6 +167,7 @@
     <item drawable="sportstracker" />
     <item drawable="spotify" />
     <item drawable="steam" />
+    <item drawable="steam2" />
     <item drawable="teamspeak3" />
     <item drawable="teamwiever" />
     <item drawable="telegram" />
