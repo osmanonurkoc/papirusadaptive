@@ -300,6 +300,14 @@
     <item component="ComponentInfo{org.codeaurora.gallery/com.android.gallery3d.app.GalleryActivity}" drawable="gallery" />
 
     <!-- Apps -->
+    <item component="ComponentInfo{com.mobilexsoft.ezanvakti/com.mobilexsoft.ezanvakti.HolderActivity}" drawable="azan_time" />
+    <item component="ComponentInfo{tr.gov.diyanet.namazvakti/tr.gov.diyanet.namazvakti.activity.SplashActivity}" drawable="azan_time" />
+    <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" drawable="fdroid" />
+    <item component="ComponentInfo{com.eyefilter.nightmode.bluelightfilter/com.eyefilter.nightmode.bluelightfilter.ui.WelcomeActivity}" drawable="night_mode" />
+    <item component="ComponentInfo{com.nightapp/com.nightapp.Activity.SplashActivity}" drawable="night_mode" />
+    <item component="ComponentInfo{info.light.blub/info.light.blub.ui.LaunchActivity}" drawable="night_mode" />
+    <item component="ComponentInfo{pt.bbarao.nightmode/pt.bbarao.nightmode.Launcher}" drawable="night_mode" />
+    <item component="ComponentInfo{com.ascendik.eyeshield/com.ascendik.nightshift.activity.MainActivity}" drawable="night_mode" />
     <item component="ComponentInfo{com.trees_pnw/com.trees_pnw.MainActivity}" drawable="tree" />
     <item component="ComponentInfo{com.vodafone.selfservis/com.vodafone.selfservis.activities.SplashActivity}" drawable="vodafone" />
     <item component="ComponentInfo{com.stt.android/com.stt.android.ui.activities.ProxyActivity}" drawable="sportstracker" />
@@ -311,14 +319,14 @@
     <item component="ComponentInfo{com.kktctelsim.myvodafone/com.kktctelsim.myvodafone.SplashScreenActivity}" drawable="vodafone" />
     <item component="ComponentInfo{pf.vodafone.monvoda/com.tns.NativeScriptActivity}" drawable="vodafone" />
     <item component="ComponentInfo{com.ttech.android.onlineislem/com.ttech.android.onlineislem.ui.splash.SplashActivity}" drawable="turkcell" />
-    <item component="ComponentInfo{com.domobile.applock/com.domobile.applock.LauncherActivity}" drawable="applock" />
+    <item component="ComponentInfo{com.domobile.applock/com.domobile.applock.LauncherActivity}" drawable="applock2" />
     <item component="ComponentInfo{com.emeint.android.myservices/vodafone.vis.engezly.ui.screens.splash.activity.SplashRevampActivity}" drawable="vodafone" />
     <item component="ComponentInfo{com.kongregate.mobile.adventurecapitalist.google/com.unity3d.player.UnityPlayerNativeActivity}" drawable="adventurecap" />
     <item component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}" drawable="ms_onenote" />
     <item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.MainActivity}" drawable="shazam" />
     <item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}" drawable="shazam" />
     <item component="ComponentInfo{org.eksin/com.eksin.activity.TopicIndexActivity}" drawable="eksin" />
-    <item component="ComponentInfo{com.kabouzeid.gramophone/com.kabouzeid.gramophone.ui.activities.MainActivity}" drawable="phonograph" />
+    <item component="ComponentInfo{com.kabouzeid.gramophone/com.kabouzeid.gramophone.ui.activities.MainActivity}" drawable="phonograph2" />
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
     <item component="ComponentInfo{org.thunderdog.challegram/org.thunderdog.challegram.MainActivity}" drawable="telegramx" />
     <item component="ComponentInfo{com.google.android.apps.nbu.files/.home.HomeActivity}" drawable="files" />
