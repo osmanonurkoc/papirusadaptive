@@ -9,10 +9,10 @@
 	<color name="light_theme_card_background">#FFFFFF</color>
 	<color name="light_theme_dialogs_button_color">@color/light_theme_accent</color>
 	<color name="splash_light_status_bar">@color/light_theme_primary_dark</color>
-	<color name="dark_theme_primary_dark">#4748ca</color>
-	<color name="dark_theme_primary">#4748ca</color>
-	<color name="dark_theme_accent">#4FDBEC</color>
-	<color name="dark_theme_background">#494949</color>
+	<color name="dark_theme_primary_dark">#2f2f2f</color>
+	<color name="dark_theme_primary">#2f2f2f</color>
+	<color name="dark_theme_accent">#9ab87c</color>
+	<color name="dark_theme_background">##404040</color>
 	<color name="dark_theme_card_background">#424242</color>
 	<color name="dark_theme_dialogs_button_color">@color/dark_theme_accent</color>
 	<color name="splash_dark_status_bar">@color/dark_theme_primary_dark</color>
