@@ -209,6 +209,20 @@
     <item drawable="folder_black_various" />
     <item drawable="folder_black_videos" />
 
+    <category title="Folders Blue" />
+    <item drawable="folder_blue_camera" />
+    <item drawable="folder_blue_documents" />
+    <item drawable="folder_blue_favorites" />
+    <item drawable="folder_blue_games" />
+    <item drawable="folder_blue_internet" />
+    <item drawable="folder_blue_locked" />
+    <item drawable="folder_blue_music" />
+    <item drawable="folder_blue_pictures" />
+    <item drawable="folder_blue_social" />
+    <item drawable="folder_blue_system" />
+    <item drawable="folder_blue_various" />
+    <item drawable="folder_blue_videos" />
+
     <category title="Dynamic Clocks" />
     <item drawable="clock" />
     <item drawable="lineageos_clock" />
