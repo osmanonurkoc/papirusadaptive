@@ -223,6 +223,20 @@
     <item drawable="folder_blue_various" />
     <item drawable="folder_blue_videos" />
 
+    <category title="Folders Green" />
+    <item drawable="folder_Green_camera" />
+    <item drawable="folder_Green_documents" />
+    <item drawable="folder_Green_favorites" />
+    <item drawable="folder_Green_games" />
+    <item drawable="folder_Green_internet" />
+    <item drawable="folder_Green_locked" />
+    <item drawable="folder_Green_music" />
+    <item drawable="folder_Green_pictures" />
+    <item drawable="folder_Green_social" />
+    <item drawable="folder_Green_system" />
+    <item drawable="folder_Green_various" />
+    <item drawable="folder_Green_videos" />
+
     <category title="Dynamic Clocks" />
     <item drawable="clock" />
     <item drawable="lineageos_clock" />
