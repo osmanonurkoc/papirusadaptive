@@ -15,9 +15,9 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="v1.0.0" />
-    <item text="Initial Release" />
-    <item text="" />
-    <item text="" />
-    <item text="" /> <!-- this one is empty and therefore ignored -->
+    <version title="v1.2.0" />
+    <item text="Second Release" />
+    <item text="Added 29 new app icons" />
+    <item text="Added 12 folder icons (Blue,Black,Green variant)" />
+    <item text="Changed version number" /> 
 </resources>
