@@ -195,6 +195,20 @@
     <item drawable="yandex_browser" />
     <item drawable="yandex_disk" />
 
+    <category title="Folders Black" />
+    <item drawable="folder_black_camera" />
+    <item drawable="folder_black_documents" />
+    <item drawable="folder_black_favorites" />
+    <item drawable="folder_black_games" />
+    <item drawable="folder_black_internet" />
+    <item drawable="folder_black_locked" />
+    <item drawable="folder_black_music" />
+    <item drawable="folder_black_pictures" />
+    <item drawable="folder_black_social" />
+    <item drawable="folder_black_system" />
+    <item drawable="folder_black_various" />
+    <item drawable="folder_black_videos" />
+
     <category title="Dynamic Clocks" />
     <item drawable="clock" />
     <item drawable="lineageos_clock" />

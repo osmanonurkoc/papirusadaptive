@@ -11,7 +11,7 @@
         defaultSecond="30" />
 
     <!-- Aosp Dynamic Clock -->
-    <dynamic-clock drawable="lineage_clock"
+    <dynamic-clock drawable="lineageos_clock"
         hourLayerIndex="0"
         minuteLayerIndex="1"
         secondLayerIndex="2"
