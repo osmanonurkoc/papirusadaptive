@@ -223,6 +223,20 @@
     <item drawable="folder_blue_various" />
     <item drawable="folder_blue_videos" />
 
+    <category title="Folders Bluegrey" />
+    <item drawable="folder_bluegrey_camera" />
+    <item drawable="folder_bluegrey_documents" />
+    <item drawable="folder_bluegrey_favorites" />
+    <item drawable="folder_bluegrey_games" />
+    <item drawable="folder_bluegrey_internet" />
+    <item drawable="folder_bluegrey_locked" />
+    <item drawable="folder_bluegrey_music" />
+    <item drawable="folder_bluegrey_pictures" />
+    <item drawable="folder_bluegrey_social" />
+    <item drawable="folder_bluegrey_system" />
+    <item drawable="folder_bluegrey_various" />
+    <item drawable="folder_bluegrey_videos" />
+
     <category title="Folders Green" />
     <item drawable="folder_green_camera" />
     <item drawable="folder_green_documents" />
