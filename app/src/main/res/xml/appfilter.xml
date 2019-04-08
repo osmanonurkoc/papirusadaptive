@@ -10,6 +10,15 @@
         defaultMinute="10"
         defaultSecond="30" />
 
+    <!-- Papirus Dynamic Clock 2 -->
+    <dynamic-clock drawable="clock2"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
     <!-- Aosp Dynamic Clock -->
     <dynamic-clock drawable="lineageos_clock"
         hourLayerIndex="0"
