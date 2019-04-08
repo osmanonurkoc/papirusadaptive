@@ -183,4 +183,16 @@
     <color name="night_mode_background">#834366</color>
     <color name="phonograph2_background">#4F4F4F</color>
     <color name="steam2_background">#192434</color>
+    <color name="adaway_background">#B71C1C</color>
+    <color name="apkeditor_background">#109D8F</color>
+    <color name="browser3_background">#A041CF</color>
+    <color name="clipboard_background">#E0995E</color>
+    <color name="es_file_manager_background">#46B4FC</color>
+    <color name="flash_vpn_background">#EFBD2F</color>
+    <color name="google_camera_background">#E2E3E4</color>
+    <color name="greenify_background">#3CB054</color>
+    <color name="music3_background">#E75177</color>
+    <color name="sound_recorder2_background">#F16D00</color>
+    <color name="videos4_background">#8D348E</color>
+    <color name="music4_background">#2E4068</color>
 </resources>

@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <string-array name="icons_preview">
+    <item>files3</item>
+    <item>music4</item>
+    <item>adaway</item>
+    <item>apkeditor</item>
+    <item>browser3</item>
+    <item>clipboard</item>
+    <item>es_file_manager</item>
+    <item>files2</item>
+    <item>flash_vpn</item>
+    <item>google_camera</item>
+    <item>greenify</item>
+    <item>music3</item>
+    <item>sound_recorder2</item>
+    <item>videos4</item>
     <item>applock2</item>
     <item>azan_time</item>
     <item>calculator2</item>
