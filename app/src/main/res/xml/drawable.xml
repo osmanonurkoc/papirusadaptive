@@ -281,6 +281,7 @@
 
     <category title="Dynamic Clocks" />
     <item drawable="clock" />
+    <item drawable="clock2" />
     <item drawable="lineageos_clock" />
     <item drawable="dynamic_clock2" />
     <item drawable="dynamic_clock3" />
