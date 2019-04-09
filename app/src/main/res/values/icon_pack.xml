@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <string-array name="icons_preview">
+    <item>health</item>
+    <item>movie_creator</item>
+    <item>camera3</item>
     <item>clock2</item>
     <item>files3</item>
     <item>music4</item>

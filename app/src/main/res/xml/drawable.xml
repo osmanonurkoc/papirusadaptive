@@ -12,6 +12,7 @@
     <item drawable="calendar2" />
     <item drawable="camera" />
     <item drawable="camera2" />
+    <item drawable="camera3" />
     <item drawable="clock" />
     <item drawable="contacts" />
     <item drawable="contacts2" />
@@ -134,6 +135,7 @@
     <item drawable="github" />
     <item drawable="github2" />
     <item drawable="greenify" />
+    <item drawable="health" />
     <item drawable="hp" />
     <item drawable="instagram" />
     <item drawable="java" />
@@ -147,6 +149,7 @@
     <item drawable="maxthon_browser" />
     <item drawable="mega" />
     <item drawable="mendeley" />
+    <item drawable="movie_creator" />
     <item drawable="ms_excel" />
     <item drawable="ms_excel2" />
     <item drawable="ms_powerpoint" />

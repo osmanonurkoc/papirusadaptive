@@ -195,4 +195,6 @@
     <color name="sound_recorder2_background">#F16D00</color>
     <color name="videos4_background">#8D348E</color>
     <color name="music4_background">#2E4068</color>
+    <color name="camera3_background">#EF1346</color>
+    <color name="health_background">#f2ee71</color>
 </resources>
