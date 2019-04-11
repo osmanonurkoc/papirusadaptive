@@ -17,6 +17,7 @@
     <item drawable="contacts" />
     <item drawable="contacts2" />
     <item drawable="dialer" />
+    <item drawable="dialer2" />
     <item drawable="downloads" />
     <item drawable="downloads2" />
     <item drawable="equalizer" />
@@ -42,12 +43,14 @@
     <item drawable="settings2" />
     <item drawable="terminal" />
     <item drawable="themes" />
+    <item drawable="themes2" />
     <item drawable="videos" />
     <item drawable="videos2" />
     <item drawable="videos3" />
     <item drawable="videos4" />
     <item drawable="sound_recorder" />
     <item drawable="sound_recorder2" />
+    <item drawable="stk" />
 
     <category title="Google" />
     <item drawable="google_admin" />
@@ -84,6 +87,7 @@
 
     <category title="Apps" />
     <item drawable="game_2048" />
+    <item drawable="activity_browser" />
     <item drawable="adaway" />
     <item drawable="adobe_photoshop" />
     <item drawable="adobe_reader" />
@@ -127,6 +131,7 @@
     <item drawable="fdroid" />
     <item drawable="firefox" />
     <item drawable="firefox_focus" />
+    <item drawable="flashlight" />
     <item drawable="flash_vpn" />
     <item drawable="flickr" />
     <item drawable="foursquare" />
@@ -135,12 +140,15 @@
     <item drawable="github" />
     <item drawable="github2" />
     <item drawable="greenify" />
+    <item drawable="guard" />
+    <item drawable="hangman" />
     <item drawable="health" />
     <item drawable="hp" />
     <item drawable="instagram" />
     <item drawable="java" />
     <item drawable="kdeconnect" />
     <item drawable="launcher" />
+    <item drawable="launcher3" />
     <item drawable="last_fm" />
     <item drawable="league_of_legends" />
     <item drawable="mailru" />
@@ -171,10 +179,12 @@
     <item drawable="phonograph2" />
     <item drawable="php" />
     <item drawable="pocket" />
+    <item drawable="radio2" />
     <item drawable="rar" />
     <item drawable="reddit" />
     <item drawable="root" />
     <item drawable="qr_reader" />
+    <item drawable="screen_recorder" />
     <item drawable="shazam" />
     <item drawable="signal" />
     <item drawable="skype" />
@@ -182,6 +192,7 @@
     <item drawable="slack2" />
     <item drawable="soundcloud" />
     <item drawable="sportstracker" />
+    <item drawable="sportstracker2" />
     <item drawable="spotify" />
     <item drawable="steam" />
     <item drawable="steam2" />

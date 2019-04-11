@@ -197,4 +197,14 @@
     <color name="music4_background">#2E4068</color>
     <color name="camera3_background">#EF1346</color>
     <color name="health_background">#f2ee71</color>
+    <color name="activity_browser_background">#AFAFB1</color>
+    <color name="dialer2_background">#FB8C15</color>
+    <color name="flashlight_background">#2C98E0</color>
+    <color name="guard_background">#2F91C9</color>
+    <color name="hangman_background">#7160BD</color>
+    <color name="launcher3_background">#D8D8D8</color>
+    <color name="radio2_background">#FFC543</color>
+    <color name="sportstracker2_background">#515151</color>
+    <color name="stk_background">#ECECEC</color>
+    <color name="themes2_background">#4F4F4F</color>
 </resources>

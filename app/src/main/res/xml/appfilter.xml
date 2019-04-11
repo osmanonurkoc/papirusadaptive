@@ -90,6 +90,7 @@
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="settings" />
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="stk" />
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" drawable="stk" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherListActivity}" drawable="stk" />
     <item component="ComponentInfo{com.android.fmradio/com.android.fmradio.FmMainActivity}" drawable="radio" />
     <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="sound_recorder" />
 
@@ -139,18 +140,21 @@
     <item component="ComponentInfo{com.asus.deskclock/com.asus.deskclock.DeskClock}" drawable="clock2" />
     <item component="ComponentInfo{com.asus.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts2" />
     <item component="ComponentInfo{com.asus.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="dialer" />
-    <item component="ComponentInfo{com.asus.filemanager/com.asus.filemanager.activity.FileManagerActivity}" drawable="files2" />
+    <item component="ComponentInfo{com.asus.filemanager/com.asus.filemanager.activity.FileManagerActivity}" drawable="files3" />
     <item component="ComponentInfo{com.asus.gallery/com.asus.gallery.app.EPhotoActivity}" drawable="gallery2" />
     <item component="ComponentInfo{com.asus.email/com.android.email.activity.Welcome}" drawable="mail2" />
-    <item component="ComponentInfo{com.asus.message/com.android.mms.ui.ConversationList}" drawable="messages2" />
+    <item component="ComponentInfo{com.asus.message/com.android.mms.ui.ConversationList}" drawable="messages4" />
     <item component="ComponentInfo{com.asus.quickmemo/com.asus.quickmemo.activities.edit.MemoEditActivity}" drawable="notes2" />
     <item component="ComponentInfo{com.asus.supernote/com.asus.supernote.picker.NoteBookPickerActivity}" drawable="notes" />
     <item component="ComponentInfo{com.asus.music/com.asus.music.MusicMainActivity}" drawable="music3" />
-    <item component="ComponentInfo{com.asus.fmradio/com.asus.fmradio.FMRadioUIv3}" drawable="radio" />
+    <item component="ComponentInfo{com.asus.fmradio/com.asus.fmradio.FMRadioUIv3}" drawable="radio2" />
+    <item component="ComponentInfo{com.asus.fmradio/com.asus.fmradio.FMRadioUIv2}" drawable="radio" />
     <item component="ComponentInfo{com.asus.soundrecorder/com.asus.soundrecorder.AsusRecorder}" drawable="sound_recorder" />
     <item component="ComponentInfo{com.asus.task/com.asus.task.activity.TaskActivity}" drawable="doit" />
     <item component="ComponentInfo{com.asus.microfilm/com.asus.microfilm.tab.TabMainActivity}" drawable="movie_creator" />
     <item component="ComponentInfo{com.asus.weathertime/com.asus.weathertime.WeatherTimeSettings}" drawable="weather" />
+    <item component="ComponentInfo{com.asus.flashlight/com.asus.flashlight.FlashLightMainActivity}" drawable="flashlight" />
+    <item component="ComponentInfo{com.asus.themeapp/com.asus.themeapp.ThemeAppActivity}" drawable="themes2" />
 
     <!-- Essential -->
     <item component="ComponentInfo{com.essential.klik/com.essential.klik.Camera}" drawable="camera2" />
@@ -158,12 +162,15 @@
     <!-- Mediatek -->
     <item component="ComponentInfo{com.mediatek.camera/com.android.camera.CameraLauncher}" drawable="camera2" />
     <item component="ComponentInfo{com.mediatek.filemanager/com.mediatek.filemanager.FileManagerOperationActivity}" drawable="files2" />
+    <item component="ComponentInfo{com.mediatek.FMRadio/com.mediatek.FMRadio.FMRadioActivity}" drawable="radio" />
+    <item component="ComponentInfo{com.mediatek.StkSelection/com.mediatek.StkSelection.StkSelection}" drawable="stk" />
 
     <!-- HTC -->
     <item component="ComponentInfo{com.htc.sense.browser/com.htc.sense.browser.BrowserActivity}" drawable="browser2" />
     <item component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}" drawable="calendar" />
     <calendar component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}" prefix="logo_calendar_" />
     <item component="ComponentInfo{com.htc.camera2/com.htc.camera2.CameraEntry}" drawable="camera"/>
+    <item component="ComponentInfo{com.htc.camera/com.htc.camera.CameraEntry}" drawable="camera" />
     <item component="ComponentInfo{com.htc.android.worldclock/com.htc.android.worldclock.WorldClockTabControl}" drawable="clock2" />
     <item component="ComponentInfo{com.htc.contacts/com.htc.contacts.BrowseLayerCarouselActivity}" drawable="contacts2" />
     <item component="ComponentInfo{com.android.incallui/com.android.incallui.DialerLauncher}" drawable="dialer" />
@@ -175,9 +182,12 @@
     <item component="ComponentInfo{com.htc.sense.mms/com.htc.sense.mms.ui.ConversationList}" drawable="messages2" />
     <item component="ComponentInfo{com.htc.lucy/com.htc.lucy.editor.LandingActivity}" drawable="notes" />
     <item component="ComponentInfo{com.htc.music/com.htc.music.browserlayer.MusicBrowserTabActivity}" drawable="music" />
-    <item component="ComponentInfo{com.htc.fm/com.htc.fm.ap.activity.FMRadioMain}" drawable="radio" />
+    <item component="ComponentInfo{com.htc.fm/com.htc.fm.ap.activity.FMRadioMain}" drawable="radio2" />
     <item component="ComponentInfo{com.htc.soundrecorder/com.htc.soundrecorder.SoundRecorderBG}" drawable="sound_recorder" />
     <item component="ComponentInfo{com.android.settings/com.android.settings.framework.activity.HtcSettings}" drawable="settings2" />
+    <item component="ComponentInfo{com.htc.flashlight/com.htc.flashlight.FlashlightActivity}" drawable="flashlight" />
+    <item component="ComponentInfo{com.htc.Weather/com.htc.Weather.WeatherEntry}" drawable="weather" />
+    <item component="ComponentInfo{com.htc.Weather/com.htc.Weather.WeatherEntryAlias}" drawable="weather"/>
 
     <!-- Huawei -->
     <item component="ComponentInfo{com.huawei.camera/com.huawei.camera}" drawable="camera"/>
@@ -187,6 +197,14 @@
     <item component="ComponentInfo{com.android.gallery3d/com.huawei.gallery.app.GalleryMain}" drawable="gallery2" />
     <item component="ComponentInfo{com.example.android.notepad/com.example.android.notepad.NotePadActivity}" drawable="notes" />
     <item component="ComponentInfo{com.android.settings/com.android.settings.HWSettings}" drawable="settings2" />
+    <item component="ComponentInfo{com.android.systemui/com.android.systemui.flashlight.FlashlightActivity}" drawable="flaslight"/>
+    <item component="ComponentInfo{com.huawei.android.FMRadio/com.huawei.android.FMRadio.FMRadioMainActivity}" drawable="radio2"/>
+    <item component="ComponentInfo{com.huawei.android.FMRadio/com.huawei.android.FMRadio.FmRadioActivity}" drawable="radio2"/>
+    <item component="ComponentInfo{com.android.mediacenter/com.android.mediacenter.PageActivity}" drawable="music3"/>
+    <item component="ComponentInfo{com.example.android.notepad/com.example.android.notepad.NotePadActivity}" drawable="notes2"/>
+    <item component="ComponentInfo{com.huawei.android.thememanager/com.huawei.android.thememanager.HwThemeManagerActivity}" drawable="themes2"/>
+    <item component="ComponentInfo{com.huawei.hwvplayer/com.huawei.hwvplayer.framework.MainActivity}" drawable="videos"/>
+    <item component="ComponentInfo{com.huawei.android.totemweather/com.huawei.android.totemweather.WeatherHome}" drawable="weather2"/>
 
     <!-- LG -->
     <item component="ComponentInfo{com.lge.camera/com.lge.camera.CameraAppLauncher}" drawable="camera"/>
@@ -195,9 +213,12 @@
     <item component="ComponentInfo{com.lge.email/com.lge.email.ui.setupwizard.Welcome}" drawable="mail2" />
     <item component="ComponentInfo{com.lge.qmemoplus/com.lge.qmemoplus.ui.main.MainActivity}" drawable="notes" />
     <item component="ComponentInfo{com.lge.music/com.lge.music.MusicBrowserActivity}" drawable="music3" />
-    <item component="ComponentInfo{com.lge.fmradio/com.lge.fmradio.IntroActivity}" drawable="radio" />
+    <item component="ComponentInfo{com.lge.fmradio/com.lge.fmradio.IntroActivity}" drawable="radio2" />
     <item component="ComponentInfo{com.lge.voicerecorder/com.lge.voicerecorder.VoiceRecorder}" drawable="sound_recorder" />
-    <item component="ComponentInfo{com.lge.lifetracker/com.lge.lifetracker.ui.MainActivity}" drawable="sportstracker" />
+    <item component="ComponentInfo{com.lge.lifetracker/com.lge.lifetracker.ui.MainActivity}" drawable="sportstracker2" />
+    <item component="ComponentInfo{com.lge.voicerecorder/com.lge.voicerecorder.LaunchVoiceRecorder}" drawable="sound_recorder"/>
+    <item component="ComponentInfo{com.lge.hifirecorder/com.lge.hifirecorder.LaunchHifiRecorder}" drawable="sound_recorder"/>
+    <item component="ComponentInfo{com.LgG4.camera/com.geak.camera.MainActivity}" drawable="camera" />
 
     <!-- Lenovo -->
     <item component="ComponentInfo{com.lenovo.scg/com.lenovo.scg.camera.CameraLauncher}" drawable="camera"/>
@@ -208,7 +229,11 @@
     <item component="ComponentInfo{com.lenovo.FileBrowser/com.lenovo.FileBrowser.activities.FileBrowserMain}" drawable="files2" />
     <item component="ComponentInfo{com.lenovo.gallery/com.lenovo.gallery.app.GalleryActivity}" drawable="gallery2" />
     <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.MmsActivity}" drawable="messages2" />
-    <item component="ComponentInfo{com.lenovo.music/com.lenovo.music.ui.LeAppLoadingActivity}" drawable="music" />
+    <item component="ComponentInfo{com.lenovo.music/com.lenovo.music.ui.LeAppLoadingActivity}" drawable="music3" />
+    <item component="ComponentInfo{com.lenovo.fm/com.lenovo.fm.LenovoMainActivity}" drawable="radio2" />
+    <item component="ComponentInfo{com.lenovo.recorder/com.lenovo.recorder.SoundRecorder}" drawable="sound_recorder" />
+    <item component="ComponentInfo{com.lenovo.themecenter/com.lenovo.themecenter.LoadingActivity}" drawable="themes2" />
+
 
     <!-- Motorola -->
     <item component="ComponentInfo{com.motorola.camera/com.motorola.camera.Camera}" drawable="camera2" />
@@ -218,7 +243,8 @@
     <item component="ComponentInfo{com.lenovo.FileBrowser2/com.lenovo.FileBrowser.activities.FileBrowserMain}" drawable="files2" />
     <item component="ComponentInfo{com.motorola.MotGallery2/com.android.gallery3d.app.GalleryActivity}" drawable="gallery2" />
     <item component="ComponentInfo{com.motorola.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="messages2" />
-    <item component="ComponentInfo{com.motorola.fmplayer/com.motorola.fmplayer.ChangeThemeActivity}" drawable="radio" />
+    <item component="ComponentInfo{com.motorola.fmplayer/com.motorola.fmplayer.ChangeThemeActivity}" drawable="radio2" />
+    <item component="ComponentInfo{com.motorola.fmplayer/com.motorola.fmplayer.FMMainActivity}" drawable="radio"/>
     <item component="ComponentInfo{com.motorola.email/com.android.email.activity.ComposeActivityEmail}" drawable="mail" />
 
     <!-- Nextbit -->
@@ -245,7 +271,11 @@
     <item component="ComponentInfo{com.android.email/com.kingsoft.email.activity.Welcome}" drawable="mail" />
     <item component="ComponentInfo{com.oppo.filemanager/com.oppo.filemanager.Main}" drawable="files2" />
     <item component="ComponentInfo{com.oppo.gallery3d/com.oppo.gallery3d.app.Gallery}" drawable="gallery2" />
-    <item component="ComponentInfo{com.android.settings/com.oppo.settings.SettingsActivity}" drawable="settings" />
+    <item component="ComponentInfo{com.android.settings/com.oppo.settings.SettingsActivity}" drawable="settings2" />
+    <item component="ComponentInfo{com.android.providers.downloads/com.android.providers.downloads.ui.DownloadList}" drawable="downloads2" />
+    <item component="ComponentInfo{com.oppo.music/com.oppo.music.MainListActivity}" drawable="oppo_music" />
+    <item component="ComponentInfo{com.oppo.safe/com.oppo.safe.SecureSafeMainActivity}" drawable="guard" />
+    <item component="ComponentInfo{com.nearme.themespace/com.nearme.themespace.activities.ThemeActivity}" drawable="themes2" />
 
     <!-- Samsung -->
     <item component="ComponentInfo{com.sec.android.app.sbrowser.beta/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="browser3" />
@@ -266,15 +296,17 @@
     <item component="ComponentInfo{com.samsung.android.app.notes/com.samsung.android.app.notes.memolist.MemoListActivity}" drawable="notes2" />
     <item component="ComponentInfo{com.sec.android.app.translator/com.sec.android.app.translator.MainActivity}" drawable="translate" />
     <item component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.common.activity.MusicMainActivity}" drawable="music4" />
-    <item component="ComponentInfo{com.sec.android.app.fm/com.sec.android.app.fm.MainActivity}" drawable="radio" />
+    <item component="ComponentInfo{com.sec.android.app.fm/com.sec.android.app.fm.MainActivity}" drawable="radio2" />
     <item component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}" drawable="sound_recorder2" />
     <item component="ComponentInfo{com.samsung.android.videolist/com.samsung.android.videolist.list.activity.VideoList}" drawable="videos4" />
     <item component="ComponentInfo{com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity}" drawable="health" />
-    <item component="ComponentInfo{com.samsung.android.themestore/com.samsung.android.themestore.activity.Launcher}" drawable="themes" />
+    <item component="ComponentInfo{com.samsung.android.themestore/com.samsung.android.themestore.activity.Launcher}" drawable="themes2" />
     <item component="ComponentInfo{com.samsung.android.snote/com.samsung.android.snote.control.ui.filemanager.MainHomeActivity}" drawable="notes" />
     <item component="ComponentInfo{com.samsung.android.spdfnote/spdfnote.control.ui.filemanager.MainHomeActivity}" drawable="google_pdf" />
 
     <!-- Sony -->
+    <item component="ComponentInfo{com.sonymobile.calendar/com.sonymobile.calendar.LaunchActivity}" drawable="calendar" />
+    <calendar component="ComponentInfo{com.sonymobile.calendar/com.sonymobile.calendar.LaunchActivity}" prefix="logo_calendar_" />
     <item component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}" drawable="camera"/>
     <item component="ComponentInfo{com.sonyericsson.organizer/com.sonyericsson.organizer.Organizer}" drawable="clock2" />
     <item component="ComponentInfo{com.sonymobile.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts2" />
@@ -289,6 +321,10 @@
     <item component="ComponentInfo{com.sonymobile.lifelog/com.sonymobile.lifelog.login.StartActivity}" drawable="fit2" />
     <item component="ComponentInfo{com.sonymobile.moviecreator.rmm/com.sonymobile.moviecreator.rmm.LaunchActivity}" drawable="movie_creator" />
     <item component="ComponentInfo{com.sonymobile.xperiaweather/com.sonymobile.xperiaweather.MainActivity}" drawable="weather2" />
+    <item component="ComponentInfo{com.sonymobile.runtimeskinning.picker/com.sonymobile.runtimeskinning.picker.SkinPickerActivity}" drawable="themes2" />
+    <item component="ComponentInfo{com.sonymobile.runtimeskinning.picker/com.sonymobile.runtimeskinning.picker.PackagePickerActivity}" drawable="themes2" />
+    <item component="ComponentInfo{com.sonymobile.runtimeskinning.picker/com.sonymobile.runtimeskinning.picker.ApplySkinActivity}" drawable="themes2" />
+    <item component="ComponentInfo{com.sonymobile.runtimeskinning.picker/com.sonymobile.runtimeskinning.picker.AutoApplySkinActivity}" drawable="themes2" />
 
     <!-- Xiaomi -->
     <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="browser2" />
@@ -297,17 +333,20 @@
     <item component="ComponentInfo{com.miui.calculator/com.miui.calculator.cal.CalculatorActivity}" drawable="calculator2" />
     <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClockTabActivity}" drawable="clock2" />
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.TwelveKeyDialer}" drawable="dialer" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.TwelveKeyDialer}" drawable="dialer" />
     <item component="ComponentInfo{com.android.fileexplorer/com.android.fileexplorer.FileExplorerTabActivity}" drawable="files2" />
     <item component="ComponentInfo{com.mi.android.globalFileexplorer/com.android.fileexplorer.FileExplorerTabActivity}" drawable="files2" />
     <item component="ComponentInfo{com.miui.gallery/com.miui.gallery.activity.HomePageActivity}" drawable="gallery2" />
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.MmsTabActivity}" drawable="messages2" />
     <item component="ComponentInfo{com.miui.notes/com.miui.notes.ui.NotesListActivity}" drawable="notes" />
     <item component="ComponentInfo{com.miui.player/com.miui.player.ui.MusicBrowserActivity}" drawable="music3" />
-    <item component="ComponentInfo{com.miui.fm/com.miui.fmradio.FmActivity}" drawable="radio" />
+    <item component="ComponentInfo{com.miui.fm/com.miui.fmradio.FmActivity}" drawable="radio2" />
     <item component="ComponentInfo{com.miui.videoplayer/com.miui.video.global.app.LauncherActivity}" drawable="videos2" />
     <item component="ComponentInfo{com.android.settings/com.android.settings.MainSettings}" drawable="settings" />
     <item component="ComponentInfo{com.miui.weather2/com.miui.weather2.ActivityWeatherMain}" drawable="weather" />
-    <item component="ComponentInfo{com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity}" drawable="themes" />
+    <item component="ComponentInfo{com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity}" drawable="themes2" />
+    <item component="ComponentInfo{com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity}" drawable="screen_recorder" />
+    <item component="ComponentInfo{com.miui.securitycenter/com.miui.securityscan.MainActivity}" drawable="guard" />
 
     <!-- LineageOS -->
     <item component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}" drawable="browser" />

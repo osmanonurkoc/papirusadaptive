@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <string-array name="icons_preview">
+    <item>guard</item>
+    <item>stk</item>
+    <item>themes2</item>
+    <item>dialer2</item>
+    <item>launcher3</item>
+    <item>radio2</item>
+    <item>screen_recorder</item>
+    <item>hangman</item>
+    <item>flashlight</item>
+    <item>sportstracker2</item>
+    <item>activity_browser</item>
     <item>health</item>
     <item>movie_creator</item>
     <item>camera3</item>
