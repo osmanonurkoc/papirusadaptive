@@ -207,4 +207,6 @@
     <color name="sportstracker2_background">#515151</color>
     <color name="stk_background">#ECECEC</color>
     <color name="themes2_background">#4F4F4F</color>
+    <color name="dialer3_background">#FFC10A</color>
+    <color name="google_dialer_background">#5068F0</color>
 </resources>

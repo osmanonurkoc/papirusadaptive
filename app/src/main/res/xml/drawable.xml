@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.2" encoding="utf-8"?>
 <resources>
-    <version>1</version>
+    <version>1.2</version>
   
     <category title="System" />
     <item drawable="browser" />
@@ -18,6 +18,7 @@
     <item drawable="contacts2" />
     <item drawable="dialer" />
     <item drawable="dialer2" />
+    <item drawable="dialer3" />
     <item drawable="downloads" />
     <item drawable="downloads2" />
     <item drawable="equalizer" />
@@ -58,6 +59,7 @@
     <item drawable="google_calendar" />
     <item drawable="google_camera" />
     <item drawable="google_chrome" />
+    <item drawable="google_dialer" />
     <item drawable="google_documents" />
     <item drawable="google_drive" />
     <item drawable="google_drive2" />
