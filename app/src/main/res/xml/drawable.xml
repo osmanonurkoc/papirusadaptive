@@ -295,6 +295,20 @@
     <item drawable="folder_green_various" />
     <item drawable="folder_green_videos" />
 
+    <category title="Folders Indigo" />
+    <item drawable="folder_indigo_camera" />
+    <item drawable="folder_indigo_documents" />
+    <item drawable="folder_indigo_favorites" />
+    <item drawable="folder_indigo_games" />
+    <item drawable="folder_indigo_internet" />
+    <item drawable="folder_indigo_locked" />
+    <item drawable="folder_indigo_music" />
+    <item drawable="folder_indigo_pictures" />
+    <item drawable="folder_indigo_social" />
+    <item drawable="folder_indigo_system" />
+    <item drawable="folder_indigo_various" />
+    <item drawable="folder_indigo_videos" />
+
     <category title="Dynamic Clocks" />
     <item drawable="clock" />
     <item drawable="clock2" />
