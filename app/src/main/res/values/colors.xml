@@ -121,7 +121,7 @@
     <color name="papirus_mega_background">#E32037</color>
     <color name="papirus_mendeley_background">#BE212E</color>
     <color name="papirus_messages2_background">#2A5083</color>
-    <color name="papirus_messages3_background">#5068F0</color>
+    <color name="google_messages_background">#5068F0</color>
     <color name="papirus_movies_background">#FECD38</color>
     <color name="papirus_ms_onedrive_background">#EEF8FF</color>
     <color name="papirus_opera_background">#D2D2D2</color>
@@ -168,7 +168,7 @@
     <color name="downloads2_background">#78BA26</color>
     <color name="fit2_background">#0FBBAF</color>
     <color name="gallery2_background">#FFC567</color>
-    <color name="messages4_background">#28940F</color>
+    <color name="messages3_background">#28940F</color>
     <color name="notes2_background">#FECD38</color>
     <color name="rose_background">#1CA74D</color>
     <color name="settings2_background">#8F8F8F</color>
@@ -209,4 +209,8 @@
     <color name="themes2_background">#4F4F4F</color>
     <color name="dialer3_background">#FFC10A</color>
     <color name="google_dialer_background">#5068F0</color>
+    <color name="google_contacts_background">#5068F0</color>
+    <color name="iscep_background">#08335E</color>
+    <color name="yapikredi_background">#1F4677</color>
+    <color name="ziraat_background">#ED1C24</color>
 </resources>

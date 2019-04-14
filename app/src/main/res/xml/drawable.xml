@@ -1,7 +1,5 @@
 <?xml version="1.2" encoding="utf-8"?>
 <resources>
-    <version>1.2</version>
-  
     <category title="System" />
     <item drawable="browser" />
     <item drawable="browser2" />
@@ -25,6 +23,7 @@
     <item drawable="files" />
     <item drawable="files2" />
     <item drawable="files3" />
+    <item drawable="fit" />
     <item drawable="gallery" />
     <item drawable="gallery2" />
     <item drawable="mail" />
@@ -33,13 +32,13 @@
     <item drawable="messages" />
     <item drawable="messages2" />
     <item drawable="messages3" />
-    <item drawable="messages4" />
     <item drawable="music" />
     <item drawable="music3" />
     <item drawable="music4" />
     <item drawable="notes" />
     <item drawable="notes2" />
     <item drawable="radio" />
+    <item drawable="radio2" />
     <item drawable="settings" />
     <item drawable="settings2" />
     <item drawable="terminal" />
@@ -57,34 +56,36 @@
     <item drawable="google_admin" />
     <item drawable="google_artsandculture" />
     <item drawable="google_calendar" />
+    <item drawable="google_calculator" />
     <item drawable="google_camera" />
+    <item drawable="google_contacts" />
     <item drawable="google_chrome" />
     <item drawable="google_dialer" />
     <item drawable="google_documents" />
     <item drawable="google_drive" />
     <item drawable="google_drive2" />
     <item drawable="google_duo" />
-    <item drawable="earth" />
-    <item drawable="fit" />
-    <item drawable="fit2" />
+    <item drawable="google_earth" />
+    <item drawable="google_fit" />
     <item drawable="gmail" />
     <item drawable="gmail2" />
     <item drawable="hangouts" />
     <item drawable="google_keep" />
-    <item drawable="maps" />
+    <item drawable="google_maps" />
+    <item drawable="google_messages" />
     <item drawable="opinion_rewards" />
     <item drawable="google_pdf" />
-    <item drawable="books" />
-    <item drawable="games" />
-    <item drawable="movies" />
-    <item drawable="music2" />
+    <item drawable="play_books" />
+    <item drawable="play_games" />
+    <item drawable="play_movies" />
+    <item drawable="play_music" />
     <item drawable="google_photos" />
-    <item drawable="store" />
+    <item drawable="playstore" />
     <item drawable="google" />
     <item drawable="google_sheets" />
     <item drawable="google_slides" />
     <item drawable="snapseed" />
-    <item drawable="translate" />
+    <item drawable="google_translate" />
     <item drawable="youtube" />
 
     <category title="Apps" />
@@ -147,6 +148,7 @@
     <item drawable="health" />
     <item drawable="hp" />
     <item drawable="instagram" />
+    <item drawable="iscep" />
     <item drawable="java" />
     <item drawable="kdeconnect" />
     <item drawable="launcher" />
@@ -181,7 +183,6 @@
     <item drawable="phonograph2" />
     <item drawable="php" />
     <item drawable="pocket" />
-    <item drawable="radio2" />
     <item drawable="rar" />
     <item drawable="reddit" />
     <item drawable="root" />
@@ -224,6 +225,8 @@
     <item drawable="yahoo_mail" />
     <item drawable="yandex_browser" />
     <item drawable="yandex_disk" />
+    <item drawable="yapikredi" />
+    <item drawable="ziraat" />
 
     <category title="Folders Black" />
     <item drawable="folder_black_camera" />
@@ -281,6 +284,20 @@
     <item drawable="folder_brown_various" />
     <item drawable="folder_brown_videos" />
 
+    <category title="Folders Cyan" />
+    <item drawable="folder_cyan_camera" />
+    <item drawable="folder_cyan_documents" />
+    <item drawable="folder_cyan_favorites" />
+    <item drawable="folder_cyan_games" />
+    <item drawable="folder_cyan_internet" />
+    <item drawable="folder_cyan_locked" />
+    <item drawable="folder_cyan_music" />
+    <item drawable="folder_cyan_pictures" />
+    <item drawable="folder_cyan_social" />
+    <item drawable="folder_cyan_system" />
+    <item drawable="folder_cyan_various" />
+    <item drawable="folder_cyan_videos" />
+
     <category title="Folders Green" />
     <item drawable="folder_green_camera" />
     <item drawable="folder_green_documents" />
@@ -295,6 +312,20 @@
     <item drawable="folder_green_various" />
     <item drawable="folder_green_videos" />
 
+    <category title="Folders Grey" />
+    <item drawable="folder_grey_camera" />
+    <item drawable="folder_grey_documents" />
+    <item drawable="folder_grey_favorites" />
+    <item drawable="folder_grey_games" />
+    <item drawable="folder_grey_internet" />
+    <item drawable="folder_grey_locked" />
+    <item drawable="folder_grey_music" />
+    <item drawable="folder_grey_pictures" />
+    <item drawable="folder_grey_social" />
+    <item drawable="folder_grey_system" />
+    <item drawable="folder_grey_various" />
+    <item drawable="folder_grey_videos" />
+
     <category title="Folders Indigo" />
     <item drawable="folder_indigo_camera" />
     <item drawable="folder_indigo_documents" />
@@ -308,6 +339,104 @@
     <item drawable="folder_indigo_system" />
     <item drawable="folder_indigo_various" />
     <item drawable="folder_indigo_videos" />
+
+    <category title="Folders Magenta" />
+    <item drawable="folder_magenta_camera" />
+    <item drawable="folder_magenta_documents" />
+    <item drawable="folder_magenta_favorites" />
+    <item drawable="folder_magenta_games" />
+    <item drawable="folder_magenta_internet" />
+    <item drawable="folder_magenta_locked" />
+    <item drawable="folder_magenta_music" />
+    <item drawable="folder_magenta_pictures" />
+    <item drawable="folder_magenta_social" />
+    <item drawable="folder_magenta_system" />
+    <item drawable="folder_magenta_various" />
+    <item drawable="folder_magenta_videos" />
+
+    <category title="Folders Orange" />
+    <item drawable="folder_orange_camera" />
+    <item drawable="folder_orange_documents" />
+    <item drawable="folder_orange_favorites" />
+    <item drawable="folder_orange_games" />
+    <item drawable="folder_orange_internet" />
+    <item drawable="folder_orange_locked" />
+    <item drawable="folder_orange_music" />
+    <item drawable="folder_orange_pictures" />
+    <item drawable="folder_orange_social" />
+    <item drawable="folder_orange_system" />
+    <item drawable="folder_orange_various" />
+    <item drawable="folder_orange_videos" />
+
+    <category title="Folders Pink" />
+    <item drawable="folder_pink_camera" />
+    <item drawable="folder_pink_documents" />
+    <item drawable="folder_pink_favorites" />
+    <item drawable="folder_pink_games" />
+    <item drawable="folder_pink_internet" />
+    <item drawable="folder_pink_locked" />
+    <item drawable="folder_pink_music" />
+    <item drawable="folder_pink_pictures" />
+    <item drawable="folder_pink_social" />
+    <item drawable="folder_pink_system" />
+    <item drawable="folder_pink_various" />
+    <item drawable="folder_pink_videos" />
+
+    <category title="Folders Red" />
+    <item drawable="folder_red_camera" />
+    <item drawable="folder_red_documents" />
+    <item drawable="folder_red_favorites" />
+    <item drawable="folder_red_games" />
+    <item drawable="folder_red_internet" />
+    <item drawable="folder_red_locked" />
+    <item drawable="folder_red_music" />
+    <item drawable="folder_red_pictures" />
+    <item drawable="folder_red_social" />
+    <item drawable="folder_red_system" />
+    <item drawable="folder_red_various" />
+    <item drawable="folder_red_videos" />
+
+    <category title="Folders Teal" />
+    <item drawable="folder_teal_camera" />
+    <item drawable="folder_teal_documents" />
+    <item drawable="folder_teal_favorites" />
+    <item drawable="folder_teal_games" />
+    <item drawable="folder_teal_internet" />
+    <item drawable="folder_teal_locked" />
+    <item drawable="folder_teal_music" />
+    <item drawable="folder_teal_pictures" />
+    <item drawable="folder_teal_social" />
+    <item drawable="folder_teal_system" />
+    <item drawable="folder_teal_various" />
+    <item drawable="folder_teal_videos" />
+
+    <category title="Folders Violet" />
+    <item drawable="folder_violet_camera" />
+    <item drawable="folder_violet_documents" />
+    <item drawable="folder_violet_favorites" />
+    <item drawable="folder_violet_games" />
+    <item drawable="folder_violet_internet" />
+    <item drawable="folder_violet_locked" />
+    <item drawable="folder_violet_music" />
+    <item drawable="folder_violet_pictures" />
+    <item drawable="folder_violet_social" />
+    <item drawable="folder_violet_system" />
+    <item drawable="folder_violet_various" />
+    <item drawable="folder_violet_videos" />
+
+    <category title="Folders Yellow" />
+    <item drawable="folder_yellow_camera" />
+    <item drawable="folder_yellow_documents" />
+    <item drawable="folder_yellow_favorites" />
+    <item drawable="folder_yellow_games" />
+    <item drawable="folder_yellow_internet" />
+    <item drawable="folder_yellow_locked" />
+    <item drawable="folder_yellow_music" />
+    <item drawable="folder_yellow_pictures" />
+    <item drawable="folder_yellow_social" />
+    <item drawable="folder_yellow_system" />
+    <item drawable="folder_yellow_various" />
+    <item drawable="folder_yellow_videos" />
 
     <category title="Dynamic Clocks" />
     <item drawable="clock" />

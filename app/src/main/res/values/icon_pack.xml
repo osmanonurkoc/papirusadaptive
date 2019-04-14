@@ -1,144 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <string-array name="icons_preview">
-    <item>dialer3</item>
-    <item>google_dialer</item>
-    <item>guard</item>
-    <item>stk</item>
-    <item>themes2</item>
-    <item>dialer2</item>
-    <item>launcher3</item>
-    <item>radio2</item>
-    <item>screen_recorder</item>
-    <item>hangman</item>
-    <item>flashlight</item>
-    <item>sportstracker2</item>
-    <item>activity_browser</item>
-    <item>health</item>
-    <item>movie_creator</item>
-    <item>camera3</item>
-    <item>clock2</item>
-    <item>files3</item>
-    <item>music4</item>
-    <item>adaway</item>
-    <item>apkeditor</item>
-    <item>browser3</item>
-    <item>clipboard</item>
-    <item>es_file_manager</item>
-    <item>files2</item>
-    <item>flash_vpn</item>
-    <item>google_camera</item>
-    <item>greenify</item>
-    <item>music3</item>
-    <item>sound_recorder2</item>
-    <item>videos4</item>
-    <item>applock2</item>
-    <item>azan_time</item>
-    <item>calculator2</item>
-    <item>fdroid</item>
-    <item>night_mode</item>
-    <item>phonograph2</item>
-    <item>steam2</item>
-    <item>adventurecap</item>
-    <item>applock</item>
-    <item>calendar2</item>
-    <item>contacts2</item>
-    <item>cpu_float</item>
-    <item>downloads2</item>
-    <item>fit2</item>
-    <item>gallery2</item>
-    <item>gmail2</item>
-    <item>messages4</item>
-    <item>ms_outlook</item>
-    <item>notes2</item>
-    <item>rose</item>
-    <item>settings2</item>
-    <item>sportstracker</item>
-    <item>tree</item>
-    <item>turkcell</item>
-    <item>videos3</item>
-    <item>vodafone</item>
-    <item>airvpn</item>
-    <item>android_studio</item>
-    <item>bittorrent</item>
-    <item>fb_reader</item>
-    <item>games2</item>
-    <item>google_admin</item>
-    <item>google_drive2</item>
-    <item>league_of_legends</item>
-    <item>mail2</item>
-    <item>mail3</item>
-    <item>ms_excel2</item>
-    <item>ms_onenote</item>
-    <item>ms_powerpoint2</item>
-    <item>ms_word2</item>
-    <item>opinion_rewards</item>
-    <item>signal</item>
-    <item>slack2</item>
-    <item>mx_player</item>
-    <item>videos2</item>
+    <item>google_calculator</item>
+    <item>iscep</item>
+    <item>yapikredi</item>
+    <item>ziraat</item>
     <item>browser</item>
     <item>browser2</item>
+    <item>browser3</item>
     <item>calculator</item>
+    <item>calculator2</item>
     <item>calendar</item>
-    <item>google_calendar</item>
+    <item>calendar2</item>
     <item>camera</item>
     <item>camera2</item>
+    <item>camera3</item>
     <item>clock</item>
     <item>contacts</item>
+    <item>contacts2</item>
     <item>dialer</item>
+    <item>dialer2</item>
+    <item>dialer3</item>
     <item>downloads</item>
+    <item>downloads2</item>
     <item>equalizer</item>
     <item>files</item>
+    <item>files2</item>
+    <item>files3</item>
+    <item>fit</item>
     <item>gallery</item>
+    <item>gallery2</item>
     <item>mail</item>
+    <item>mail2</item>
+    <item>mail3</item>
     <item>messages</item>
     <item>messages2</item>
     <item>messages3</item>
     <item>music</item>
+    <item>music3</item>
+    <item>music4</item>
     <item>notes</item>
+    <item>notes2</item>
     <item>radio</item>
     <item>settings</item>
+    <item>settings2</item>
     <item>terminal</item>
     <item>themes</item>
+    <item>themes2</item>
     <item>videos</item>
+    <item>videos2</item>
+    <item>videos3</item>
+    <item>videos4</item>
     <item>sound_recorder</item>
+    <item>sound_recorder2</item>
+    <item>stk</item>
+    <item>google_admin</item>
     <item>google_artsandculture</item>
+    <item>google_calendar</item>
+    <item>google_camera</item>
+    <item>google_contacts</item>
+    <item>google_chrome</item>
+    <item>google_dialer</item>
     <item>google_documents</item>
+    <item>google_drive</item>
+    <item>google_drive2</item>
     <item>google_duo</item>
+    <item>google_earth</item>
+    <item>google_fit</item>
+    <item>gmail</item>
+    <item>gmail2</item>
+    <item>hangouts</item>
+    <item>google_keep</item>
+    <item>google_maps</item>
+    <item>google_messages</item>
+    <item>opinion_rewards</item>
     <item>google_pdf</item>
+    <item>play_books</item>
+    <item>play_games</item>
+    <item>play_movies</item>
+    <item>play_music</item>
+    <item>google_photos</item>
+    <item>playstore</item>
+    <item>google</item>
     <item>google_sheets</item>
     <item>google_slides</item>
-    <item>fit</item>
-    <item>maps</item>
-    <item>movies</item>
-    <item>gmail</item>
-    <item>google_chrome</item>
-    <item>books</item>
-    <item>earth</item>
-    <item>games</item>
-    <item>google</item>
-    <item>google_drive</item>
-    <item>google_keep</item>
-    <item>music2</item>
-    <item>google_photos</item>
-    <item>hangouts</item>
-    <item>store</item>
-    <item>translate</item>
+    <item>snapseed</item>
+    <item>google_translate</item>
     <item>youtube</item>
     <item>game_2048</item>
+    <item>activity_browser</item>
+    <item>adaway</item>
     <item>adobe_photoshop</item>
     <item>adobe_reader</item>
+    <item>adventurecap</item>
+    <item>airvpn</item>
     <item>alchemy</item>
     <item>amazon</item>
     <item>amd</item>
+    <item>android_studio</item>
+    <item>apkeditor</item>
+    <item>applock</item>
+    <item>applock2</item>
     <item>authy</item>
+    <item>azan_time</item>
     <item>bbc</item>
     <item>billiards</item>
     <item>bitcoin</item>
+    <item>bittorrent</item>
     <item>brave_browser</item>
     <item>chess</item>
     <item>cleanmaster</item>
+    <item>clipboard</item>
+    <item>cpu_float</item>
     <item>cpu_z</item>
     <item>deezer</item>
     <item>discord</item>
@@ -149,60 +122,89 @@
     <item>eksin</item>
     <item>encyclopedia</item>
     <item>epub</item>
+    <item>es_file_manager</item>
     <item>evernote</item>
     <item>facebook</item>
     <item>facebook_lite</item>
     <item>fb_messenger</item>
     <item>fb_messenger_lite</item>
+    <item>fb_reader</item>
+    <item>fdroid</item>
     <item>firefox</item>
     <item>firefox_focus</item>
+    <item>flashlight</item>
+    <item>flash_vpn</item>
     <item>flickr</item>
     <item>foursquare</item>
     <item>foxit_reader</item>
+    <item>games2</item>
     <item>github</item>
     <item>github2</item>
+    <item>greenify</item>
+    <item>guard</item>
+    <item>hangman</item>
+    <item>health</item>
     <item>hp</item>
     <item>instagram</item>
     <item>java</item>
     <item>kdeconnect</item>
     <item>launcher</item>
+    <item>launcher3</item>
     <item>last_fm</item>
+    <item>league_of_legends</item>
     <item>mailru</item>
     <item>matlab</item>
     <item>math</item>
     <item>maxthon_browser</item>
     <item>mega</item>
     <item>mendeley</item>
+    <item>movie_creator</item>
     <item>ms_excel</item>
+    <item>ms_excel2</item>
     <item>ms_powerpoint</item>
+    <item>ms_powerpoint2</item>
     <item>ms_word</item>
+    <item>ms_word2</item>
+    <item>ms_onenote</item>
+    <item>ms_outlook</item>
     <item>ms_onedrive</item>
+    <item>mx_player</item>
     <item>netflix</item>
+    <item>night_mode</item>
     <item>nvidia</item>
     <item>opera</item>
     <item>opera_beta</item>
     <item>pacman</item>
     <item>password</item>
     <item>phonograph</item>
+    <item>phonograph2</item>
     <item>php</item>
     <item>pocket</item>
+    <item>radio2</item>
     <item>rar</item>
     <item>reddit</item>
     <item>root</item>
     <item>qr_reader</item>
+    <item>screen_recorder</item>
     <item>shazam</item>
+    <item>signal</item>
     <item>skype</item>
     <item>slack</item>
-    <item>snapseed</item>
+    <item>slack2</item>
     <item>soundcloud</item>
+    <item>sportstracker</item>
+    <item>sportstracker2</item>
     <item>spotify</item>
     <item>steam</item>
+    <item>steam2</item>
     <item>teamspeak3</item>
     <item>teamwiever</item>
     <item>telegram</item>
     <item>telegramx</item>
     <item>tor</item>
     <item>torrent</item>
+    <item>tree</item>
+    <item>turkcell</item>
     <item>twilight</item>
     <item>twitch</item>
     <item>twitter</item>
@@ -210,6 +212,7 @@
     <item>viber</item>
     <item>vk</item>
     <item>vlc</item>
+    <item>vodafone</item>
     <item>vpn</item>
     <item>weather</item>
     <item>weather2</item>
@@ -220,6 +223,8 @@
     <item>yahoo_mail</item>
     <item>yandex_browser</item>
     <item>yandex_disk</item>
+    <item>clock</item>
+    <item>clock2</item>
     <item>lineageos_clock</item>
     <item>dynamic_clock2</item>
     <item>dynamic_clock3</item>
