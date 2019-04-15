@@ -4,7 +4,7 @@
 	<string name="email">osmanonurkoc@gmail.com</string>
 	<string name="email_subject">Papirus Adaptive</string>
 	<string name="request_title">Papirus Adaptive Icon Request</string>
-	<string name="request_save_location">%1$s/Papirus Adaptive/Requests/</string>
+	<string name="request_save_location">%1$s/Papirus/Requests/</string>
 	<bool name="xml_drawable_enabled">true</bool>
     <bool name="show_info">true</bool>
 	<bool name="with_drawer_texts">true</bool>

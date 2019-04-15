@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <string-array name="icons_preview">
-    <item>google_calculator</item>
-    <item>iscep</item>
-    <item>yapikredi</item>
-    <item>ziraat</item>
     <item>browser</item>
     <item>browser2</item>
     <item>browser3</item>
@@ -42,6 +38,7 @@
     <item>notes</item>
     <item>notes2</item>
     <item>radio</item>
+    <item>radio2</item>
     <item>settings</item>
     <item>settings2</item>
     <item>terminal</item>
@@ -57,6 +54,7 @@
     <item>google_admin</item>
     <item>google_artsandculture</item>
     <item>google_calendar</item>
+    <item>google_calculator</item>
     <item>google_camera</item>
     <item>google_contacts</item>
     <item>google_chrome</item>
@@ -87,6 +85,7 @@
     <item>snapseed</item>
     <item>google_translate</item>
     <item>youtube</item>
+    <item>wallpaper</item>
     <item>game_2048</item>
     <item>activity_browser</item>
     <item>adaway</item>
@@ -146,11 +145,13 @@
     <item>health</item>
     <item>hp</item>
     <item>instagram</item>
+    <item>iscep</item>
     <item>java</item>
     <item>kdeconnect</item>
     <item>launcher</item>
     <item>launcher3</item>
     <item>last_fm</item>
+    <item>lawnchair</item>
     <item>league_of_legends</item>
     <item>mailru</item>
     <item>matlab</item>
@@ -180,7 +181,6 @@
     <item>phonograph2</item>
     <item>php</item>
     <item>pocket</item>
-    <item>radio2</item>
     <item>rar</item>
     <item>reddit</item>
     <item>root</item>
@@ -205,6 +205,7 @@
     <item>torrent</item>
     <item>tree</item>
     <item>turkcell</item>
+    <item>turkeygov</item>
     <item>twilight</item>
     <item>twitch</item>
     <item>twitter</item>
@@ -223,6 +224,8 @@
     <item>yahoo_mail</item>
     <item>yandex_browser</item>
     <item>yandex_disk</item>
+    <item>yapikredi</item>
+    <item>ziraat</item>
     <item>clock</item>
     <item>clock2</item>
     <item>lineageos_clock</item>
@@ -231,5 +234,4 @@
     <item>dynamic_clock4</item>
     <item>dynamic_clock5</item>
     </string-array>
-
 </resources>

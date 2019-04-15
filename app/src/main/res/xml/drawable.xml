@@ -1,4 +1,4 @@
-<?xml version="1.2" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <category title="System" />
     <item drawable="browser" />
@@ -87,6 +87,7 @@
     <item drawable="snapseed" />
     <item drawable="google_translate" />
     <item drawable="youtube" />
+    <item drawable="wallpaper" />
 
     <category title="Apps" />
     <item drawable="game_2048" />
@@ -218,7 +219,6 @@
     <item drawable="vlc" />
     <item drawable="vodafone" />
     <item drawable="vpn" />
-    <item drawable="wallpaper" />
     <item drawable="weather" />
     <item drawable="weather2" />
     <item drawable="wechat" />

@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-  ~ Copyright (c) 2018. Jahir Fiquitiva
-  ~
-  ~ Licensed under the CreativeCommons Attribution-ShareAlike
-  ~ 4.0 International License. You may not use this file except in compliance
-  ~ with the License. You may obtain a copy of the License at
-  ~
-  ~    http://creativecommons.org/licenses/by-sa/4.0/legalcode
-  ~
-  ~ Unless required by applicable law or agreed to in writing, software
-  ~ distributed under the License is distributed on an "AS IS" BASIS,
-  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-  ~ See the License for the specific language governing permissions and
-  ~ limitations under the License.
-  -->
 <resources>
-    <version title="v1.2.0" />
-    <item text="Second Release" />
-    <item text="Added 29 new app icons" />
-    <item text="Added 12 folder icons (Blue,Black,Green variant)" />
-    <item text="Changed version number" /> 
+    <version title="v1.5.0" />
+    <item text="Third Release" />
+    <item text="Added 39 new app icons" />
+    <item text="Folder icons completed (Black,Blue,Bluegrey,Brown,Cyan,Green,Grey,Indigo,Magenta,Orange,Pink,Red,Teal,Violet,Yellow variant)" />
+    <item text="Improved iconfilter.xml (OEM Icons and Google Icons changed)" /> 
+    <item text="Icons recategorized" /> 
+    <item text="Some icon names changed" /> 
+    <item text="Improved support to Custom Rom apps and OEM apps" />
+    <item text="Dark theme renewed." />
+    <item text="Change icon request file save location." /> 
+    <item text="Existing apps removed from icon request list." /> 
+    <item text="Changed version number to 1.5.0" /> 
 </resources>
