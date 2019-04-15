@@ -213,4 +213,7 @@
     <color name="iscep_background">#08335E</color>
     <color name="yapikredi_background">#1F4677</color>
     <color name="ziraat_background">#ED1C24</color>
+    <color name="lawnchair_background">#F1F1F1</color>
+    <color name="turkeygov_background">#FF0000</color>
+    <color name="wallpapers_background">#4F8DF5</color>
 </resources>

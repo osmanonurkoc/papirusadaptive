@@ -370,6 +370,9 @@
     <item component="ComponentInfo{org.codeaurora.gallery/com.android.gallery3d.app.GalleryActivity}" drawable="gallery2" />
 
     <!-- Apps -->
+    <item component="ComponentInfo{com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity}" drawable="wallpapers" />
+    <item component="ComponentInfo{ch.deletescape.lawnchair.ci/ch.deletescape.lawnchair.LawnchairLauncher}" drawable="lawnchair" />
+    <item component="ComponentInfo{tr.gov.turkiye.edevlet.kapisi/tr.gov.turkiye.edevlet.kapisi.activity.SplashActivity}" drawable="turkeygov" />
     <item component="ComponentInfo{com.ziraat.ziraatmobil/com.veripark.ziraatmobile.screens.splash.activities.SplashActivity}" drawable="ziraat" />
     <item component="ComponentInfo{com.pozitron.iscep/com.pozitron.iscep.features.prelogin.splash.SplashActivity}" drawable="iscep" />
     <item component="ComponentInfo{com.ykb.android/com.ykb.mobilebanking.NonSecureActivityDefault}" drawable="yapikredi" />

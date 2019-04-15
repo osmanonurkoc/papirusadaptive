@@ -154,6 +154,7 @@
     <item drawable="launcher" />
     <item drawable="launcher3" />
     <item drawable="last_fm" />
+    <item drawable="lawnchair" />
     <item drawable="league_of_legends" />
     <item drawable="mailru" />
     <item drawable="matlab" />
@@ -207,6 +208,7 @@
     <item drawable="torrent" />
     <item drawable="tree" />
     <item drawable="turkcell" />
+    <item drawable="turkeygov" />
     <item drawable="twilight" />
     <item drawable="twitch" />
     <item drawable="twitter" />
@@ -216,6 +218,7 @@
     <item drawable="vlc" />
     <item drawable="vodafone" />
     <item drawable="vpn" />
+    <item drawable="wallpaper" />
     <item drawable="weather" />
     <item drawable="weather2" />
     <item drawable="wechat" />
