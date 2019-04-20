@@ -49,9 +49,10 @@ class MainActivity : BottomNavigationBlueprintActivity() {
      * Return null to disable license check
      */
     override fun getLicenseChecker(): PiracyChecker? {
-        destroyChecker() // Important
-        return if (BuildConfig.DEBUG) null
-        else super.getLicenseChecker()
+        destroyChecker()
+        return null
+        //return if (BuildConfig.DEBUG) null
+        //else super.getLicenseChecker()
     }
 
     /**
