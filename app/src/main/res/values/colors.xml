@@ -216,4 +216,10 @@
     <color name="lawnchair_background">#F1F1F1</color>
     <color name="turkeygov_background">#FF0000</color>
     <color name="wallpapers_background">#4F8DF5</color>
+    <color name="iconpack_asus_background">#29CEE0</color>
+    <color name="iconpack_lg_background">#E65353</color>
+    <color name="iconpack_miui_background">#FD6600</color>
+    <color name="iconpack_oneplus_background">#E90028</color>
+    <color name="iconpack_samsung_background">#7881FD</color>
+    <color name="iconpack_sony_background">#F2F4F4</color>
 </resources>

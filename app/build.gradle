@@ -26,6 +26,7 @@ buildscript {
 apply plugin: 'com.onesignal.androidsdk.onesignal-gradle-plugin'
 */
 apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android-extensions'
 apply plugin: 'kotlin-android'
 
 android {
@@ -55,11 +56,12 @@ android {
         applicationId "osmanonurkoc.papirus"
         minSdkVersion versions.minSdk
         targetSdkVersion versions.targetSdk
-        versionCode 150
-        versionName "1.5.0"
+        versionCode 142
+        versionName "1.4.2"
         vectorDrawables.useSupportLibrary = true
         proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
         consumerProguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
+        multiDexEnabled true
     }
 
     buildTypes {
@@ -87,13 +89,19 @@ android {
         pickFirst 'META-INF/library_debug.kotlin_module'
         pickFirst 'META-INF/library_release.kotlin_module'
     }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
 }
 
 dependencies {
     // Blueprint
-    implementation('com.jahirfiquitiva:Blueprint:1.4.1@aar') {
+    implementation('com.jahirfiquitiva:Blueprint:1.4.5@aar') {
         transitive = true
     }
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
     // TODO: Remove comment marks to enable
     // implementation libraries.oneSignal
 }
@@ -102,4 +110,7 @@ tasks.whenTaskAdded { task ->
     if (task.name.contains("lint") || task.name.contains("test")) {
         task.enabled = false
     }
+}
+repositories {
+    mavenCentral()
 }

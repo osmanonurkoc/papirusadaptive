@@ -4,6 +4,9 @@
 	<bool name="enable_colored_tiles">true</bool>
 	<bool name="enable_filled_collection_preview">false</bool>
 	<bool name="show_bottom_sheet">true</bool>
+	<string name="walls_placeholder" translatable="false"></string>
+	<string name="collections_placeholder" translatable="false"></string>
+	<bool name="immediate_download">false</bool>
 	<bool name="notifications_enabled_by_default">true</bool>
 	<bool name="show_icons_in_tabs">false</bool>
 	<bool name="show_texts_in_tabs">true</bool>
