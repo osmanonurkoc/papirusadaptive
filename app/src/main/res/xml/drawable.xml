@@ -11,10 +11,12 @@
     <item drawable="camera" />
     <item drawable="camera2" />
     <item drawable="camera3" />
+    <item drawable="camera4" />
     <item drawable="clock" />
     <item drawable="clock2" />
     <item drawable="contacts" />
     <item drawable="contacts2" />
+    <item drawable="contacts3" />
     <item drawable="dialer" />
     <item drawable="dialer2" />
     <item drawable="dialer3" />
@@ -42,6 +44,7 @@
     <item drawable="radio2" />
     <item drawable="settings" />
     <item drawable="settings2" />
+    <item drawable="settings3" />
     <item drawable="themes" />
     <item drawable="themes2" />
     <item drawable="videos" />
@@ -58,6 +61,7 @@
     <item drawable="google_calendar" />
     <item drawable="google_calculator" />
     <item drawable="google_camera" />
+    <item drawable="google_camera2" />
     <item drawable="google_contacts" />
     <item drawable="google_chrome" />
     <item drawable="google_dialer" />
