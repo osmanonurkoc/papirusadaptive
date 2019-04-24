@@ -226,4 +226,21 @@
     <color name="google_camera2_background">#333333</color>
     <color name="camera4_background">#D6D6D6</color>
     <color name="settings3_background">#EBEBEB</color>
+    <color name="calculator3_background">#D96B5F</color>
+    <color name="camera5_background">#2E3133</color>
+    <color name="camera6_background">#CECECE</color>
+    <color name="camera7_background">#F9F9F9</color>
+    <color name="compass_background">#FFFFFF</color>
+    <color name="gallery3_background">#EF746D</color>
+    <color name="kdeconnect2_background">#35373A</color>
+    <color name="music5_background">#E6756E</color>
+    <color name="piano_background">#191919</color>
+    <color name="play_music2_background">#FB9246</color>
+    <color name="sound_recorder3_background">#D86EB0</color>
+    <color name="store_background">#437DFF</color>
+    <color name="themes3_background">#524CA3</color>
+    <color name="weather3_background">#524CA3</color>
+    <color name="candy_camera_background">#E0E0E0</color>
+    <color name="music6_background">#92DC00</color>
+    <color name="store2_background">#EDEDED</color>
 </resources>
