@@ -6,14 +6,21 @@
     <item>browser3</item>
     <item>calculator</item>
     <item>calculator2</item>
+    <item>calculator3</item>
     <item>calendar</item>
     <item>calendar2</item>
     <item>camera</item>
     <item>camera2</item>
     <item>camera3</item>
+    <item>camera4</item>
+    <item>camera5</item>
+    <item>camera6</item>
+    <item>camera7</item>
     <item>clock</item>
+    <item>clock2</item>
     <item>contacts</item>
     <item>contacts2</item>
+    <item>contacts3</item>
     <item>dialer</item>
     <item>dialer2</item>
     <item>dialer3</item>
@@ -23,9 +30,12 @@
     <item>files</item>
     <item>files2</item>
     <item>files3</item>
+    <item>files4</item>
     <item>fit</item>
     <item>gallery</item>
     <item>gallery2</item>
+    <item>gallery3</item>
+    <item>gallery4</item>
     <item>mail</item>
     <item>mail2</item>
     <item>mail3</item>
@@ -35,27 +45,33 @@
     <item>music</item>
     <item>music3</item>
     <item>music4</item>
+    <item>music5</item>
+    <item>music6</item>
     <item>notes</item>
     <item>notes2</item>
     <item>radio</item>
     <item>radio2</item>
     <item>settings</item>
     <item>settings2</item>
-    <item>terminal</item>
+    <item>settings3</item>
     <item>themes</item>
     <item>themes2</item>
+    <item>themes3</item>
     <item>videos</item>
     <item>videos2</item>
     <item>videos3</item>
     <item>videos4</item>
     <item>sound_recorder</item>
     <item>sound_recorder2</item>
+    <item>sound_recorder3</item>
+    <item>sound_recorder4</item>
     <item>stk</item>
     <item>google_admin</item>
     <item>google_artsandculture</item>
     <item>google_calendar</item>
     <item>google_calculator</item>
     <item>google_camera</item>
+    <item>google_camera2</item>
     <item>google_contacts</item>
     <item>google_chrome</item>
     <item>google_dialer</item>
@@ -77,6 +93,7 @@
     <item>play_games</item>
     <item>play_movies</item>
     <item>play_music</item>
+    <item>play_music2</item>
     <item>google_photos</item>
     <item>playstore</item>
     <item>google</item>
@@ -107,9 +124,11 @@
     <item>bitcoin</item>
     <item>bittorrent</item>
     <item>brave_browser</item>
+    <item>candy_camera</item>
     <item>chess</item>
     <item>cleanmaster</item>
     <item>clipboard</item>
+    <item>compass</item>
     <item>cpu_float</item>
     <item>cpu_z</item>
     <item>deezer</item>
@@ -148,6 +167,7 @@
     <item>iscep</item>
     <item>java</item>
     <item>kdeconnect</item>
+    <item>kdeconnect2</item>
     <item>launcher</item>
     <item>launcher3</item>
     <item>last_fm</item>
@@ -177,6 +197,7 @@
     <item>opera_beta</item>
     <item>pacman</item>
     <item>password</item>
+    <item>piano</item>
     <item>phonograph</item>
     <item>phonograph2</item>
     <item>php</item>
@@ -197,10 +218,13 @@
     <item>spotify</item>
     <item>steam</item>
     <item>steam2</item>
+    <item>store</item>
+    <item>store2</item>
     <item>teamspeak3</item>
     <item>teamwiever</item>
     <item>telegram</item>
     <item>telegramx</item>
+    <item>terminal</item>
     <item>tor</item>
     <item>torrent</item>
     <item>tree</item>
@@ -217,10 +241,12 @@
     <item>vpn</item>
     <item>weather</item>
     <item>weather2</item>
+    <item>weather3</item>
     <item>wechat</item>
     <item>whatsapp</item>
     <item>wikipedia</item>
     <item>wordpress</item>
+    <item>wps_office</item>
     <item>yahoo_mail</item>
     <item>yandex_browser</item>
     <item>yandex_disk</item>
