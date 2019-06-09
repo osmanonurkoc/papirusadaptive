@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <path
+        android:fillColor="#808080"
+        android:strokeWidth="1"
+        android:pathData="M 13.5 12 C 13.5 11.171875 12.828125 10.5 12 10.5 C 11.171875 10.5 10.5 11.171875 10.5 12 C 10.5 12.828125 11.171875 13.5 12 13.5 C 12.828125 13.5 13.5 12.828125 13.5 12 Z M 13.5 12" />
+    <path
+        android:fillColor="#808080"
+        android:strokeWidth="1"
+        android:pathData="M 18 12 C 18 11.171875 17.328125 10.5 16.5 10.5 C 15.671875 10.5 15 11.171875 15 12 C 15 12.828125 15.671875 13.5 16.5 13.5 C 17.328125 13.5 18 12.828125 18 12 Z M 18 12" />
+    <path
+        android:fillColor="#808080"
+        android:strokeWidth="1"
+        android:pathData="M 22.5 12 C 22.5 11.171875 21.828125 10.5 21 10.5 C 20.171875 10.5 19.5 11.171875 19.5 12 C 19.5 12.828125 20.171875 13.5 21 13.5 C 21.828125 13.5 22.5 12.828125 22.5 12 Z M 22.5 12" />
+    <path
+        android:fillColor="#808080"
+        android:strokeWidth="1"
+        android:pathData="M 4.5 12 C 4.5 11.171875 3.828125 10.5 3 10.5 C 2.171875 10.5 1.5 11.171875 1.5 12 C 1.5 12.828125 2.171875 13.5 3 13.5 C 3.828125 13.5 4.5 12.828125 4.5 12 Z M 4.5 12" />
+    <path
+        android:fillColor="#808080"
+        android:strokeWidth="1"
+        android:pathData="M 9 12 C 9 11.171875 8.328125 10.5 7.5 10.5 C 6.671875 10.5 6 11.171875 6 12 C 6 12.828125 6.671875 13.5 7.5 13.5 C 8.328125 13.5 9 12.828125 9 12 Z M 9 12" />
+    <group>
+        <path
+            android:fillColor="#808080"
+            android:strokeWidth="1"
+            android:pathData="M 13.5 7.5 C 13.5 6.671875 12.828125 6 12 6 C 11.171875 6 10.5 6.671875 10.5 7.5 C 10.5 8.328125 11.171875 9 12 9 C 12.828125 9 13.5 8.328125 13.5 7.5 Z M 13.5 7.5" />
+    </group>
+    <path
+        android:fillColor="#808080"
+        android:strokeWidth="1"
+        android:pathData="M 18 7.5 C 18 6.671875 17.328125 6 16.5 6 C 15.671875 6 15 6.671875 15 7.5 C 15 8.328125 15.671875 9 16.5 9 C 17.328125 9 18 8.328125 18 7.5 Z M 18 7.5" />
+    <group>
+        <path
+            android:fillColor="#808080"
+            android:strokeWidth="1"
+            android:pathData="M 9 7.5 C 9 6.671875 8.328125 6 7.5 6 C 6.671875 6 6 6.671875 6 7.5 C 6 8.328125 6.671875 9 7.5 9 C 8.328125 9 9 8.328125 9 7.5 Z M 9 7.5" />
+    </group>
+    <group>
+        <path
+            android:fillColor="#808080"
+            android:strokeWidth="1"
+            android:pathData="M 13.5 16.5 C 13.5 15.671875 12.828125 15 12 15 C 11.171875 15 10.5 15.671875 10.5 16.5 C 10.5 17.328125 11.171875 18 12 18 C 12.828125 18 13.5 17.328125 13.5 16.5 Z M 13.5 16.5" />
+    </group>
+    <path
+        android:fillColor="#808080"
+        android:strokeWidth="1"
+        android:pathData="M 18 16.5 C 18 15.671875 17.328125 15 16.5 15 C 15.671875 15 15 15.671875 15 16.5 C 15 17.328125 15.671875 18 16.5 18 C 17.328125 18 18 17.328125 18 16.5 Z M 18 16.5" />
+    <group>
+        <path
+            android:fillColor="#808080"
+            android:strokeWidth="1"
+            android:pathData="M 9 16.5 C 9 15.671875 8.328125 15 7.5 15 C 6.671875 15 6 15.671875 6 16.5 C 6 17.328125 6.671875 18 7.5 18 C 8.328125 18 9 17.328125 9 16.5 Z M 9 16.5" />
+    </group>
+    <group>
+        <path
+            android:fillColor="#808080"
+            android:strokeWidth="1"
+            android:pathData="M 13.5 21 C 13.5 20.171875 12.828125 19.5 12 19.5 C 11.171875 19.5 10.5 20.171875 10.5 21 C 10.5 21.828125 11.171875 22.5 12 22.5 C 12.828125 22.5 13.5 21.828125 13.5 21 Z M 13.5 21" />
+    </group>
+    <group>
+        <path
+            android:fillColor="#808080"
+            android:strokeWidth="1"
+            android:pathData="M 13.5 3 C 13.5 2.171875 12.828125 1.5 12 1.5 C 11.171875 1.5 10.5 2.171875 10.5 3 C 10.5 3.828125 11.171875 4.5 12 4.5 C 12.828125 4.5 13.5 3.828125 13.5 3 Z M 13.5 3" />
+    </group>
+</vector>
