@@ -42,6 +42,7 @@
     <item>messages</item>
     <item>messages2</item>
     <item>messages3</item>
+    <item>messages4</item>
     <item>music</item>
     <item>music3</item>
     <item>music4</item>
@@ -54,6 +55,7 @@
     <item>settings</item>
     <item>settings2</item>
     <item>settings3</item>
+    <item>settings4</item>
     <item>themes</item>
     <item>themes2</item>
     <item>themes3</item>
@@ -68,6 +70,7 @@
     <item>stk</item>
     <item>google_admin</item>
     <item>google_artsandculture</item>
+    <item>gboard</item>
     <item>google_calendar</item>
     <item>google_calculator</item>
     <item>google_camera</item>
@@ -88,6 +91,7 @@
     <item>google_maps</item>
     <item>google_messages</item>
     <item>opinion_rewards</item>
+    <item>chrome_remote_desktop</item>
     <item>google_pdf</item>
     <item>play_books</item>
     <item>play_games</item>
@@ -95,7 +99,9 @@
     <item>play_music</item>
     <item>play_music2</item>
     <item>google_photos</item>
+    <item>google_photoscan</item>
     <item>playstore</item>
+    <item>play_developer_console</item>
     <item>google</item>
     <item>google_sheets</item>
     <item>google_slides</item>
@@ -110,19 +116,27 @@
     <item>adobe_reader</item>
     <item>adventurecap</item>
     <item>airvpn</item>
+    <item>alarmy</item>
+    <item>alarmy2</item>
     <item>alchemy</item>
     <item>amazon</item>
     <item>amd</item>
     <item>android_studio</item>
     <item>apkeditor</item>
+    <item>app_cloner</item>
     <item>applock</item>
     <item>applock2</item>
+    <item>app_watcher</item>
+    <item>asos</item>
     <item>authy</item>
+    <item>autodesk_sketchbook</item>
+    <item>automatag</item>
     <item>azan_time</item>
     <item>bbc</item>
     <item>billiards</item>
     <item>bitcoin</item>
     <item>bittorrent</item>
+    <item>box</item>
     <item>brave_browser</item>
     <item>candy_camera</item>
     <item>chess</item>
@@ -132,27 +146,35 @@
     <item>cpu_float</item>
     <item>cpu_z</item>
     <item>deezer</item>
+    <item>devcheck</item>
     <item>discord</item>
     <item>dropbox</item>
     <item>doit</item>
+    <item>dolby_atmos</item>
     <item>dolphin_browser</item>
     <item>dr_web</item>
+    <item>duolingo</item>
     <item>eksin</item>
+    <item>elevate</item>
     <item>encyclopedia</item>
     <item>epub</item>
     <item>es_file_manager</item>
     <item>evernote</item>
     <item>facebook</item>
     <item>facebook_lite</item>
+    <item>fastmail</item>
+    <item>fast_reboot</item>
     <item>fb_messenger</item>
     <item>fb_messenger_lite</item>
     <item>fb_reader</item>
     <item>fdroid</item>
+    <item>feedback</item>
     <item>firefox</item>
     <item>firefox_focus</item>
     <item>flashlight</item>
     <item>flash_vpn</item>
     <item>flickr</item>
+    <item>flud</item>
     <item>foursquare</item>
     <item>foxit_reader</item>
     <item>games2</item>
@@ -163,22 +185,28 @@
     <item>hangman</item>
     <item>health</item>
     <item>hp</item>
+    <item>hyperion_launcher</item>
     <item>instagram</item>
     <item>iscep</item>
     <item>java</item>
     <item>kdeconnect</item>
     <item>kdeconnect2</item>
+    <item>kiwi_browser</item>
     <item>launcher</item>
     <item>launcher3</item>
     <item>last_fm</item>
     <item>lawnchair</item>
     <item>league_of_legends</item>
+    <item>linux</item>
     <item>mailru</item>
     <item>matlab</item>
     <item>math</item>
     <item>maxthon_browser</item>
     <item>mega</item>
     <item>mendeley</item>
+    <item>mi_drop</item>
+    <item>migrate</item>
+    <item>mint_browser</item>
     <item>movie_creator</item>
     <item>ms_excel</item>
     <item>ms_excel2</item>
@@ -192,27 +220,48 @@
     <item>mx_player</item>
     <item>netflix</item>
     <item>night_mode</item>
+    <item>nova_google_companion</item>
+    <item>nova_launcher</item>
     <item>nvidia</item>
     <item>opera</item>
     <item>opera_beta</item>
+    <item>overdrop</item>
     <item>pacman</item>
     <item>password</item>
     <item>piano</item>
     <item>phonograph</item>
     <item>phonograph2</item>
+    <item>photoscan</item>
     <item>php</item>
+    <item>picsart</item>
+    <item>pipette</item>
+    <item>pixlr</item>
     <item>pocket</item>
+    <item>popcorn</item>
+    <item>protonmail</item>
+    <item>pubg</item>
+    <item>pushbullet</item>
     <item>rar</item>
     <item>reddit</item>
     <item>root</item>
+    <item>ruthless_launcher</item>
     <item>qr_reader</item>
+    <item>samsung_members</item>
+    <item>science</item>
     <item>screen_recorder</item>
+    <item>sesame</item>
+    <item>shareit</item>
     <item>shazam</item>
     <item>signal</item>
+    <item>sketch</item>
     <item>skype</item>
+    <item>skyview</item>
     <item>slack</item>
     <item>slack2</item>
+    <item>smart_launcher</item>
+    <item>snail_ride</item>
     <item>soundcloud</item>
+    <item>speedtest</item>
     <item>sportstracker</item>
     <item>sportstracker2</item>
     <item>spotify</item>
@@ -220,11 +269,13 @@
     <item>steam2</item>
     <item>store</item>
     <item>store2</item>
+    <item>swift_backup</item>
     <item>teamspeak3</item>
     <item>teamwiever</item>
     <item>telegram</item>
     <item>telegramx</item>
     <item>terminal</item>
+    <item>tiles</item>
     <item>tor</item>
     <item>torrent</item>
     <item>tree</item>
@@ -239,18 +290,22 @@
     <item>vlc</item>
     <item>vodafone</item>
     <item>vpn</item>
+    <item>walli</item>
     <item>weather</item>
     <item>weather2</item>
     <item>weather3</item>
     <item>wechat</item>
     <item>whatsapp</item>
     <item>wikipedia</item>
+    <item>windows_phone_companion</item>
+    <item>wire</item>
     <item>wordpress</item>
     <item>wps_office</item>
     <item>yahoo_mail</item>
     <item>yandex_browser</item>
     <item>yandex_disk</item>
     <item>yapikredi</item>
+    <item>zedge</item>
     <item>ziraat</item>
     <item>clock</item>
     <item>clock2</item>

@@ -129,6 +129,10 @@
     <item component="ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity}" drawable="google_duo" />
     <item component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}" drawable="snapseed" />
     <item component="ComponentInfo{com.google.android.apps.enterprise.cpanel/com.google.android.apps.enterprise.cpanel.activities.EntryPointActivity}" drawable="google_admin" />
+    <item component="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="gboard" />
+    <item component="ComponentInfo{com.google.android.apps.photos.scanner/com.google.android.apps.photos.scanner.home.HomeActivity}" drawable="google_photoscan" />
+    <item component="ComponentInfo{com.google.chromeremotedesktop/org.chromium.chromoting.Chromoting}" drawable="chrome_remote_desktop" />
+    <item component="ComponentInfo{com.google.android.apps.playconsole/com.google.android.apps.playconsole.activity.MainAndroidActivity}" drawable="play_developer_console" />
 
     <!-- Asus -->
     <item component="ComponentInfo{com.asus.maxxaudio.audiowizard/com.asus.maxxaudio.audiowizard.MainActivity}" drawable="equalizer" />
@@ -350,6 +354,8 @@
     <item component="ComponentInfo{com.miui.securitycenter/com.miui.securityscan.MainActivity}" drawable="guard" />
     <item component="ComponentInfo{com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity}" drawable="qr_reader" />
     <item component="ComponentInfo{com.miui.compass/com.miui.compass.CompassActivity}" drawable="compass" />
+    <item component="ComponentInfo{com.miui.bugreport/com.miui.bugreport.ui.MainTabActivity}" drawable="feedback" />
+    <item component="ComponentInfo{com.xiaomi.midrop/com.xiaomi.midrop.HomeActivity}" drawable="mi_drop" />
 
     <!-- LineageOS -->
     <item component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}" drawable="browser" />
@@ -372,6 +378,58 @@
     <item component="ComponentInfo{org.codeaurora.gallery/com.android.gallery3d.app.GalleryActivity}" drawable="gallery2" />
 
     <!-- Apps -->
+    <item component="ComponentInfo{com.samsung.android.voc/com.samsung.android.voc.LauncherActivity}" drawable="samsung_members" />
+    <item component="ComponentInfo{com.picsart.studio/com.socialin.android.photo.picsinphoto.MainPagerActivity}" drawable="picsart" />
+    <item component="ComponentInfo{com.adsk.sketchbook/com.adsk.sketchbook.SketchBook}" drawable="autodesk_sketchbook" />
+    <item component="ComponentInfo{ginlemon.flowerfree/ginlemon.flower.HomeScreen}" drawable="smart_launcher" />
+    <item component="ComponentInfo{com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.activity.StartActivity}" drawable="games2" />
+    <item component="ComponentInfo{com.t11.skyviewfree/com.t11.skyview.MainActivity}" drawable="skyview" />
+    <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.activities.SplashActivity}" drawable="protonmail" />
+    <item component="ComponentInfo{com.popcorntime.android/com.popcorntime.android.us.activity.PricacypolicyActivity}" drawable="popcorn" />
+    <item component="ComponentInfo{org.hd.movie/org.hd.movie.activities.MainActivity}" drawable="popcorn" />
+    <item component="ComponentInfo{net.popcorn.box.vynos/net.popcorn.box.vynos.MainActivity}" drawable="popcorn" />
+    <item component="ComponentInfo{com.popocorno.plus/com.enjoy.watchin.activities.SplashScreenActivity}" drawable="popcorn" />
+    <item component="ComponentInfo{com.hitanshudhawan.popcorn/com.hitanshudhawan.popcorn.activities.SplashActivity}" drawable="popcorn" />
+    <item component="ComponentInfo{projekt.launcher/projekt.launcher.ProjektLauncher}" drawable="hyperion_launcher" />
+    <item component="ComponentInfo{net.zedge.android/net.zedge.android.Main}" drawable="zedge" />
+    <item component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.StartUpCoreActivity}" drawable="windows_phone_companion" />
+    <item component="ComponentInfo{com.wire/com.waz.zclient.LaunchActivity}" drawable="wire" />
+    <item component="ComponentInfo{com.shanga.walli/com.shanga.walli.mvp.splash.SplashActivity}" drawable="walli" />
+    <item component="ComponentInfo{com.rascarlo.quick.settings.tiles/com.rascarlo.quick.settings.tiles.InitActivity}" drawable="tiles" />
+    <item component="ComponentInfo{org.swiftapps.swiftbackup/org.swiftapps.swiftbackup.intro.IntroActivity}" drawable="swift_backup" />
+    <item component="ComponentInfo{com.jrzheng.supervpnfree/com.supersoft.supervpnfree.activity.MainActivity}" drawable="vpn" />
+    <item component="ComponentInfo{org.zwanoo.android.speedtest/com.ookla.mobile4.screens.main.MainActivity}" drawable="speedtest" />
+    <item component="ComponentInfo{com.bloop.snail/com.unity3d.player.UnityPlayerActivity}" drawable="snail_ride" />
+    <item component="ComponentInfo{com.sonymobile.sketch/com.sonymobile.sketch.dashboard.DashboardActivity}" drawable="sketch" />
+    <item component="ComponentInfo{ninja.sesame.app.edge/ninja.sesame.app.edge.activities.MainActivity}" drawable="sesame" />
+    <item component="ComponentInfo{com.briox.riversip.android.tech.science/com.newsfusion.SplashActivity}" drawable="science" />
+    <item component="ComponentInfo{com.lenovo.anyshare.gps/com.lenovo.anyshare.ApMainActivity}" drawable="shareit" />
+    <item component="ComponentInfo{com.ruthless.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity}" drawable="ruthless_launcher" />
+    <item component="ComponentInfo{com.pushbullet.android/com.pushbullet.android.ui.LaunchActivity}" drawable="pushbullet" />
+    <item component="ComponentInfo{com.pixlr.express/com.pixlr.express.StartupActivity}" drawable="pixlr" />
+    <item component="ComponentInfo{com.ochs.pipette/com.ochs.pipette.StartActivity}" drawable="pipette" />
+    <item component="ComponentInfo{com.photomyne/com.photomyne.MainActivity}" drawable="photoscan" />
+    <item component="ComponentInfo{widget.dd.com.overdrop.free/widget.dd.com.overdrop.activity.SplashScreenActivity}" drawable="overdrop" />
+    <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="nova_launcher" />
+    <item component="ComponentInfo{com.teslacoilsw.launcherclientproxy/com.teslacoilsw.launcherclientproxy.MainActivity}" drawable="nova_google_companion" />
+    <item component="ComponentInfo{com.mi.globalbrowser.mini/com.miui.android.apps.chrome.Main}" drawable="mint_browser" />
+    <item component="ComponentInfo{balti.migrate/balti.migrate.MainActivity}" drawable="migrate" />
+    <item component="ComponentInfo{ru.meefik.linuxdeploy/ru.meefik.linuxdeploy.Launcher}" drawable="linux" />
+    <item component="ComponentInfo{com.kiwibrowser.browser/com.google.android.apps.chrome.Main}" drawable="kiwi_browser" />
+    <item component="ComponentInfo{com.delphicoder.flud/com.delphicoder.flud.MainActivity}" drawable="flud" />
+    <item component="ComponentInfo{com.greatbytes.fastreboot/com.greatbytes.fastreboot.FastReboot}" drawable="fast_reboot" />
+    <item component="ComponentInfo{com.fastmail.app/com.fastmail.app.ui.webview.WebViewActivity}" drawable="fastmail" />
+    <item component="ComponentInfo{com.wonder/com.pegasus.ui.activities.LaunchActivity}" drawable="elevate" />
+    <item component="ComponentInfo{com.duolingo/com.duolingo.app.LoginActivity}" drawable="duolingo" />
+    <item component="ComponentInfo{flar2.devcheck/flar2.devcheck.SplashActivity}" drawable="devcheck" />
+    <item component="ComponentInfo{com.jumobile.smartapp/com.jumobile.smartapp.main.ui.activity.IndexActivity}" drawable="app_cloner" />
+    <item component="ComponentInfo{com.box.android/com.box.android.activities.login.SplashScreenActivity}" drawable="box" />
+    <item component="ComponentInfo{com.x8bit.bitwarden/md5b95ad25b85f158431f24aa9fc17a1c1e.SplashActivity}" drawable="guard" />
+    <item component="ComponentInfo{com.fillobotto.mp3tagger/activities.MainActivity}" drawable="automatag" />
+    <item component="ComponentInfo{com.anod.appwatcher/com.anod.appwatcher.AppWatcherActivity}" drawable="app_watcher" />
+    <item component="ComponentInfo{droom.sleepIfUCan/droom.sleepIfUCan.view.activity.MainActivity}" drawable="alarmy" />
+    <item component="ComponentInfo{com.asos.app/com.asos.app.ui.activities.ConfigActivity}" drawable="asos" />
+    <item component="ComponentInfo{com.tencent.ig/com.epicgames.ue4.SplashActivity}" drawable="pubg" />
     <item component="ComponentInfo{cm.aptoide.pt/cm.aptoide.pt.view.entry.EntryActivity}" drawable="store2" />
     <item component="ComponentInfo{com.atozappstore/com.atozappstore.MainActivity}" drawable="store2" />
     <item component="ComponentInfo{com.joeware.android.gpulumera/com.joeware.android.gpulumera.camera.ActivityCamera}" drawable="candy_camera" />
