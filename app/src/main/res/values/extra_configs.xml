@@ -5,27 +5,39 @@
 
     <!--    These arrays are for the list of apps or links in main section. -->
     <string-array name="home_list_titles">
-        <item>General Group</item>
-        <item>Updates</item>
-        <item>Other Icon Packs</item>
+        <item>Contact</item>
+        <item>Community Group</item>
         <item>Source Code</item>
+        <item>Donation</item>
+        <item>MIUI Adaptive</item>
+        <item>Other Icon Packs</item>
+
+
     </string-array>
     <string-array name="home_list_descriptions">
-        <item>Telegram group of icon pack.Join and ask questions.</item>
-        <item>Telegram releases until moving Play Store.</item>
-        <item>My other adaptive icon packs.</item>
-        <item>Github page of icon pack.</item>
+        <item>If you have a suggestion, complaint or anything. Write me.</item>
+        <item>Telegram group of icon pack. Join and ask your questions.</item>
+        <item>GitHub page of icon pack. If you are interested.</item>
+        <item>If you like icon pack, support me. Buy me a coffee.</item>
+        <item>MIUI 10 icons, more great, fully adaptive.</item>
+        <item>My other adaptive icon packs. Maybe you might like it.</item>
     </string-array>
+
     <string-array name="home_list_icons">
+        <item>mail</item>
         <item>telegram</item>
-        <item>updates</item>
-        <item>rose</item>
         <item>github</item>
+        <item>donate</item>
+        <item>iconpack_miui</item>
+        <item>rose</item>
+
     </string-array>
     <string-array name="home_list_links">
+        <item>mailto:osmanonurkoc@gmail.com</item>
         <item>https://t.me/joinchat/IfNYJFYUXWSmBD57_0VKOw</item>
-        <item>https://t.me/papirusadaptive</item>
-        <item>https://osmanonurkoc.github.io/AdaptiveIconsShowcase/</item>
         <item>https://github.com/osmanonurkoc/papirusadaptive/</item>
+        <item>market://details?id=osmanonurkoc.donate</item>
+        <item>market://details?id=osmanonurkoc.miuiadaptive</item>
+        <item>https://play.google.com/store/apps/developer?id=osmanonurkoc</item>
     </string-array>
 </resources>
