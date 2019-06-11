@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="v1.5.0" />
-    <item text="Third Release" />
-    <item text="Added 39 new app icons" />
-    <item text="Folder icons completed (Black,Blue,Bluegrey,Brown,Cyan,Green,Grey,Indigo,Magenta,Orange,Pink,Red,Teal,Violet,Yellow variant)" />
-    <item text="Improved iconfilter.xml (OEM Icons and Google Icons changed)" /> 
-    <item text="Icons recategorized" /> 
-    <item text="Some icon names changed" /> 
-    <item text="Improved support to Custom Rom apps and OEM apps" />
-    <item text="Dark theme renewed." />
-    <item text="Change icon request file save location." /> 
-    <item text="Existing apps removed from icon request list." /> 
-    <item text="Changed version number to 1.5.0" /> 
+    <version title="V1 First PlayStore Release" />
+    <item text="Now, icon pack contains" />
+    <item text="323 app icon" />
+    <item text="12 folder icon with 15 color variant" />
+    <item text="7 dynamic clock" />
+    <item text="2 dynamic calendar" />
+    <item text="Totally 509 adaptive icon" />
+    <item text="If you like icon pack, support me. Make a donation." />
+    <item text="Thank you for downloading. Make icon request for missing icons. I try cover them." />
 </resources>
+
