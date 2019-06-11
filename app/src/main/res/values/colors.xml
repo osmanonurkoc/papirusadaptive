@@ -288,5 +288,18 @@
     <color name="autodesk_sketchbook_background">#EE923A</color>
     <color name="play_developer_console_background">#5B7C8C</color>
     <color name="samsung_members_background">#0DB7E3</color>
-
+    <color name="amaze_file_manager_background">#3FA4F4</color>
+    <color name="ampere_background">#4D89EE</color>
+    <color name="bxactions_background">#08B59C</color>
+    <color name="chefkoch_background">#CAA17D</color>
+    <color name="enpass_background">#124AA0</color>
+    <color name="files5_background">#CFD8DC</color>
+    <color name="flipboard_background">#F52828</color>
+    <color name="gps_background">#4A5A62</color>
+    <color name="liveboot_background">#663399</color>
+    <color name="mcafee_background">#F2F4F4</color>
+    <color name="pedometer_background">#DBDBDB</color>
+    <color name="snapchat_background">#FFFC00</color>
+    <color name="squid_background">#0AA8C7</color>
+    <color name="wifimap_background">#1E88E5</color>
 </resources>
