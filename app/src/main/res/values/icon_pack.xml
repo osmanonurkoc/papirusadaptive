@@ -68,7 +68,7 @@
     <item>sound_recorder2</item>
     <item>sound_recorder3</item>
     <item>sound_recorder4</item>
-    <item>stk</item>
+    <item>stk</item>>
     <item>google_admin</item>
     <item>google_artsandculture</item>
     <item>gboard</item>
@@ -76,9 +76,12 @@
     <item>google_calculator</item>
     <item>google_camera</item>
     <item>google_camera2</item>
+    <item>google_camera3</item>
     <item>google_cardboard_camera</item>
     <item>google_contacts</item>
     <item>google_chrome</item>
+    <item>google_chrome_beta</item>
+    <item>google_chrome_developer</item>
     <item>google_dialer</item>
     <item>google_documents</item>
     <item>google_drive</item>
@@ -126,6 +129,7 @@
     <item>a1_1_1_1</item>
     <item>a1password</item>
     <item>game_2048</item>
+    <item>a7_fon</item>
     <item>abc_text_editor</item>
     <item>abstruct</item>
     <item>accubattery</item>
@@ -145,11 +149,13 @@
     <item>adobe_reader</item>
     <item>adventurecap</item>
     <item>aegis</item>
+    <item>ai_gallery</item>
     <item>airbrush</item>
     <item>aircut</item>
     <item>airvpn</item>
     <item>alarmy</item>
     <item>alarmy2</item>
+    <item>album_art_grabber</item>
     <item>alchemy</item>
     <item>alexis</item>
     <item>alexis_pie</item>
@@ -163,14 +169,24 @@
     <item>androdumpper</item>
     <item>another_widget</item>
     <item>apkeditor</item>
+    <item>apk_extractor</item>
     <item>apollo_tv</item>
     <item>app_cloner</item>
     <item>applock</item>
     <item>applock2</item>
+    <item>app_mgr</item>
     <item>app_sales</item>
     <item>apps_free</item>
+    <item>apps_freezer</item>
     <item>app_watcher</item>
     <item>asos</item>
+    <item>astro_file_manager</item>
+    <item>asus_laser_ruler</item>
+    <item>asus_photo_collage</item>
+    <item>asus_share_link</item>
+    <item>asus_web_storage</item>
+    <item>asus_zentalk</item>
+    <item>asus_zenui_help</item>
     <item>aurora_droid</item>
     <item>authy</item>
     <item>autoapps</item>
@@ -180,34 +196,47 @@
     <item>auto_voice</item>
     <item>auto_wear</item>
     <item>autoroid</item>
+    <item>avast_antivirus</item>
+    <item>aviary</item>
     <item>azan_time</item>
     <item>backdrops</item>
+    <item>backup</item>
     <item>banco_do_brasil</item>
     <item>banggood</item>
     <item>bbc</item>
+    <item>beauty_plus</item>
     <item>better_battery_stats</item>
     <item>billiards</item>
+    <item>bima_plus</item>
     <item>bitcoin</item>
+    <item>bitdefender_antivirus</item>
     <item>bittorrent</item>
     <item>bitwarden</item>
+    <item>bl</item>
     <item>bla_bla_car</item>
     <item>bouncer</item>
     <item>box</item>
     <item>brave_browser</item>
     <item>brawl_stars</item>
     <item>bxactions</item>
+    <item>camera_360</item>
+    <item>camera_360_lite</item>
     <item>candy_camera</item>
     <item>caption_image</item>
     <item>cartogram</item>
     <item>castro</item>
     <item>cast_task</item>
+    <item>cek_tagihan_pln</item>
+    <item>ccleaner</item>
     <item>chefkoch</item>
     <item>chess</item>
     <item>claro</item>
     <item>clash_royale</item>
     <item>cleaner</item>
-    <item>cleanmaster</item>
+    <item>clean_master</item>
+    <item>clean_master_lite</item>
     <item>clipboard</item>
+    <item>clock_widget</item>
     <item>compass</item>
     <item>cpu_float</item>
     <item>cpu_z</item>
@@ -215,10 +244,12 @@
     <item>cryptomator</item>
     <item>customized_pixel_launcher</item>
     <item>cymetry</item>
+    <item>dailyhunt</item>
     <item>dashlane</item>
     <item>deezer</item>
     <item>demo_mode_tile</item>
     <item>designer_tools</item>
+    <item>detikcom</item>
     <item>devcheck</item>
     <item>discord</item>
     <item>dropbox</item>
@@ -249,13 +280,17 @@
     <item>fb_reader</item>
     <item>fdroid</item>
     <item>feedback</item>
+    <item>figma</item>
     <item>firefox</item>
+    <item>firefox_beta</item>
     <item>firefox_focus</item>
+    <item>fitbit</item>
     <item>fk_kernel_manager</item>
     <item>flashlight</item>
     <item>flash_vpn</item>
     <item>flickr</item>
     <item>flipboard</item>
+    <item>flipkart</item>
     <item>flud</item>
     <item>flym</item>
     <item>focus</item>
@@ -272,6 +307,8 @@
     <item>glasswire</item>
     <item>goal_live</item>
     <item>gps</item>
+    <item>grab</item>
+    <item>grab2</item>
     <item>gratus</item>
     <item>greenify</item>
     <item>gta_vice_city</item>
@@ -292,6 +329,8 @@
     <item>inshot</item>
     <item>instagram</item>
     <item>instagram2</item>
+    <item>insta_save</item>
+    <item>instrument_tuner</item>
     <item>intent_task</item>
     <item>ip_tv</item>
     <item>iscep</item>
@@ -302,11 +341,14 @@
     <item>kdeconnect</item>
     <item>kdeconnect2</item>
     <item>kgwt</item>
+    <item>khan_academy</item>
     <item>kiwi_browser</item>
+    <item>kuji_cam</item>
     <item>launcher</item>
     <item>launcher3</item>
     <item>last_fm</item>
     <item>lawnchair</item>
+    <item>lazada</item>
     <item>league_of_legends</item>
     <item>lecture_notes</item>
     <item>lens_disturtions</item>
@@ -327,6 +369,7 @@
     <item>material_islands</item>
     <item>matlab</item>
     <item>math</item>
+    <item>mattermost</item>
     <item>maxthon_browser</item>
     <item>mcafee</item>
     <item>mega</item>
@@ -356,6 +399,7 @@
     <item>music_maker_jam</item>
     <item>muzei</item>
     <item>mx_player</item>
+    <item>my_asus</item>
     <item>nav_explorer</item>
     <item>netflix</item>
     <item>netspeed_indicator</item>
@@ -365,18 +409,24 @@
     <item>no_me</item>
     <item>nova_google_companion</item>
     <item>nova_launcher</item>
+    <item>nova_tesla_unread</item>
     <item>nvidia</item>
     <item>open_link_with</item>
     <item>opera</item>
     <item>opera_beta</item>
+    <item>opera_mini</item>
     <item>overdrop</item>
     <item>pacman</item>
     <item>paid_free</item>
     <item>password</item>
+    <item>paytm</item>
+    <item>pcloud</item>
     <item>pedometer</item>
     <item>piano</item>
     <item>phonograph</item>
     <item>phonograph2</item>
+    <item>photo_editor</item>
+    <item>photo_grid</item>
     <item>photomath</item>
     <item>photoscan</item>
     <item>php</item>
@@ -387,6 +437,7 @@
     <item>poco_launcher</item>
     <item>pocket</item>
     <item>popcorn</item>
+    <item>poweramp</item>
     <item>power_vpn</item>
     <item>ppsspp_gold</item>
     <item>pros_cons</item>
@@ -402,10 +453,12 @@
     <item>quik</item>
     <item>rainpaper</item>
     <item>rar</item>
+    <item>realcalc</item>
     <item>realme_community</item>
     <item>realme_store</item>
     <item>reddit</item>
     <item>resize_me</item>
+    <item>ringtone_maker</item>
     <item>root</item>
     <item>ruthless_launcher</item>
     <item>qr_reader</item>
@@ -420,6 +473,7 @@
     <item>shapical_x</item>
     <item>shareit</item>
     <item>shazam</item>
+    <item>shopee</item>
     <item>signal</item>
     <item>sketch</item>
     <item>skit</item>
@@ -457,18 +511,22 @@
     <item>tiles</item>
     <item>timbre</item>
     <item>todoist</item>
+    <item>tokopedia</item>
     <item>tor</item>
     <item>tor2</item>
     <item>torrent</item>
     <item>touch_task</item>
     <item>tree</item>
     <item>true_caller</item>
+    <item>tumblr</item>
     <item>turkcell</item>
     <item>turkeygov</item>
     <item>twilight</item>
     <item>twitch</item>
     <item>twitter</item>
+    <item>twitter_lite</item>
     <item>uber</item>
+    <item>uc_browser</item>
     <item>ui_task</item>
     <item>unapp</item>
     <item>unified_remote_full</item>
@@ -477,6 +535,8 @@
     <item>viber</item>
     <item>video_mp3</item>
     <item>video_transcoder</item>
+    <item>vimeo</item>
+    <item>virus_cleaner</item>
     <item>vk</item>
     <item>vlc</item>
     <item>vodafone</item>
@@ -494,6 +554,7 @@
     <item>web_video_caster</item>
     <item>wechat</item>
     <item>whatsapp</item>
+    <item>whatsapp_sticker</item>
     <item>wifimap</item>
     <item>wikipedia</item>
     <item>windows_phone_companion</item>
@@ -514,166 +575,6 @@
     <item>zarchiver</item>
     <item>zedge</item>
     <item>ziraat</item>
-    <item>camera_black</item>
-    <item>camera_blue</item>
-    <item>camera_bluegrey</item>
-    <item>camera_black</item>
-    <item>camera_brown</item>
-    <item>camera_cyan</item>
-    <item>camera_green</item>
-    <item>camera_grey</item>
-    <item>camera_indigo</item>
-    <item>camera_magenta</item>
-    <item>camera_orange</item>
-    <item>camera_pink</item>
-    <item>camera_red</item>
-    <item>camera_teal</item>
-    <item>camera_violet</item>
-    <item>camera_yellow</item>
-    <item>contacts_black</item>
-    <item>contacts_blue</item>
-    <item>contacts_bluegrey</item>
-    <item>contacts_black</item>
-    <item>contacts_brown</item>
-    <item>contacts_cyan</item>
-    <item>contacts_green</item>
-    <item>contacts_grey</item>
-    <item>contacts_indigo</item>
-    <item>contacts_magenta</item>
-    <item>contacts_orange</item>
-    <item>contacts_pink</item>
-    <item>contacts_red</item>
-    <item>contacts_teal</item>
-    <item>contacts_violet</item>
-    <item>contacts_yellow</item>
-    <item>dialer_black</item>
-    <item>dialer_blue</item>
-    <item>dialer_bluegrey</item>
-    <item>dialer_black</item>
-    <item>dialer_brown</item>
-    <item>dialer_cyan</item>
-    <item>dialer_green</item>
-    <item>dialer_grey</item>
-    <item>dialer_indigo</item>
-    <item>dialer_magenta</item>
-    <item>dialer_orange</item>
-    <item>dialer_pink</item>
-    <item>dialer_red</item>
-    <item>dialer_teal</item>
-    <item>dialer_violet</item>
-    <item>dialer_yellow</item>
-    <item>email_black</item>
-    <item>email_blue</item>
-    <item>email_bluegrey</item>
-    <item>email_black</item>
-    <item>email_brown</item>
-    <item>email_cyan</item>
-    <item>email_green</item>
-    <item>email_grey</item>
-    <item>email_indigo</item>
-    <item>email_magenta</item>
-    <item>email_orange</item>
-    <item>email_pink</item>
-    <item>email_red</item>
-    <item>email_teal</item>
-    <item>email_violet</item>
-    <item>email_yellow</item>
-    <item>files_black</item>
-    <item>files_blue</item>
-    <item>files_bluegrey</item>
-    <item>files_black</item>
-    <item>files_brown</item>
-    <item>files_cyan</item>
-    <item>files_green</item>
-    <item>files_grey</item>
-    <item>files_indigo</item>
-    <item>files_magenta</item>
-    <item>files_orange</item>
-    <item>files_pink</item>
-    <item>files_red</item>
-    <item>files_teal</item>
-    <item>files_violet</item>
-    <item>files_yellow</item>
-    <item>gallery_black</item>
-    <item>gallery_blue</item>
-    <item>gallery_bluegrey</item>
-    <item>gallery_black</item>
-    <item>gallery_brown</item>
-    <item>gallery_cyan</item>
-    <item>gallery_green</item>
-    <item>gallery_grey</item>
-    <item>gallery_indigo</item>
-    <item>gallery_magenta</item>
-    <item>gallery_orange</item>
-    <item>gallery_pink</item>
-    <item>gallery_red</item>
-    <item>gallery_teal</item>
-    <item>gallery_violet</item>
-    <item>gallery_yellow</item>
-    <item>messages_black</item>
-    <item>messages_blue</item>
-    <item>messages_bluegrey</item>
-    <item>messages_black</item>
-    <item>messages_brown</item>
-    <item>messages_cyan</item>
-    <item>messages_green</item>
-    <item>messages_grey</item>
-    <item>messages_indigo</item>
-    <item>messages_magenta</item>
-    <item>messages_orange</item>
-    <item>messages_pink</item>
-    <item>messages_red</item>
-    <item>messages_teal</item>
-    <item>messages_violet</item>
-    <item>messages_yellow</item>
-    <item>music_black</item>
-    <item>music_blue</item>
-    <item>music_bluegrey</item>
-    <item>music_black</item>
-    <item>music_brown</item>
-    <item>music_cyan</item>
-    <item>music_green</item>
-    <item>music_grey</item>
-    <item>music_indigo</item>
-    <item>music_magenta</item>
-    <item>music_orange</item>
-    <item>music_pink</item>
-    <item>music_red</item>
-    <item>music_teal</item>
-    <item>music_violet</item>
-    <item>music_yellow</item>
-    <item>notes_black</item>
-    <item>notes_blue</item>
-    <item>notes_bluegrey</item>
-    <item>notes_black</item>
-    <item>notes_brown</item>
-    <item>notes_cyan</item>
-    <item>notes_green</item>
-    <item>notes_grey</item>
-    <item>notes_indigo</item>
-    <item>notes_magenta</item>
-    <item>notes_orange</item>
-    <item>notes_pink</item>
-    <item>notes_red</item>
-    <item>notes_teal</item>
-    <item>notes_violet</item>
-    <item>notes_yellow</item>
-    <item>settings_black</item>
-    <item>settings_blue</item>
-    <item>settings_bluegrey</item>
-    <item>settings_black</item>
-    <item>settings_brown</item>
-    <item>settings_cyan</item>
-    <item>settings_green</item>
-    <item>settings_grey</item>
-    <item>settings_indigo</item>
-    <item>settings_magenta</item>
-    <item>settings_orange</item>
-    <item>settings_pink</item>
-    <item>settings_red</item>
-    <item>settings_teal</item>
-    <item>settings_violet</item>
-    <item>settings_yellow</item>
     <item>lineageos_clock</item>
     <item>dynamic_clock2</item>
     <item>dynamic_clock3</item>
