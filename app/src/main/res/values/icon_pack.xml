@@ -68,10 +68,14 @@
     <item>sound_recorder2</item>
     <item>sound_recorder3</item>
     <item>sound_recorder4</item>
-    <item>stk</item>>
+    <item>stk</item>
     <item>google_admin</item>
+    <item>google_adsense</item>
+    <item>google_analytics</item>
     <item>google_artsandculture</item>
+    <item>google_assistant</item>
     <item>gboard</item>
+    <item>digital_wellbeing</item>
     <item>google_calendar</item>
     <item>google_calculator</item>
     <item>google_camera</item>
@@ -130,6 +134,7 @@
     <item>a1password</item>
     <item>game_2048</item>
     <item>a7_fon</item>
+    <item>a9_gag</item>
     <item>abc_text_editor</item>
     <item>abstruct</item>
     <item>accubattery</item>
@@ -138,7 +143,10 @@
     <item>action_launcher</item>
     <item>activity_browser</item>
     <item>activity_task</item>
+    <item>a_plus_gallery</item>
+    <item>adapticons</item>
     <item>adaway</item>
+    <item>adguard</item>
     <item>adobe_capture</item>
     <item>adobe_illustrator_draw</item>
     <item>adobe_lightroom</item>
@@ -147,9 +155,11 @@
     <item>adobe_photoshop_mix</item>
     <item>adobe_photoshop_sketch</item>
     <item>adobe_reader</item>
+    <item>advanced_download_manager</item>
     <item>adventurecap</item>
     <item>aegis</item>
     <item>ai_gallery</item>
+    <item>aimp</item>
     <item>airbrush</item>
     <item>aircut</item>
     <item>airvpn</item>
@@ -163,6 +173,7 @@
     <item>amaze_browser</item>
     <item>amaze_file_manager</item>
     <item>amazon</item>
+    <item>amazon_drive</item>
     <item>amd</item>
     <item>amoled_walls</item>
     <item>ampere</item>
@@ -172,6 +183,7 @@
     <item>apk_extractor</item>
     <item>apollo_tv</item>
     <item>app_cloner</item>
+    <item>apple_music</item>
     <item>applock</item>
     <item>applock2</item>
     <item>app_mgr</item>
@@ -187,6 +199,7 @@
     <item>asus_web_storage</item>
     <item>asus_zentalk</item>
     <item>asus_zenui_help</item>
+    <item>audible</item>
     <item>aurora_droid</item>
     <item>authy</item>
     <item>autoapps</item>
@@ -210,14 +223,18 @@
     <item>bima_plus</item>
     <item>bitcoin</item>
     <item>bitdefender_antivirus</item>
+    <item>bitmoji</item>
     <item>bittorrent</item>
     <item>bitwarden</item>
     <item>bl</item>
     <item>bla_bla_car</item>
+    <item>blokada</item>
+    <item>blokada2</item>
     <item>bouncer</item>
     <item>box</item>
     <item>brave_browser</item>
     <item>brawl_stars</item>
+    <item>buzzfeed</item>
     <item>bxactions</item>
     <item>camera_360</item>
     <item>camera_360_lite</item>
@@ -228,8 +245,10 @@
     <item>cast_task</item>
     <item>cek_tagihan_pln</item>
     <item>ccleaner</item>
+    <item>cheetah_keyboard</item>
     <item>chefkoch</item>
     <item>chess</item>
+    <item>chronus</item>
     <item>claro</item>
     <item>clash_royale</item>
     <item>cleaner</item>
@@ -237,6 +256,8 @@
     <item>clean_master_lite</item>
     <item>clipboard</item>
     <item>clock_widget</item>
+    <item>cloud_innovation_gallery</item>
+    <item>color_os_clone_phone</item>
     <item>compass</item>
     <item>cpu_float</item>
     <item>cpu_z</item>
@@ -266,6 +287,7 @@
     <item>eksin</item>
     <item>elevate</item>
     <item>empty_folder</item>
+    <item>english_turkish_dictionary</item>
     <item>enpass</item>
     <item>epub</item>
     <item>es_file_manager</item>
@@ -295,6 +317,7 @@
     <item>flym</item>
     <item>focus</item>
     <item>focus_go</item>
+    <item>fonts</item>
     <item>for_pda</item>
     <item>friendly_for_instagram</item>
     <item>foursquare</item>
@@ -306,6 +329,7 @@
     <item>github2</item>
     <item>glasswire</item>
     <item>goal_live</item>
+    <item>gojek</item>
     <item>gps</item>
     <item>grab</item>
     <item>grab2</item>
@@ -338,6 +362,7 @@
     <item>inware</item>
     <item>java</item>
     <item>jpeg_optimizer</item>
+    <item>kamusku</item>
     <item>kdeconnect</item>
     <item>kdeconnect2</item>
     <item>kgwt</item>
@@ -348,6 +373,7 @@
     <item>launcher3</item>
     <item>last_fm</item>
     <item>lawnchair</item>
+    <item>lawnchair_settings</item>
     <item>lazada</item>
     <item>league_of_legends</item>
     <item>lecture_notes</item>
@@ -358,6 +384,7 @@
     <item>linked_in_lite</item>
     <item>linux</item>
     <item>liveboot</item>
+    <item>lockscreen</item>
     <item>loffee</item>
     <item>loopsie</item>
     <item>lucky_patcher</item>
@@ -377,6 +404,7 @@
     <item>mendeley</item>
     <item>mi_drop</item>
     <item>mi_fit</item>
+    <item>mi_pay</item>
     <item>mi_remote</item>
     <item>migrate</item>
     <item>mint_browser</item>
@@ -409,17 +437,20 @@
     <item>no_me</item>
     <item>nova_google_companion</item>
     <item>nova_launcher</item>
+    <item>nova_launcher_prime</item>
     <item>nova_tesla_unread</item>
     <item>nvidia</item>
     <item>open_link_with</item>
     <item>opera</item>
     <item>opera_beta</item>
     <item>opera_mini</item>
+    <item>o_roaming</item>
     <item>overdrop</item>
     <item>pacman</item>
     <item>paid_free</item>
     <item>password</item>
     <item>paytm</item>
+    <item>paypal</item>
     <item>pcloud</item>
     <item>pedometer</item>
     <item>piano</item>
@@ -445,6 +476,7 @@
     <item>proton_vpn</item>
     <item>pubg</item>
     <item>pubg_gfx_tool</item>
+    <item>puhu_tv</item>
     <item>purchased_apps</item>
     <item>pushbullet</item>
     <item>quick_lyric</item>
@@ -467,6 +499,7 @@
     <item>screen_recorder</item>
     <item>sd_maid</item>
     <item>secure_task</item>
+    <item>secure_vpn</item>
     <item>series_guide</item>
     <item>sesame</item>
     <item>shade_launcher</item>
@@ -475,12 +508,14 @@
     <item>shazam</item>
     <item>shopee</item>
     <item>signal</item>
+    <item>simple_keyboard</item>
     <item>sketch</item>
     <item>skit</item>
     <item>skype</item>
     <item>skyview</item>
     <item>slack</item>
     <item>slack2</item>
+    <item>sleep_as_android</item>
     <item>smart_launcher</item>
     <item>smart_office</item>
     <item>snail_ride</item>
@@ -500,6 +535,7 @@
     <item>store</item>
     <item>store2</item>
     <item>swift_backup</item>
+    <item>syncthing_fork</item>
     <item>teamspeak3</item>
     <item>teamviewer</item>
     <item>telegram</item>
@@ -527,12 +563,15 @@
     <item>twitter_lite</item>
     <item>uber</item>
     <item>uc_browser</item>
+    <item>u_get</item>
     <item>ui_task</item>
     <item>unapp</item>
     <item>unified_remote_full</item>
+    <item>universal_copy</item>
     <item>unnotification</item>
     <item>utorrent</item>
     <item>viber</item>
+    <item>video_downloader</item>
     <item>video_mp3</item>
     <item>video_transcoder</item>
     <item>vimeo</item>
@@ -570,6 +609,7 @@
     <item>yahoo_mail</item>
     <item>yandex_browser</item>
     <item>yandex_disk</item>
+    <item>yandex_translate</item>
     <item>yapikredi</item>
     <item>ymusic</item>
     <item>zarchiver</item>
