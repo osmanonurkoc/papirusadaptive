@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="3rd Release" />
-    <item text="Added 63 new icons" />
-    <item text="Added new icons for apps beta,lite,dev variant" />
-    <item text="Improved ColorOS support." />
-    <item text="" />
+    <version title="4rd Release" />
+    <item text="Added 40 new icons" />
+    <item text="Some icons redesigned and fixed" />
+    <item text="Clock widget redesigned" />
+    <item text="App size decreased" />
     <item text="Now, icon pack contains" />
-    <item text="906 adaptive and pixelish static icon" />
+    <item text="946 adaptive and pixelish static icon" />
     <item text="If you like icon pack, support me. Make a donation." />
     <item text="Thank you for downloading. Make icon request for missing icons. I try cover them." />
 </resources>
