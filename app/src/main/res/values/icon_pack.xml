@@ -116,6 +116,7 @@
     <item>google_podcasts</item>
     <item>google_tasks</item>
     <item>google_pay</item>
+    <item>google_wear_os</item>
     <item>playstore</item>
     <item>play_developer_console</item>
     <item>google</item>
@@ -128,13 +129,17 @@
     <item>wallpapers</item>
     <item>datally</item>
     <item>find_my_phone</item>
+    <item>live_transcribe</item>
     <item>android_auto</item>
     <item>android_tv</item>
     <item>a1_1_1_1</item>
+    <item>a1lyrics</item>
     <item>a1password</item>
+    <item>a2dehands</item>
     <item>game_2048</item>
     <item>a7_fon</item>
-    <item>a9_gag</item>
+    <item>a_9_gag</item>
+    <item>a17_track</item>
     <item>abc_text_editor</item>
     <item>abstruct</item>
     <item>accubattery</item>
@@ -146,6 +151,7 @@
     <item>a_plus_gallery</item>
     <item>adapticons</item>
     <item>adaway</item>
+    <item>adblock_fast</item>
     <item>adguard</item>
     <item>adobe_capture</item>
     <item>adobe_illustrator_draw</item>
@@ -167,6 +173,7 @@
     <item>alarmy2</item>
     <item>album_art_grabber</item>
     <item>alchemy</item>
+    <item>alexa</item>
     <item>alexis</item>
     <item>alexis_pie</item>
     <item>aliexpress</item>
@@ -175,6 +182,7 @@
     <item>amazon</item>
     <item>amazon_drive</item>
     <item>amd</item>
+    <item>amdm</item>
     <item>amoled_walls</item>
     <item>ampere</item>
     <item>androdumpper</item>
@@ -183,6 +191,7 @@
     <item>apk_extractor</item>
     <item>apollo_tv</item>
     <item>app_cloner</item>
+    <item>appdeals</item>
     <item>apple_music</item>
     <item>applock</item>
     <item>applock2</item>
@@ -203,6 +212,7 @@
     <item>aurora_droid</item>
     <item>authy</item>
     <item>autoapps</item>
+    <item>auto_chess</item>
     <item>autodesk_sketchbook</item>
     <item>automatag</item>
     <item>auto_notification</item>
@@ -218,6 +228,8 @@
     <item>banggood</item>
     <item>bbc</item>
     <item>beauty_plus</item>
+    <item>belfius</item>
+    <item>benefits</item>
     <item>better_battery_stats</item>
     <item>billiards</item>
     <item>bima_plus</item>
@@ -230,6 +242,8 @@
     <item>bla_bla_car</item>
     <item>blokada</item>
     <item>blokada2</item>
+    <item>booking_com</item>
+    <item>boost_for_reddit</item>
     <item>bouncer</item>
     <item>box</item>
     <item>brave_browser</item>
@@ -266,6 +280,7 @@
     <item>customized_pixel_launcher</item>
     <item>cymetry</item>
     <item>dailyhunt</item>
+    <item>daraz</item>
     <item>dashlane</item>
     <item>deezer</item>
     <item>demo_mode_tile</item>
@@ -278,16 +293,20 @@
     <item>do_it_later</item>
     <item>dolby_atmos</item>
     <item>dolphin_browser</item>
+    <item>dopewalls</item>
     <item>download_navi</item>
     <item>dr_web</item>
     <item>drastic</item>
     <item>duolingo</item>
     <item>dy_dx</item>
     <item>easy_dnd</item>
+    <item>ebay</item>
     <item>eksin</item>
     <item>elevate</item>
     <item>empty_folder</item>
+    <item>english_dictionary</item>
     <item>english_turkish_dictionary</item>
+    <item>enlight_pixaloop</item>
     <item>enpass</item>
     <item>epub</item>
     <item>es_file_manager</item>
@@ -306,8 +325,11 @@
     <item>firefox</item>
     <item>firefox_beta</item>
     <item>firefox_focus</item>
+    <item>firefox_lockwise</item>
+    <item>firefox_send</item>
     <item>fitbit</item>
     <item>fk_kernel_manager</item>
+    <item>flamingo</item>
     <item>flashlight</item>
     <item>flash_vpn</item>
     <item>flickr</item>
@@ -323,8 +345,10 @@
     <item>foursquare</item>
     <item>foxit_reader</item>
     <item>frog_weather</item>
+    <item>game_booster_x</item>
     <item>games2</item>
     <item>gaming_zone</item>
+    <item>giphy</item>
     <item>github</item>
     <item>github2</item>
     <item>glasswire</item>
@@ -341,6 +365,7 @@
     <item>hacker_s_keyboard</item>
     <item>hangman</item>
     <item>health</item>
+    <item>hermit</item>
     <item>hide_it_pro</item>
     <item>home_agenda_calendar_widget</item>
     <item>home_workout</item>
@@ -348,6 +373,7 @@
     <item>hurry</item>
     <item>hyperion_launcher</item>
     <item>iconic</item>
+    <item>idealo</item>
     <item>idm</item>
     <item>iftt</item>
     <item>inshot</item>
@@ -356,10 +382,11 @@
     <item>insta_save</item>
     <item>instrument_tuner</item>
     <item>intent_task</item>
-    <item>ip_tv</item>
-    <item>iscep</item>
     <item>intruder_catcher</item>
     <item>inware</item>
+    <item>ip_tv</item>
+    <item>iscep</item>
+    <item>i_translate</item>
     <item>java</item>
     <item>jpeg_optimizer</item>
     <item>kamusku</item>
@@ -368,6 +395,7 @@
     <item>kgwt</item>
     <item>khan_academy</item>
     <item>kiwi_browser</item>
+    <item>kodi</item>
     <item>kuji_cam</item>
     <item>launcher</item>
     <item>launcher3</item>
@@ -399,9 +427,13 @@
     <item>mattermost</item>
     <item>maxthon_browser</item>
     <item>mcafee</item>
+    <item>media_markt</item>
     <item>mega</item>
+    <item>me_meteo</item>
     <item>memoria</item>
     <item>mendeley</item>
+    <item>meteor_swipe</item>
+    <item>microsoft_authenticator</item>
     <item>mi_drop</item>
     <item>mi_fit</item>
     <item>mi_pay</item>
@@ -428,6 +460,9 @@
     <item>muzei</item>
     <item>mx_player</item>
     <item>my_asus</item>
+    <item>my_bpost</item>
+    <item>my_orange</item>
+    <item>my_proximus</item>
     <item>nav_explorer</item>
     <item>netflix</item>
     <item>netspeed_indicator</item>
@@ -435,11 +470,13 @@
     <item>nfs_most_wanted</item>
     <item>night_mode</item>
     <item>no_me</item>
+    <item>nord_vpn</item>
     <item>nova_google_companion</item>
     <item>nova_launcher</item>
     <item>nova_launcher_prime</item>
     <item>nova_tesla_unread</item>
     <item>nvidia</item>
+    <item>open_in_whatsapp</item>
     <item>open_link_with</item>
     <item>opera</item>
     <item>opera_beta</item>
@@ -453,7 +490,9 @@
     <item>paypal</item>
     <item>pcloud</item>
     <item>pedometer</item>
+    <item>penup</item>
     <item>piano</item>
+    <item>pinterest</item>
     <item>phonograph</item>
     <item>phonograph2</item>
     <item>photo_editor</item>
@@ -464,10 +503,14 @@
     <item>picsart</item>
     <item>pipette</item>
     <item>pixlr</item>
+    <item>playstation</item>
+    <item>playstation2</item>
     <item>plex</item>
     <item>poco_launcher</item>
     <item>pocket</item>
+    <item>pokemon</item>
     <item>popcorn</item>
+    <item>portra</item>
     <item>poweramp</item>
     <item>power_vpn</item>
     <item>ppsspp_gold</item>
@@ -500,6 +543,7 @@
     <item>sd_maid</item>
     <item>secure_task</item>
     <item>secure_vpn</item>
+    <item>send_anywhere</item>
     <item>series_guide</item>
     <item>sesame</item>
     <item>shade_launcher</item>
@@ -507,6 +551,7 @@
     <item>shareit</item>
     <item>shazam</item>
     <item>shopee</item>
+    <item>showroom</item>
     <item>signal</item>
     <item>simple_keyboard</item>
     <item>sketch</item>
@@ -530,7 +575,9 @@
     <item>stack</item>
     <item>steam</item>
     <item>steam2</item>
+    <item>stellio</item>
     <item>sticker_ly</item>
+    <item>stocard</item>
     <item>storage_organizer</item>
     <item>store</item>
     <item>store2</item>
@@ -555,6 +602,7 @@
     <item>tree</item>
     <item>true_caller</item>
     <item>tumblr</item>
+    <item>tunnel_bear</item>
     <item>turkcell</item>
     <item>turkeygov</item>
     <item>twilight</item>
@@ -570,9 +618,11 @@
     <item>universal_copy</item>
     <item>unnotification</item>
     <item>utorrent</item>
+    <item>via_browser</item>
     <item>viber</item>
     <item>video_downloader</item>
     <item>video_mp3</item>
+    <item>video_player</item>
     <item>video_transcoder</item>
     <item>vimeo</item>
     <item>virus_cleaner</item>
@@ -582,15 +632,18 @@
     <item>vpn</item>
     <item>vsco</item>
     <item>waip</item>
+    <item>walldrobe</item>
     <item>wallhub</item>
     <item>walli</item>
     <item>wallpaper_modder</item>
     <item>walpy</item>
+    <item>wearable_extensions</item>
     <item>weather</item>
     <item>weather2</item>
     <item>weather3</item>
     <item>weather_radar</item>
     <item>web_video_caster</item>
+    <item>webnovel</item>
     <item>wechat</item>
     <item>whatsapp</item>
     <item>whatsapp_sticker</item>
@@ -611,7 +664,9 @@
     <item>yandex_disk</item>
     <item>yandex_translate</item>
     <item>yapikredi</item>
+    <item>yatse</item>
     <item>ymusic</item>
+    <item>youtube_vanced</item>
     <item>zarchiver</item>
     <item>zedge</item>
     <item>ziraat</item>
