@@ -557,4 +557,23 @@
     <color name="wearable_extensions_background">#9C27B0</color>
     <color name="youtube_vanced_background">#0C0C0F</color>
     <color name="playstation2_background">#1D1D29</color>
+    <color name="aqua_mail_background">#2B899A</color>
+    <color name="audible2_background">#3F3F3F</color>
+    <color name="damon_ps2_background">#5B5F6A</color>
+    <color name="draw_background">#FEC006</color>
+    <color name="fl_studio_background">#5B5F6A</color>
+    <color name="free_now_background">#E2E2E2</color>
+    <color name="gsmarena_background">#616161</color>
+    <color name="kapten_background">#E2E2E2</color>
+    <color name="kingdom_rush_background">#F0E6D8</color>
+    <color name="kingdom_rush_frontiers_background">#F0E6D8</color>
+    <color name="kingdom_rush_origins_background">#F0E6D8</color>
+    <color name="kingdom_rush_vengeance_background">#F0E6D8</color>
+    <color name="link2sd_background">#5B5F6A</color>
+    <color name="olx_background">#018F5B</color>
+    <color name="orbi_wifi_background">#4F4F4F</color>
+    <color name="popup_widget_background">#20C88C</color>
+    <color name="sync_me_background">#0088D4</color>
+    <color name="timer_background">#28B628</color>
+    <color name="xodo_background">#E9E9E9</color>
 </resources>
