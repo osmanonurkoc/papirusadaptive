@@ -150,6 +150,7 @@
     <item>activity_task</item>
     <item>a_plus_gallery</item>
     <item>adapticons</item>
+    <item>adaptive_pack</item>
     <item>adaway</item>
     <item>adblock_fast</item>
     <item>adguard</item>
@@ -200,6 +201,7 @@
     <item>apps_free</item>
     <item>apps_freezer</item>
     <item>app_watcher</item>
+    <item>aqua_mail</item>
     <item>asos</item>
     <item>astro_file_manager</item>
     <item>asus_laser_ruler</item>
@@ -209,6 +211,7 @@
     <item>asus_zentalk</item>
     <item>asus_zenui_help</item>
     <item>audible</item>
+    <item>audible2</item>
     <item>aurora_droid</item>
     <item>authy</item>
     <item>autoapps</item>
@@ -223,9 +226,11 @@
     <item>aviary</item>
     <item>azan_time</item>
     <item>backdrops</item>
+    <item>background_eraser</item>
     <item>backup</item>
     <item>banco_do_brasil</item>
     <item>banggood</item>
+    <item>barclays</item>
     <item>bbc</item>
     <item>beauty_plus</item>
     <item>belfius</item>
@@ -242,6 +247,7 @@
     <item>bla_bla_car</item>
     <item>blokada</item>
     <item>blokada2</item>
+    <item>bloons_td5</item>
     <item>booking_com</item>
     <item>boost_for_reddit</item>
     <item>bouncer</item>
@@ -263,6 +269,7 @@
     <item>chefkoch</item>
     <item>chess</item>
     <item>chronus</item>
+    <item>citymapper</item>
     <item>claro</item>
     <item>clash_royale</item>
     <item>cleaner</item>
@@ -280,6 +287,7 @@
     <item>customized_pixel_launcher</item>
     <item>cymetry</item>
     <item>dailyhunt</item>
+    <item>damon_ps2</item>
     <item>daraz</item>
     <item>dashlane</item>
     <item>deezer</item>
@@ -296,6 +304,7 @@
     <item>dopewalls</item>
     <item>download_navi</item>
     <item>dr_web</item>
+    <item>draw</item>
     <item>drastic</item>
     <item>duolingo</item>
     <item>dy_dx</item>
@@ -311,6 +320,7 @@
     <item>epub</item>
     <item>es_file_manager</item>
     <item>evernote</item>
+    <item>express_vpn</item>
     <item>fabby</item>
     <item>facebook</item>
     <item>facebook_lite</item>
@@ -335,16 +345,19 @@
     <item>flickr</item>
     <item>flipboard</item>
     <item>flipkart</item>
+    <item>fl_studio</item>
     <item>flud</item>
     <item>flym</item>
     <item>focus</item>
     <item>focus_go</item>
     <item>fonts</item>
     <item>for_pda</item>
+    <item>free_now</item>
     <item>friendly_for_instagram</item>
     <item>foursquare</item>
     <item>foxit_reader</item>
     <item>frog_weather</item>
+    <item>fx_file_explorer</item>
     <item>game_booster_x</item>
     <item>games2</item>
     <item>gaming_zone</item>
@@ -359,6 +372,7 @@
     <item>grab2</item>
     <item>gratus</item>
     <item>greenify</item>
+    <item>gsmarena</item>
     <item>gta_vice_city</item>
     <item>guard</item>
     <item>gym_run</item>
@@ -390,11 +404,17 @@
     <item>java</item>
     <item>jpeg_optimizer</item>
     <item>kamusku</item>
+    <item>kapten</item>
     <item>kdeconnect</item>
     <item>kdeconnect2</item>
     <item>kgwt</item>
     <item>khan_academy</item>
+    <item>kingdom_rush</item>
+    <item>kingdom_rush_frontiers</item>
+    <item>kingdom_rush_origins</item>
+    <item>kingdom_rush_vengeance</item>
     <item>kiwi_browser</item>
+    <item>klwp</item>
     <item>kodi</item>
     <item>kuji_cam</item>
     <item>launcher</item>
@@ -408,6 +428,7 @@
     <item>lens_disturtions</item>
     <item>limbo</item>
     <item>lineage_downloader</item>
+    <item>link2sd</item>
     <item>linked_in</item>
     <item>linked_in_lite</item>
     <item>linux</item>
@@ -441,6 +462,7 @@
     <item>migrate</item>
     <item>mint_browser</item>
     <item>miui_ify</item>
+    <item>mixplorer</item>
     <item>month</item>
     <item>monument_valley</item>
     <item>monument_valley2</item>
@@ -476,13 +498,17 @@
     <item>nova_launcher_prime</item>
     <item>nova_tesla_unread</item>
     <item>nvidia</item>
+    <item>olx</item>
+    <item>oneplus_switch</item>
     <item>open_in_whatsapp</item>
     <item>open_link_with</item>
     <item>opera</item>
     <item>opera_beta</item>
     <item>opera_mini</item>
+    <item>orbi_wifi</item>
     <item>o_roaming</item>
     <item>overdrop</item>
+    <item>oxygen_updater</item>
     <item>pacman</item>
     <item>paid_free</item>
     <item>password</item>
@@ -510,6 +536,7 @@
     <item>pocket</item>
     <item>pokemon</item>
     <item>popcorn</item>
+    <item>popup_widget</item>
     <item>portra</item>
     <item>poweramp</item>
     <item>power_vpn</item>
@@ -565,6 +592,7 @@
     <item>smart_office</item>
     <item>snail_ride</item>
     <item>snapchat</item>
+    <item>solo_launcher</item>
     <item>soundcloud</item>
     <item>spark</item>
     <item>speedtest</item>
@@ -582,6 +610,7 @@
     <item>store</item>
     <item>store2</item>
     <item>swift_backup</item>
+    <item>sync_me</item>
     <item>syncthing_fork</item>
     <item>teamspeak3</item>
     <item>teamviewer</item>
@@ -593,6 +622,7 @@
     <item>texpand</item>
     <item>tiles</item>
     <item>timbre</item>
+    <item>timer</item>
     <item>todoist</item>
     <item>tokopedia</item>
     <item>tor</item>
@@ -625,18 +655,22 @@
     <item>video_player</item>
     <item>video_transcoder</item>
     <item>vimeo</item>
+    <item>viper4android_fx</item>
     <item>virus_cleaner</item>
     <item>vk</item>
     <item>vlc</item>
+    <item>vlc_remote</item>
     <item>vodafone</item>
     <item>vpn</item>
     <item>vsco</item>
+    <item>vysor</item>
     <item>waip</item>
     <item>walldrobe</item>
     <item>wallhub</item>
     <item>walli</item>
     <item>wallpaper_modder</item>
     <item>walpy</item>
+    <item>waze</item>
     <item>wearable_extensions</item>
     <item>weather</item>
     <item>weather2</item>
@@ -659,6 +693,7 @@
     <item>xda_feed</item>
     <item>xda_labs</item>
     <item>xender</item>
+    <item>xodo</item>
     <item>yahoo_mail</item>
     <item>yandex_browser</item>
     <item>yandex_disk</item>
