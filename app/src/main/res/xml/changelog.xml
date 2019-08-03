@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="5th Release" />
-    <item text="Added 57 new icons" />
-    <item text="Some icons redesigned and fixed" />
-    <item text="Improved Samsung UI support" />
+    <version title="6th Release" />
+    <item text="Added 36 new icon" />
+    <item text="Changed clock widget" />
+    <item text="Added new launchers to apply tab" />
+    <item text="Changed some ui elements" />
+    <item text="Updated Blueprint dashboard" />
+    <item text="Added new wallpapers" />
     <item text="Now, icon pack contains" />
-    <item text="1001 adaptive and pixelish static icon" />
+    <item text="1036 adaptive and pixelish static icon" />
+    <item text="101 wallpaper" />
     <item text="If you like icon pack, support me. Make a donation." />
     <item text="Thank you for downloading. Make icon request for missing icons. I try cover them." />
 </resources>
