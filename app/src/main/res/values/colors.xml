@@ -105,7 +105,7 @@
     <color name="papirus_equalizer_background">#585C75</color>
     <color name="papirus_evernote_background">#3B4446</color>
     <color name="firefox_background">#486BA8</color>
-    <color name="firefox_focus_background">#254C8C</color>
+    <color name="firefox_nightly_background">#254C8C</color>
     <color name="papirus_fit_background">#4F4F4F</color>
     <color name="papirus_flickr_background">#D2D2D2</color>
     <color name="papirus_foursquare_background">#FA4778</color>
@@ -576,4 +576,15 @@
     <color name="sync_me_background">#0088D4</color>
     <color name="timer_background">#28B628</color>
     <color name="xodo_background">#E9E9E9</color>
+    <color name="downloads3_background">#626262</color>
+    <color name="ds_video_background">#E83238</color>
+    <color name="fing_background">#009EEE</color>
+    <color name="firefox2_background">#486BA8</color>
+    <color name="firefox_focus2_background">#CC0071</color>
+    <color name="firefox_focus_background">#D82772</color>
+    <color name="firefox_nightly2_background">#254989</color>
+    <color name="lastpass_background">#4F4F4F</color>
+    <color name="octo_stream_background">#3FB2AB</color>
+    <color name="spotify2_background">#1ED760</color>
+    <color name="tiktok_background">#3F3F3F</color>
 </resources>

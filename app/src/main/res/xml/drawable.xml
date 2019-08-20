@@ -26,6 +26,7 @@
     <item drawable="dialer3" />
     <item drawable="downloads" />
     <item drawable="downloads2" />
+    <item drawable="downloads3" />
     <item drawable="equalizer" />
     <item drawable="files" />
     <item drawable="files2" />
@@ -310,6 +311,7 @@
     <item drawable="dr_web" />
     <item drawable="draw" />
     <item drawable="drastic" />
+    <item drawable="ds_video" />
     <item drawable="duolingo" />
     <item drawable="dy_dx" />
     <item drawable="easy_dnd" />
@@ -336,9 +338,15 @@
     <item drawable="fdroid" />
     <item drawable="feedback" />
     <item drawable="figma" />
+    <item drawable="fing" />
     <item drawable="firefox" />
     <item drawable="firefox_beta" />
     <item drawable="firefox_focus" />
+    <item drawable="firefox_nightly" />
+    <item drawable="firefox2" />
+    <item drawable="firefox_beta2" />
+    <item drawable="firefox_focus2" />
+    <item drawable="firefox_nightly2" />
     <item drawable="firefox_lockwise" />
     <item drawable="firefox_send" />
     <item drawable="fitbit" />
@@ -424,6 +432,7 @@
     <item drawable="launcher" />
     <item drawable="launcher3" />
     <item drawable="last_fm" />
+    <item drawable="lastpass" />
     <item drawable="lawnchair" />
     <item drawable="lawnchair_settings" />
     <item drawable="lazada" />
@@ -483,6 +492,7 @@
     <item drawable="ms_outlook" />
     <item drawable="ms_onedrive" />
     <item drawable="music_maker_jam" />
+    <item drawable="musixmatch" />
     <item drawable="muzei" />
     <item drawable="mx_player" />
     <item drawable="my_asus" />
@@ -502,6 +512,7 @@
     <item drawable="nova_launcher_prime" />
     <item drawable="nova_tesla_unread" />
     <item drawable="nvidia" />
+    <item drawable="octo_stream" />
     <item drawable="olx" />
     <item drawable="oneplus_switch" />
     <item drawable="open_in_whatsapp" />
@@ -566,6 +577,7 @@
     <item drawable="resize_me" />
     <item drawable="ringtone_maker" />
     <item drawable="root" />
+    <item drawable="root_explorer" />
     <item drawable="ruthless_launcher" />
     <item drawable="qr_reader" />
     <item drawable="samsung_members" />
@@ -603,6 +615,7 @@
     <item drawable="sportstracker" />
     <item drawable="sportstracker2" />
     <item drawable="spotify" />
+    <item drawable="spotify2" />
     <item drawable="squid" />
     <item drawable="stack" />
     <item drawable="steam" />
@@ -624,9 +637,11 @@
     <item drawable="telegramx2" />
     <item drawable="terminal" />
     <item drawable="texpand" />
+    <item drawable="tiktok" />
     <item drawable="tiles" />
     <item drawable="timbre" />
     <item drawable="timer" />
+    <item drawable="titanium_backup" />
     <item drawable="todoist" />
     <item drawable="tokopedia" />
     <item drawable="tor" />
@@ -635,6 +650,7 @@
     <item drawable="touch_task" />
     <item drawable="tree" />
     <item drawable="true_caller" />
+    <item drawable="tuenti" />
     <item drawable="tumblr" />
     <item drawable="tunnel_bear" />
     <item drawable="turkcell" />
@@ -691,6 +707,7 @@
     <item drawable="wire" />
     <item drawable="wom_wifi" />
     <item drawable="wordpress" />
+    <item drawable="wordreference" />
     <item drawable="wps_fill" />
     <item drawable="wps_office" />
     <item drawable="xda" />
