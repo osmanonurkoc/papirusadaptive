@@ -17,7 +17,7 @@
 	<color name="dark_theme_dialogs_button_color">@color/dark_theme_accent</color>
 	<color name="splash_dark_status_bar">@color/dark_theme_primary_dark</color>
     <color name="go_btn_bg">#EEEEEE</color>
-    <color name="ic_launcher_icon_pack_background">#50DDEE</color>
+    <color name="ic_launcher_icon_pack_background">#335A9E</color>
     <color name="apps_netflix_background">#4F4F4F</color>
     <color name="apps_matlab_background">#FF9959</color>
     <color name="papirus_settings_background">#E94A63</color>
