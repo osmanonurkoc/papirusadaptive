@@ -26,6 +26,7 @@
     <item>dialer3</item>
     <item>downloads</item>
     <item>downloads2</item>
+    <item>downloads3</item>
     <item>equalizer</item>
     <item>files</item>
     <item>files2</item>
@@ -302,10 +303,12 @@
     <item>dolby_atmos</item>
     <item>dolphin_browser</item>
     <item>dopewalls</item>
+    <item>download_manager</item>
     <item>download_navi</item>
     <item>dr_web</item>
     <item>draw</item>
     <item>drastic</item>
+    <item>ds_video</item>
     <item>duolingo</item>
     <item>dy_dx</item>
     <item>easy_dnd</item>
@@ -332,10 +335,19 @@
     <item>fdroid</item>
     <item>feedback</item>
     <item>figma</item>
+    <item>fing</item>
     <item>firefox</item>
+    <item>firefox2</item>
+    <item>firefox3</item>
     <item>firefox_beta</item>
+    <item>firefox_beta2</item>
+    <item>firefox_beta3</item>
     <item>firefox_focus</item>
+    <item>firefox_focus2</item>
+    <item>firefox_nightly</item>
+    <item>firefox_nightly2</item>
     <item>firefox_lockwise</item>
+    <item>firefox_preview</item>
     <item>firefox_send</item>
     <item>fitbit</item>
     <item>fk_kernel_manager</item>
@@ -420,6 +432,7 @@
     <item>launcher</item>
     <item>launcher3</item>
     <item>last_fm</item>
+    <item>lastpass</item>
     <item>lawnchair</item>
     <item>lawnchair_settings</item>
     <item>lazada</item>
@@ -478,11 +491,15 @@
     <item>ms_onenote</item>
     <item>ms_outlook</item>
     <item>ms_onedrive</item>
+    <item>ms_edge</item>
+    <item>ms_teams</item>
     <item>music_maker_jam</item>
+    <item>musixmatch</item>
     <item>muzei</item>
     <item>mx_player</item>
     <item>my_asus</item>
     <item>my_bpost</item>
+    <item>my_cloud</item>
     <item>my_orange</item>
     <item>my_proximus</item>
     <item>nav_explorer</item>
@@ -498,6 +515,7 @@
     <item>nova_launcher_prime</item>
     <item>nova_tesla_unread</item>
     <item>nvidia</item>
+    <item>octo_stream</item>
     <item>olx</item>
     <item>oneplus_switch</item>
     <item>open_in_whatsapp</item>
@@ -562,6 +580,8 @@
     <item>resize_me</item>
     <item>ringtone_maker</item>
     <item>root</item>
+    <item>root_explorer</item>
+    <item>rss_reader</item>
     <item>ruthless_launcher</item>
     <item>qr_reader</item>
     <item>samsung_members</item>
@@ -599,6 +619,7 @@
     <item>sportstracker</item>
     <item>sportstracker2</item>
     <item>spotify</item>
+    <item>spotify2</item>
     <item>squid</item>
     <item>stack</item>
     <item>steam</item>
@@ -620,9 +641,11 @@
     <item>telegramx2</item>
     <item>terminal</item>
     <item>texpand</item>
+    <item>tiktok</item>
     <item>tiles</item>
     <item>timbre</item>
     <item>timer</item>
+    <item>titanium_backup</item>
     <item>todoist</item>
     <item>tokopedia</item>
     <item>tor</item>
@@ -631,6 +654,7 @@
     <item>touch_task</item>
     <item>tree</item>
     <item>true_caller</item>
+    <item>tuenti</item>
     <item>tumblr</item>
     <item>tunnel_bear</item>
     <item>turkcell</item>
@@ -687,6 +711,7 @@
     <item>wire</item>
     <item>wom_wifi</item>
     <item>wordpress</item>
+    <item>wordreference</item>
     <item>wps_fill</item>
     <item>wps_office</item>
     <item>xda</item>
