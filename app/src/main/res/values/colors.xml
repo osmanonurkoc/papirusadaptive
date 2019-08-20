@@ -587,4 +587,9 @@
     <color name="octo_stream_background">#3FB2AB</color>
     <color name="spotify2_background">#1ED760</color>
     <color name="tiktok_background">#3F3F3F</color>
+    <color name="firefox_preview_background">#E2E2E2</color>
+    <color name="microsoft_edge_background">#0078D7</color>
+    <color name="microsoft_teams_background">#CDCEEC</color>
+    <color name="my_cloud_background">#207BF6</color>
+    <color name="firefox3_background">#583A8A</color>
 </resources>

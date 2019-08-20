@@ -468,12 +468,12 @@
     <item component="ComponentInfo{}" drawable="" />
     <item component="ComponentInfo{}" drawable="" />
     <item component="ComponentInfo{}" drawable="" />
-    <item component="ComponentInfo{}" drawable="" />
-    <item component="ComponentInfo{}" drawable="" />
-    <item component="ComponentInfo{}" drawable="" />
-    <item component="ComponentInfo{}" drawable="" />
-    <item component="ComponentInfo{}" drawable="" />
-    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{com.madsvyat.simplerssreader/com.madsvyat.simplerssreader.activity.SplashActivity}" drawable="rss_reader" />
+    <item component="ComponentInfo{com.magdalm.downloadmanager/com.magdalm.downloadmanager.PolicyActivity}" drawable="download_manager" />
+    <item component="ComponentInfo{com.wdc.wd2go/com.wdc.wd2go.ui.activity.SplashActivity}" drawable="my_cloud" />
+    <item component="ComponentInfo{org.mozilla.fenix/org.mozilla.fenix.HomeActivity}" drawable="firefox_preview" />
+    <item component="ComponentInfo{com.microsoft.teams/com.microsoft.skype.teams.Launcher}" drawable="ms_teams" />
+    <item component="ComponentInfo{com.microsoft.emmx/com.microsoft.ruby.Main}" drawable="ms_edge" />
     <item component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.fennec_aurora.App}" drawable="firefox_nightly2" />
     <item component="ComponentInfo{com.wordreference/com.wordreference.MainApp}" drawable="wordreference" />
     <item component="ComponentInfo{com.tuenti.messenger/com.tuenti.messenger.ui.activity.MainActivity}" drawable="tuenti" />
