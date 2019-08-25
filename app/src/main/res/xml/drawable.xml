@@ -965,7 +965,7 @@
     <item drawable="settings_violet" />
     <item drawable="settings_yellow" />
 
-    <category title="Folders Black" />
+    <category title="Folders" />
     <item drawable="folder_black_camera" />
     <item drawable="folder_black_documents" />
     <item drawable="folder_black_favorites" />
@@ -978,8 +978,6 @@
     <item drawable="folder_black_system" />
     <item drawable="folder_black_various" />
     <item drawable="folder_black_videos" />
-
-    <category title="Folders Blue" />
     <item drawable="folder_blue_camera" />
     <item drawable="folder_blue_documents" />
     <item drawable="folder_blue_favorites" />
@@ -992,8 +990,6 @@
     <item drawable="folder_blue_system" />
     <item drawable="folder_blue_various" />
     <item drawable="folder_blue_videos" />
-
-    <category title="Folders Bluegrey" />
     <item drawable="folder_bluegrey_camera" />
     <item drawable="folder_bluegrey_documents" />
     <item drawable="folder_bluegrey_favorites" />
@@ -1006,8 +1002,6 @@
     <item drawable="folder_bluegrey_system" />
     <item drawable="folder_bluegrey_various" />
     <item drawable="folder_bluegrey_videos" />
-
-    <category title="Folders Brown" />
     <item drawable="folder_brown_camera" />
     <item drawable="folder_brown_documents" />
     <item drawable="folder_brown_favorites" />
@@ -1020,8 +1014,6 @@
     <item drawable="folder_brown_system" />
     <item drawable="folder_brown_various" />
     <item drawable="folder_brown_videos" />
-
-    <category title="Folders Cyan" />
     <item drawable="folder_cyan_camera" />
     <item drawable="folder_cyan_documents" />
     <item drawable="folder_cyan_favorites" />
@@ -1034,8 +1026,6 @@
     <item drawable="folder_cyan_system" />
     <item drawable="folder_cyan_various" />
     <item drawable="folder_cyan_videos" />
-
-    <category title="Folders Green" />
     <item drawable="folder_green_camera" />
     <item drawable="folder_green_documents" />
     <item drawable="folder_green_favorites" />
@@ -1048,8 +1038,6 @@
     <item drawable="folder_green_system" />
     <item drawable="folder_green_various" />
     <item drawable="folder_green_videos" />
-
-    <category title="Folders Grey" />
     <item drawable="folder_grey_camera" />
     <item drawable="folder_grey_documents" />
     <item drawable="folder_grey_favorites" />
@@ -1062,8 +1050,6 @@
     <item drawable="folder_grey_system" />
     <item drawable="folder_grey_various" />
     <item drawable="folder_grey_videos" />
-
-    <category title="Folders Indigo" />
     <item drawable="folder_indigo_camera" />
     <item drawable="folder_indigo_documents" />
     <item drawable="folder_indigo_favorites" />
@@ -1076,8 +1062,6 @@
     <item drawable="folder_indigo_system" />
     <item drawable="folder_indigo_various" />
     <item drawable="folder_indigo_videos" />
-
-    <category title="Folders Magenta" />
     <item drawable="folder_magenta_camera" />
     <item drawable="folder_magenta_documents" />
     <item drawable="folder_magenta_favorites" />
@@ -1090,8 +1074,6 @@
     <item drawable="folder_magenta_system" />
     <item drawable="folder_magenta_various" />
     <item drawable="folder_magenta_videos" />
-
-    <category title="Folders Orange" />
     <item drawable="folder_orange_camera" />
     <item drawable="folder_orange_documents" />
     <item drawable="folder_orange_favorites" />
@@ -1104,8 +1086,6 @@
     <item drawable="folder_orange_system" />
     <item drawable="folder_orange_various" />
     <item drawable="folder_orange_videos" />
-
-    <category title="Folders Pink" />
     <item drawable="folder_pink_camera" />
     <item drawable="folder_pink_documents" />
     <item drawable="folder_pink_favorites" />
@@ -1118,8 +1098,6 @@
     <item drawable="folder_pink_system" />
     <item drawable="folder_pink_various" />
     <item drawable="folder_pink_videos" />
-
-    <category title="Folders Red" />
     <item drawable="folder_red_camera" />
     <item drawable="folder_red_documents" />
     <item drawable="folder_red_favorites" />
@@ -1132,8 +1110,6 @@
     <item drawable="folder_red_system" />
     <item drawable="folder_red_various" />
     <item drawable="folder_red_videos" />
-
-    <category title="Folders Teal" />
     <item drawable="folder_teal_camera" />
     <item drawable="folder_teal_documents" />
     <item drawable="folder_teal_favorites" />
@@ -1146,8 +1122,6 @@
     <item drawable="folder_teal_system" />
     <item drawable="folder_teal_various" />
     <item drawable="folder_teal_videos" />
-
-    <category title="Folders Violet" />
     <item drawable="folder_violet_camera" />
     <item drawable="folder_violet_documents" />
     <item drawable="folder_violet_favorites" />
@@ -1160,8 +1134,6 @@
     <item drawable="folder_violet_system" />
     <item drawable="folder_violet_various" />
     <item drawable="folder_violet_videos" />
-
-    <category title="Folders Yellow" />
     <item drawable="folder_yellow_camera" />
     <item drawable="folder_yellow_documents" />
     <item drawable="folder_yellow_favorites" />
