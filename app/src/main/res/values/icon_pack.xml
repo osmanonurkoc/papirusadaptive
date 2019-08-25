@@ -1,6 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <string-array name="icons_preview">
+    <item>abstruct2</item>
+    <item>airaudio</item>
+    <item>alienware_arena</item>
+    <item>avencis_ssox</item>
+    <item>coub</item>
+    <item>edge_wallpaper</item>
+    <item>fip_radio</item>
+    <item>four_pda</item>
+    <item>gearbest</item>
+    <item>google_authenticator</item>
+    <item>google_camera4</item>
+    <item>google_go</item>
+    <item>lime</item>
+    <item>marseille_le_velo</item>
+    <item>maxim</item>
+    <item>mazes_more</item>
+    <item>megaphone</item>
+    <item>mimo</item>
+    <item>miui_hidden_settings</item>
+    <item>moon</item>
+    <item>myedenred</item>
+    <item>newpipe</item>
+    <item>oneui_iconpack</item>
+    <item>owncloud</item>
+    <item>pubg_lite</item>
+    <item>puhu_tv</item>
+    <item>qiwi</item>
+    <item>reddit_is_fun</item>
+    <item>rutaxi</item>
+    <item>samsung_pass</item>
+    <item>samsung_pay</item>
+    <item>samsung_smart_switch</item>
+    <item>samsung_smart_things</item>
+    <item>sea_battle</item>
+    <item>simontok</item>
+    <item>solitaire</item>
+    <item>swiftkey_keyboard</item>
+    <item>totalcmd_wifi_transfer</item>
+    <item>total_commander</item>
+    <item>vidmate</item>
+    <item>virtual_hots</item>
+    <item>wifi_analyzer</item>
+    <item>wps_office2</item>
+    <item>yandex</item>
+    <item>yandex_launcher</item>
+    <item>yandex_maps</item>
+    <item>yandex_music</item>
+    <item>yandex_taxi</item>
+    <item>yandex_weather</item>
+    <item>zona</item>
     <item>browser</item>
     <item>browser2</item>
     <item>browser3</item>
