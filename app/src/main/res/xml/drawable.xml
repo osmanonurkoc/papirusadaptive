@@ -788,6 +788,22 @@
     <item drawable="ziraat" />
 
     <category title="Colored System Icons" />
+    <item drawable="browser_black" />
+    <item drawable="browser_blue" />
+    <item drawable="browser_bluegrey" />
+    <item drawable="browser_black" />
+    <item drawable="browser_brown" />
+    <item drawable="browser_cyan" />
+    <item drawable="browser_green" />
+    <item drawable="browser_grey" />
+    <item drawable="browser_indigo" />
+    <item drawable="browser_magenta" />
+    <item drawable="browser_orange" />
+    <item drawable="browser_pink" />
+    <item drawable="browser_red" />
+    <item drawable="browser_teal" />
+    <item drawable="browser_violet" />
+    <item drawable="browser_yellow" />
     <item drawable="camera_black" />
     <item drawable="camera_blue" />
     <item drawable="camera_bluegrey" />
