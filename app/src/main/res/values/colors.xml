@@ -626,4 +626,7 @@
     <color name="yandex_taxi_background">#FFCC00</color>
     <color name="yandex_weather_background">#E3E3E3</color>
     <color name="zona_background">#112C39</color>
+    <color name="bloons_td5_background">#1A4C5E</color>
+    <color name="bloons_td6_background">#2FC2EF</color>
+    <color name="wallpaper_expert_background">#704774</color>
 </resources>
