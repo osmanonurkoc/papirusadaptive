@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<style name="MySplashScreen" parent="LightTheme.SplashScreen"/>
-	<integer name="default_theme">0</integer>
+	<integer name="default_theme">4</integer>
 </resources>
