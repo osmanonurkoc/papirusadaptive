@@ -158,7 +158,7 @@
     <color name="slack2_background">#612862</color>
     <color name="video_background">#4F4F4F</color>
     <color name="videos2_background">#4F4F4F</color>
-    <color name="eksin_background">#282E2E</color>
+    <color name="eksin_background">#4D4D4D</color>
     <color name="google_duo_background">#1A73E8</color>
     <color name="snapseed_background">#454545</color>
     <color name="adventurecap_background">#FBE643</color>
@@ -368,7 +368,7 @@
     <color name="storage_organizer_background">#8E8E8E</color>
     <color name="telegram2_background">#28A4E2</color>
     <color name="telegramx2_background">#404853</color>
-    <color name="timbre_background">#E6E6E6</color>
+    <color name="timbre_background">#E4E4E4</color>
     <color name="todoist_background">#C2352A</color>
     <color name="tor2_background">#7A1EA9</color>
     <color name="true_caller_background">#0090E8</color>
@@ -513,7 +513,7 @@
     <color name="google_analytics_background">#F6F3EC</color>
     <color name="lawnchair_settings_background">#EFEFEF</color>
     <color name="u_get_background">#72A637</color>
-    <color name="yandex_translate_background">#A3A3A3</color>
+    <color name="yandex_translate_background">#6C6C6C</color>
     <color name="adblock_fast_background">#DBDBDB</color>
     <color name="alexa_background">#1D232B</color>
     <color name="appdeals_background">#C62828</color>
@@ -521,7 +521,7 @@
     <color name="benefits_background">#EFEFEF</color>
     <color name="booking_com_background">#EFEFEF</color>
     <color name="daraz_background">#E6E6E6</color>
-    <color name="dopewalls_background">#E6E6E6</color>
+    <color name="dopewalls_background">#61E4B4</color>
     <color name="ebay_background">#F5F5F5</color>
     <color name="enlight_pixaloop_background">#20123A</color>
     <color name="firefox_lockwise_background">#20123A</color>
@@ -629,4 +629,5 @@
     <color name="bloons_td5_background">#1A4C5E</color>
     <color name="bloons_td6_background">#2FC2EF</color>
     <color name="wallpaper_expert_background">#704774</color>
+    <color name="play_games2_background">#007235</color>
 </resources>
