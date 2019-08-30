@@ -630,4 +630,19 @@
     <color name="bloons_td6_background">#2FC2EF</color>
     <color name="wallpaper_expert_background">#704774</color>
     <color name="play_games2_background">#007235</color>
+    <color name="bible_background">#3D65C2</color>
+    <color name="chromium_background">#6B9EDF</color>
+    <color name="google_chrome2_background">#E64646</color>
+    <color name="google_chrome_canary_background">#F6BF26</color>
+    <color name="yandex_browser_lite_background">#E2E2E2</color>
+    <color name="yandex_mail_background">#C59423</color>
+    <color name="yandex_navigation_background">#E2E2E2</color>
+    <color name="accuweather_background">#F26816</color>
+    <color name="afterlight_background">#26A69A</color>
+    <color name="airbnb_background">#FF5A60</color>
+    <color name="play_books2_background">#009BF0</color>
+    <color name="play_movies2_background">#D00147</color>
+    <color name="a5217_background">#6AF9B1</color>
+    <color name="betternet_background">#0D89F4</color>
+    <color name="google_assistant_launcher_background">#3779D7</color>
 </resources>
