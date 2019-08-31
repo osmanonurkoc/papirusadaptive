@@ -98,7 +98,7 @@ android {
 
 dependencies {
     // Blueprint
-    implementation('com.jahirfiquitiva:Blueprint:1.4.6@aar') {
+    implementation('com.jahirfiquitiva:Blueprint:1.4.7@aar') {
         transitive = true
     }
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
