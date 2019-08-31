@@ -9,6 +9,6 @@
 	<bool name="xml_drawable_enabled">true</bool>
 	<bool name="with_drawer_texts">true</bool>
 	<bool name="enable_colored_cards">true</bool>
-	<integer name="max_apps_to_request">5</integer>
+	<integer name="max_apps_to_request">3</integer>
 	<integer name="time_limit_in_minutes">40320</integer>
 </resources>
