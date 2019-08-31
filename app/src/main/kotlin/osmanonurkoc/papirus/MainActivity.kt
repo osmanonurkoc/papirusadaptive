@@ -16,7 +16,6 @@
 package osmanonurkoc.papirus
 
 import com.github.javiersantos.piracychecker.PiracyChecker
-import osmanonurkoc.papirus.BuildConfig
 import jahirfiquitiva.libs.blueprint.models.NavigationItem
 import jahirfiquitiva.libs.blueprint.ui.activities.BottomNavigationBlueprintActivity
 
@@ -30,17 +29,16 @@ class MainActivity : BottomNavigationBlueprintActivity() {
      * These things here have the default values. You can delete the ones you don't want to change
      * and/or modify the ones you want to.
      */
-    override var donationsEnabled =false
-
+    override var donationsEnabled = true
     override fun amazonInstallsEnabled(): Boolean = false
-    override fun checkLPF(): Boolean = false
-    override fun checkStores(): Boolean = false
+    override fun checkLPF(): Boolean = true
+    override fun checkStores(): Boolean = true
 
     /**
      * This is your app's license key. Get yours on Google Play Dev Console.
      * Default one isn't valid and could cause issues in your app.
      */
-    override fun getLicKey(): String? = "MIIBIjANBgkqhkiGgKglYGYGihLuihUuhhuBlouBkuiu"
+    override fun getLicKey(): String? = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlZJuwTXUcn3EjI/hTGvXqi7/hk/N8dVbW8smGcxuGxD2XWshhlnSmKKTNSKb+iOFw0Kn/CQP+GR+mDTbK2A4Ry7japTRQiXv0XpoyPVU7l7TuNV87kLOm3ePnTGto80QJGf4DkWUbo8xVzL8M+uJQ1D77W+R6T5FG6EpkiE8DZnCahK0KXbPWT701fL4TidaVwc+alVyatL7Lx9QrtE06Vaf+YTjfFz/rz2vWTaxqXcLNZNj0iVZO8nTOD6UxzA23PpX6zjN07cZN0IpdMBaJNkPtAruDDkgd5dLs+waUVIh5ji/fe7dUwPQHi+RYSzOcBlP8P8HPT3/SrhL+fcAdQIDAQAB"
 
     /**
      * This is the license checker code. Feel free to create your own implementation or
@@ -50,9 +48,8 @@ class MainActivity : BottomNavigationBlueprintActivity() {
      */
     override fun getLicenseChecker(): PiracyChecker? {
         destroyChecker()
-        return null
-        //return if (BuildConfig.DEBUG) null
-        //else super.getLicenseChecker()
+        return if (BuildConfig.DEBUG) null
+        else super.getLicenseChecker()
     }
 
     /**
