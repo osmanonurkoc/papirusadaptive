@@ -144,7 +144,7 @@
     <color name="cpu_z_background">#419D45</color>
     <color name="facebook_lite_background">#F7F7F7</color>
     <color name="fb_messenger_lite_background">#F7F7F7</color>
-    <color name="updates_background">#F79735</color>
+    <color name="updates_background">#3F3F3F</color>
     <color name="airvpn_background">#006680</color>
     <color name="designer_tools_background">#88BA53</color>
     <color name="bittorrent_background">#9264C3</color>
@@ -645,4 +645,12 @@
     <color name="a5217_background">#6AF9B1</color>
     <color name="betternet_background">#0D89F4</color>
     <color name="google_assistant_launcher_background">#3779D7</color>
+    <color name="icon_request_background">#4F4F4F</color>
+    <color name="google_duo2_background">#E8E8E8</color>
+    <color name="google_keep2_background">#EE9200</color>
+    <color name="tempreture_background">#C2185B</color>
+    <color name="text_editor_background">#455A64</color>
+    <color name="sea_battle2_background">#191979</color>
+    <color name="bluetooth_app_sender_background">#3D3D3D</color>
+    <color name="sonic_background">#E8E8E8</color>
 </resources>
