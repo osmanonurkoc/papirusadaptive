@@ -8,7 +8,7 @@
         <item>Contact</item>
         <item>Community Group</item>
         <item>Source Code</item>
-        <item>Donation</item>
+        <item>Premium Icon Request</item>
         <item>MIUI Adaptive</item>
         <item>Other Icon Packs</item>
 
@@ -18,7 +18,7 @@
         <item>If you have a suggestion, complaint or anything. Write me.</item>
         <item>Telegram group of icon pack. Join and ask your questions.</item>
         <item>GitHub page of icon pack. If you are interested.</item>
-        <item>If you like icon pack, support me. Buy me a coffee.</item>
+        <item>Make a unlimited and priority icon request .</item>
         <item>MIUI 10 icons, more great, fully adaptive.</item>
         <item>My other adaptive icon packs. Maybe you might like it.</item>
     </string-array>
@@ -27,7 +27,7 @@
         <item>mail</item>
         <item>telegram</item>
         <item>github</item>
-        <item>donate</item>
+        <item>icon_request</item>
         <item>iconpack_miui</item>
         <item>rose</item>
 
@@ -36,7 +36,7 @@
         <item>mailto:osmanonurkoc@gmail.com</item>
         <item>https://t.me/joinchat/IfNYJFYUXWSmBD57_0VKOw</item>
         <item>https://github.com/osmanonurkoc/papirusadaptive/</item>
-        <item>market://details?id=osmanonurkoc.donate</item>
+        <item>market://details?id=osmanonurkoc.request</item>
         <item>market://details?id=osmanonurkoc.miuiadaptive</item>
         <item>https://play.google.com/store/apps/developer?id=osmanonurkoc</item>
     </string-array>
