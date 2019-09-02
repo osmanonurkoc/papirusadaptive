@@ -1,29 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <category title="New" />
+    <item drawable="a17_track2" />
     <item drawable="a5217" />
     <item drawable="accuweather" />
+    <item drawable="action_dash2" />
+    <item drawable="action_launcher2" />
     <item drawable="afterfocus" />
     <item drawable="afterlight" />
     <item drawable="airbnb" />
     <item drawable="airdroid" />
     <item drawable="all_in_one_calculator" />
     <item drawable="any_do" />
+    <item drawable="beeline" />
     <item drawable="betternet" />
     <item drawable="bible" />
     <item drawable="bloons_td5" />
     <item drawable="bloons_td6" />
+    <item drawable="bluetooth_app_sender" />
     <item drawable="busybox" />
     <item drawable="chromium" />
+    <item drawable="circle_cutter" />
     <item drawable="google_assistant_launcher" />
     <item drawable="google_chrome2" />
     <item drawable="google_chrome_canary" />
+    <item drawable="google_duo2" />
+    <item drawable="google_keep2" />
     <item drawable="kmplayer" />
     <item drawable="paper_artist" />
     <item drawable="play_books2" />
     <item drawable="play_games2" />
     <item drawable="play_movies2" />
     <item drawable="playstore2" />
+    <item drawable="poker" />
+    <item drawable="sea_battle2" />
+    <item drawable="sonic" />
+    <item drawable="tempreture" />
+    <item drawable="text_editor" />
+    <item drawable="updates" />
     <item drawable="wallpaper_expert" />
     <item drawable="yandex_browser_alpha" />
     <item drawable="yandex_browser_beta" />
@@ -310,6 +324,7 @@
     <item drawable="google_drive" />
     <item drawable="google_drive2" />
     <item drawable="google_duo" />
+    <item drawable="google_duo2" />
     <item drawable="google_earth" />
     <item drawable="google_fit" />
     <item drawable="google_files" />
@@ -318,6 +333,7 @@
     <item drawable="google_home" />
     <item drawable="hangouts" />
     <item drawable="google_keep" />
+    <item drawable="google_keep2" />
     <item drawable="google_lens" />
     <item drawable="google_maps" />
     <item drawable="google_messages" />
@@ -369,6 +385,7 @@
     <item drawable="a7_fon" />
     <item drawable="a9_gag" />
     <item drawable="a17_track" />
+    <item drawable="a17_track2" />
     <item drawable="abc_text_editor" />
     <item drawable="abstruct" />
     <item drawable="abstruct2" />
@@ -376,7 +393,9 @@
     <item drawable="accuweather" />
     <item drawable="ac_market" />
     <item drawable="action_dash" />
+    <item drawable="action_dash2" />
     <item drawable="action_launcher" />
+    <item drawable="action_launcher2" />
     <item drawable="activity_browser" />
     <item drawable="activity_task" />
     <item drawable="a_plus_gallery" />
@@ -473,6 +492,7 @@
     <item drawable="barclays" />
     <item drawable="bbc" />
     <item drawable="beauty_plus" />
+    <item drawable="beeline" />
     <item drawable="belfius" />
     <item drawable="benefits" />
     <item drawable="better_battery_stats" />
@@ -491,6 +511,7 @@
     <item drawable="blokada2" />
     <item drawable="bloons_td5" />
     <item drawable="bloons_td6" />
+    <item drawable="bluetooth_app_sender" />
     <item drawable="booking_com" />
     <item drawable="boost_for_reddit" />
     <item drawable="bouncer" />
@@ -513,6 +534,7 @@
     <item drawable="chefkoch" />
     <item drawable="chess" />
     <item drawable="chronus" />
+    <item drawable="circle_cutter" />
     <item drawable="citymapper" />
     <item drawable="claro" />
     <item drawable="clash_royale" />
@@ -815,6 +837,7 @@
     <item drawable="poco_launcher" />
     <item drawable="pocket" />
     <item drawable="pokemon" />
+    <item drawable="poker" />
     <item drawable="popcorn" />
     <item drawable="popup_widget" />
     <item drawable="portra" />
@@ -859,6 +882,7 @@
     <item drawable="screen_recorder" />
     <item drawable="sd_maid" />
     <item drawable="sea_battle" />
+    <item drawable="sea_battle2" />
     <item drawable="secure_task" />
     <item drawable="secure_vpn" />
     <item drawable="send_anywhere" />
@@ -886,6 +910,7 @@
     <item drawable="snapchat" />
     <item drawable="solitaire" />
     <item drawable="solo_launcher" />
+    <item drawable="sonic" />
     <item drawable="soundcloud" />
     <item drawable="spark" />
     <item drawable="speedtest" />
@@ -913,8 +938,10 @@
     <item drawable="telegram2" />
     <item drawable="telegramx" />
     <item drawable="telegramx2" />
+    <item drawable="tempreture" />
     <item drawable="terminal" />
     <item drawable="texpand" />
+    <item drawable="text_editor" />
     <item drawable="tiktok" />
     <item drawable="tiles" />
     <item drawable="timbre" />
@@ -947,6 +974,7 @@
     <item drawable="unified_remote_full" />
     <item drawable="universal_copy" />
     <item drawable="unnotification" />
+    <item drawable="updates" />
     <item drawable="utorrent" />
     <item drawable="via_browser" />
     <item drawable="viber" />
