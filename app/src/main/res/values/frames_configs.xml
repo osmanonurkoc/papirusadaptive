@@ -2,8 +2,8 @@
 <resources>
 	<bool name="use_old_json_format">false</bool>
 	<bool name="notifications_enabled_by_default">false</bool>
-	<style name="MySplashScreen" parent="LightTheme.SplashScreen" />
-	<integer name="default_theme">4</integer>
+	<style name="MySplashScreen" parent="DarkTheme.SplashScreen" />
+	<integer name="default_theme">1</integer>
 	<bool name="enable_colored_tiles">true</bool>
 	<bool name="show_bottom_sheet">true</bool>
 	<string name="walls_placeholder" translatable="false"></string>
