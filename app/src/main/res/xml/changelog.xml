@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="8th Release" />
-    <item text="Added 65 new icon" />
+    <version title="Version 2" />
+    <item text="Added 44 new icon" />
     <item text="Few icons redesigned" />
-    <item text="Icons recategorized" />
-    <item text="Added *NEW* section in icons tab" />
-    <item text="Some icon defaults changed" />
+    <item text="Icons reshaded" />
+    <item text="UI theme setted to change automatically." />
+    <item text="Some ui elements changed and dashboard updated." />
     <item text="Now, icon pack contains" />
-    <item text="1125 adaptive and pixelish static icon" />
+    <item text="1171 adaptive and pixelish static icon" />
     <item text="125 wallpaper" />
     <item text="If you like icon pack, support me. Make a donation." />
     <item text="Thank you for downloading. Make icon request for missing icons. I try cover them." />
