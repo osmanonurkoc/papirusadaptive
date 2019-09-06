@@ -652,4 +652,18 @@
     <color name="sea_battle2_background">#191979</color>
     <color name="bluetooth_app_sender_background">#3D3D3D</color>
     <color name="sonic_background">#E8E8E8</color>
+    <color name="ibispaint_x_background">#145D92</color>
+    <color name="pixelful_icons_background">#D0D0D0</color>
+    <color name="pixel_icons_background">#3778D5</color>
+    <color name="spotify_stations2_background">#F037A5</color>
+    <color name="spotify_stations_background">#F037A5</color>
+    <color name="textra_background">#E8E8E8</color>
+    <color name="twitter2_background">#2B97E9</color>
+    <color name="youtube4_background">#C2352A</color>
+    <color name="brainly_background">#3D3D3D</color>
+    <color name="floating_apps_background">#585858</color>
+    <color name="my_boy_background">#F9BE2D</color>
+    <color name="night_mode_for_samsung_background">#424957</color>
+    <color name="google_dialer2_background">#3D5AFE</color>
+    <color name="google_messages2_background">#3D5AFE</color>
 </resources>
