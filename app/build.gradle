@@ -47,12 +47,6 @@ android {
     }
 
     defaultConfig {
-        // TODO: Remove comment marks to enable
-        /*
-        manifestPlaceholders = [onesignal_app_id               : "abcd-1234-efgh-5678",
-                                // Project number pulled from dashboard, local value is ignored.
-                                onesignal_google_project_number: "1234567890"]
-                                */
         applicationId "osmanonurkoc.papirus"
         minSdkVersion 26
         targetSdkVersion versions.targetSdk
