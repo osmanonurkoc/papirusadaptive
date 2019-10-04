@@ -54,10 +54,10 @@ android {
                                 onesignal_google_project_number: "1234567890"]
                                 */
         applicationId "osmanonurkoc.papirus"
-        minSdkVersion versions.minSdk
+        minSdkVersion 26
         targetSdkVersion versions.targetSdk
-        versionCode 22
-        versionName "2.1"
+        versionCode 23
+        versionName "2.2"
         vectorDrawables.useSupportLibrary = true
         proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
         consumerProguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
