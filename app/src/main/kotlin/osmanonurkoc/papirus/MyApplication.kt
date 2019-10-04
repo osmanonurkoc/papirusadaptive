@@ -15,7 +15,7 @@
  */
 package osmanonurkoc.papirus
 
-import jahirfiquitiva.libs.blueprint.ui.BlueprintApp
+import jahirfiquitiva.libs.blueprint.BlueprintApp
 
 // TODO: Remove comment marks to enable
 // import com.onesignal.OneSignal
