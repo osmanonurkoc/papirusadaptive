@@ -32,7 +32,7 @@ class MainActivity : BottomNavigationBlueprintActivity() {
     override var donationsEnabled = true
     override fun amazonInstallsEnabled(): Boolean = false
     override fun checkLPF(): Boolean = false
-    override fun checkStores(): Boolean = true
+    override fun checkStores(): Boolean = false
 
     /**
      * This is your app's license key. Get yours on Google Play Dev Console.
