@@ -2,7 +2,7 @@
 <resources>
 
     <!-- Papirus Dynamic Clock -->
-    <dynamic-clock drawable="clock"
+    <dynamic-clock drawable="clock01"
         hourLayerIndex="0"
         minuteLayerIndex="1"
         secondLayerIndex="2"
@@ -11,7 +11,7 @@
         defaultSecond="30" />
 
     <!-- Papirus Dynamic Clock 2 -->
-    <dynamic-clock drawable="clock2"
+    <dynamic-clock drawable="clock02"
         hourLayerIndex="0"
         minuteLayerIndex="1"
         secondLayerIndex="2"
@@ -19,8 +19,8 @@
         defaultMinute="10"
         defaultSecond="30" />
 
-    <!-- Aosp Dynamic Clock -->
-    <dynamic-clock drawable="lineageos_clock"
+    <!-- Irısh UI Clock -->
+    <dynamic-clock drawable="clock03"
         hourLayerIndex="0"
         minuteLayerIndex="1"
         secondLayerIndex="2"
@@ -28,8 +28,8 @@
         defaultMinute="10"
         defaultSecond="30" />
 
-    <!-- AmirZaidi's Dynamic Clock -->
-    <dynamic-clock drawable="dynamic_clock2"
+    <!-- Google Clock -->
+    <dynamic-clock drawable="clock04"
         hourLayerIndex="0"
         minuteLayerIndex="1"
         secondLayerIndex="2"
@@ -37,8 +37,8 @@
         defaultMinute="10"
         defaultSecond="30" />
 
-    <!-- Google Dynamic Clock -->
-    <dynamic-clock drawable="dynamic_clock3"
+    <!-- Clock 5 -->
+    <dynamic-clock drawable="clock05"
         hourLayerIndex="0"
         minuteLayerIndex="1"
         secondLayerIndex="2"
@@ -46,9 +46,8 @@
         defaultMinute="10"
         defaultSecond="30" />
 
-
-    <!-- Material Dynamic Clock -->
-    <dynamic-clock drawable="dynamic_clock4"
+    <!-- OnePlus Clock -->
+    <dynamic-clock drawable="clock06"
         hourLayerIndex="0"
         minuteLayerIndex="1"
         secondLayerIndex="2"
@@ -56,8 +55,8 @@
         defaultMinute="10"
         defaultSecond="30" />
 
-    <!-- OnePlus Dynamic Clock -->
-    <dynamic-clock drawable="dynamic_clock5"
+    <!-- LıneageOS Clock -->
+    <dynamic-clock drawable="clock07"
         hourLayerIndex="0"
         minuteLayerIndex="1"
         secondLayerIndex="2"
@@ -65,8 +64,364 @@
         defaultMinute="10"
         defaultSecond="30" />
 
+    <!-- Asus ZenUI5 Clock -->
+    <dynamic-clock drawable="clock08"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10" />
 
+    <!-- Asus ZenUI4 Clock -->
+    <dynamic-clock drawable="clock09"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10" />
 
+    <!-- LG UI Clock -->
+    <dynamic-clock drawable="clock10"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10" />
+
+    <!-- MIUI Clock -->
+    <dynamic-clock drawable="clock11"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10" />
+
+    <!-- Samsung ONEUI Clock -->
+    <dynamic-clock drawable="clock12"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10" />
+
+    <!-- Sony Clock -->
+    <dynamic-clock drawable="clock13"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!-- Papirus Gnome Clock -->
+    <dynamic-clock drawable="clock14"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!-- Papirus KDE Clock -->
+    <dynamic-clock drawable="clock15"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!-- Mint-Y Clock -->
+    <dynamic-clock drawable="clock16"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!-- Linux Mint Gnome Clock -->
+    <dynamic-clock drawable="clock17"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!-- Paper Clock -->
+    <dynamic-clock drawable="clock18"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!-- Suru Clock -->
+    <dynamic-clock drawable="clock19"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!-- IOS Clock -->
+    <dynamic-clock drawable="clock020"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!-- Material Clock -->
+    <dynamic-clock drawable="clock021"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        defaultHour="10"
+        defaultMinute="10" />
+
+    <!--  Clock -->
+    <dynamic-clock drawable="clock022"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!--  Neon Clock -->
+    <dynamic-clock drawable="clock023"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!--  Neon Clock 2 -->
+    <dynamic-clock drawable="clock024"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!--  Amoled Clock  -->
+    <dynamic-clock drawable="clock025"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!--  Amoled Clock 2  -->
+    <dynamic-clock drawable="clock026"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!--  Amoled Clock 3  -->
+    <dynamic-clock drawable="clock027"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!--  Egzantrik Saat  -->
+    <dynamic-clock drawable="clock028"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!-- Wooden Clock -->
+    <dynamic-clock drawable="clock029"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        defaultHour="10"
+        defaultMinute="10" />
+
+    <!-- Cat  -->
+    <dynamic-clock drawable="clock30"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!--  Colorful Dark  -->
+    <dynamic-clock drawable="clock31"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!--  Black and White  -->
+    <dynamic-clock drawable="clock32"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!--  Material Design 2  -->
+    <dynamic-clock drawable="clock33"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!--  Purple  -->
+    <dynamic-clock drawable="clock34"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!--  Alcatel  -->
+    <dynamic-clock drawable="clock35"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!--  HTC  -->
+    <dynamic-clock drawable="clock36"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        defaultHour="10"
+        defaultMinute="10" /> 
+
+    <!--  day  -->
+    <dynamic-clock drawable="clock37"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!--  night  -->
+    <dynamic-clock drawable="clock38"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!--  dot  -->
+    <dynamic-clock drawable="clock39"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!--  dot  -->
+    <dynamic-clock drawable="clock40"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!--  dot  -->
+    <dynamic-clock drawable="clock41"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!--  dot  -->
+    <dynamic-clock drawable="clock42"
+
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!--  dot  -->
+    <dynamic-clock drawable="clock43"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!--  dot  -->
+    <dynamic-clock drawable="clock44"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!--  dot  -->
+    <dynamic-clock drawable="clock45"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!--  dot  -->
+    <dynamic-clock drawable="clock46"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!--  dot  -->
+    <dynamic-clock drawable="clock47"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <!--  dot  -->
+    <dynamic-clock drawable="clock48"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
 
     <!-- Global -->
     <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
@@ -75,7 +430,7 @@
     <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="camera4"/>
     <item component="ComponentInfo{com.android.camera/com.android.camera.CameraEntry}" drawable="camera4"/>
     <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="camera4"/>
-    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock2" />
+    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock02" />
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts2" />
     <item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="dialer" />
     <item component="ComponentInfo{com.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="dialer" />
@@ -97,7 +452,7 @@
     <item component="ComponentInfo{com.android.contacts/com.android.dialer.DialtactsActivity}" drawable="contacts_teal" />
 
     <!-- Google -->
-    <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock" />
+    <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock01" />
     <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="google_chrome" />
     <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="google_camera4" />
     <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="google_calendar" />
@@ -165,7 +520,7 @@
     <calendar component="ComponentInfo{com.asus.calendar/com.android.calendar.AllInOneActivity}" prefix="logo_calendar_" />
     <item component="ComponentInfo{com.asus.calculator/com.asus.calculator.Calculator}" drawable="calculator3" />
     <item component="ComponentInfo{com.asus.camera/com.asus.camera.CameraApp}" drawable="camera4" />
-    <item component="ComponentInfo{com.asus.deskclock/com.asus.deskclock.DeskClock}" drawable="clock2" />
+    <item component="ComponentInfo{com.asus.deskclock/com.asus.deskclock.DeskClock}" drawable="clock02" />
     <item component="ComponentInfo{com.asus.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts2" />
     <item component="ComponentInfo{com.asus.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="dialer" />
     <item component="ComponentInfo{com.asus.filemanager/com.asus.filemanager.activity.FileManagerActivity}" drawable="files3" />
@@ -208,7 +563,7 @@
     <calendar component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}" prefix="logo_calendar_" />
     <item component="ComponentInfo{com.htc.camera2/com.htc.camera2.CameraEntry}" drawable="camera4"/>
     <item component="ComponentInfo{com.htc.camera/com.htc.camera.CameraEntry}" drawable="camera4" />
-    <item component="ComponentInfo{com.htc.android.worldclock/com.htc.android.worldclock.WorldClockTabControl}" drawable="clock2" />
+    <item component="ComponentInfo{com.htc.android.worldclock/com.htc.android.worldclock.WorldClockTabControl}" drawable="clock02" />
     <item component="ComponentInfo{com.htc.contacts/com.htc.contacts.BrowseLayerCarouselActivity}" drawable="contacts3" />
     <item component="ComponentInfo{com.android.incallui/com.android.incallui.DialerLauncher}" drawable="dialer" />
     <item component="ComponentInfo{com.htc.filemanager/com.htc.filemanager.FileManagerActivity}" drawable="files2" />
@@ -228,7 +583,7 @@
 
     <!-- Huawei -->
     <item component="ComponentInfo{com.huawei.camera/com.huawei.camera}" drawable="camera4"/>
-    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmsMainActivity}" drawable="clock2" />
+    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmsMainActivity}" drawable="clock02" />
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="dialer" />
     <item component="ComponentInfo{com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager}" drawable="files4" />
     <item component="ComponentInfo{com.android.gallery3d/com.huawei.gallery.app.GalleryMain}" drawable="gallery4" />
@@ -246,7 +601,7 @@
 
     <!-- LG -->
     <item component="ComponentInfo{com.lge.camera/com.lge.camera.CameraAppLauncher}" drawable="camera7"/>
-    <item component="ComponentInfo{com.lge.clock/com.lge.clock.AlarmClockActivity}" drawable="clock2" />
+    <item component="ComponentInfo{com.lge.clock/com.lge.clock.AlarmClockActivity}" drawable="clock02" />
     <item component="ComponentInfo{com.lge.filemanager/com.lge.filemanager.view.LaunchActivity}" drawable="files2" />
     <item component="ComponentInfo{com.lge.email/com.lge.email.ui.setupwizard.Welcome}" drawable="mail2" />
     <item component="ComponentInfo{com.lge.qmemoplus/com.lge.qmemoplus.ui.main.MainActivity}" drawable="notes" />
@@ -261,7 +616,7 @@
     <!-- Lenovo -->
     <item component="ComponentInfo{com.lenovo.scg/com.lenovo.scg.camera.CameraLauncher}" drawable="camera4"/>
     <item component="ComponentInfo{com.thundersoft.ucam/com.android.camera.CameraLauncher}" drawable="camera4" />
-    <item component="ComponentInfo{com.lenovo.deskclock/com.lenovo.deskclock.DeskClock}" drawable="clock2" />
+    <item component="ComponentInfo{com.lenovo.deskclock/com.lenovo.deskclock.DeskClock}" drawable="clock02" />
     <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.PeopleActivity}" drawable="contacts2" />
     <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.DialtactsActivity}" drawable="dialer2" />
     <item component="ComponentInfo{com.lenovo.FileBrowser/com.lenovo.FileBrowser.activities.FileBrowserMain}" drawable="files2" />
@@ -294,7 +649,7 @@
     <calendar component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" prefix="logo_calendar_" />
     <item component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}" drawable="calculator3" />
     <item component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}" drawable="camera4"/>
-    <item component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" drawable="dynamic_clock5" />
+    <item component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" drawable="clock06" />
     <item component="ComponentInfo{com.android.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="contacts3" />
     <item component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}" drawable="dialer" />
     <item component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}" drawable="files4" />
@@ -308,7 +663,7 @@
 
     <!-- Oppo -->
     <item component="ComponentInfo{com.oppo.camera/com.oppo.camera.Camera}" drawable="camera4" />
-    <item component="ComponentInfo{com.oppo.alarmclock/com.oppo.alarmclock.AlarmClock}" drawable="clock2" />
+    <item component="ComponentInfo{com.oppo.alarmclock/com.oppo.alarmclock.AlarmClock}" drawable="clock02" />
     <item component="ComponentInfo{com.android.email/com.kingsoft.email.activity.Welcome}" drawable="mail" />
     <item component="ComponentInfo{com.oppo.filemanager/com.oppo.filemanager.Main}" drawable="files2" />
     <item component="ComponentInfo{com.oppo.gallery3d/com.oppo.gallery3d.app.Gallery}" drawable="gallery4" />
@@ -331,7 +686,7 @@
     <item component="ComponentInfo{com.sec.android.app.calculator/com.sec.android.app.calculator.Calculator}" drawable="calculator2" />
     <item component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}" drawable="calculator2" />
     <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="camera3"/>
-    <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}" drawable="clock2" />
+    <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}" drawable="clock02" />
     <item component="ComponentInfo{com.samsung.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts3" />
     <item component="ComponentInfo{com.samsung.android.contacts/com.samsung.android.contacts.contactslist.PeopleActivity}" drawable="contacts3" />
     <item component="ComponentInfo{com.samsung.android.contacts/com.android.dialer.DialtactsActivity}" drawable="dialer_green" />
@@ -368,7 +723,7 @@
     <item component="ComponentInfo{com.sonymobile.calendar/com.sonymobile.calendar.LaunchActivity}" drawable="calendar" />
     <calendar component="ComponentInfo{com.sonymobile.calendar/com.sonymobile.calendar.LaunchActivity}" prefix="logo_calendar_" />
     <item component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}" drawable="camera4"/>
-    <item component="ComponentInfo{com.sonyericsson.organizer/com.sonyericsson.organizer.Organizer}" drawable="clock2" />
+    <item component="ComponentInfo{com.sonyericsson.organizer/com.sonyericsson.organizer.Organizer}" drawable="clock02" />
     <item component="ComponentInfo{com.sonymobile.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts3" />
     <item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.DialtactsActivity}" drawable="dialer" />
     <item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="dialer" />
@@ -391,7 +746,7 @@
     <item component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="calendar" />
     <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" prefix="logo_calendar_" />
     <item component="ComponentInfo{com.miui.calculator/com.miui.calculator.cal.CalculatorActivity}" drawable="calculator3" />
-    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClockTabActivity}" drawable="clock2" />
+    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClockTabActivity}" drawable="clock02" />
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.TwelveKeyDialer}" drawable="dialer" />
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.TwelveKeyDialer}" drawable="dialer" />
     <item component="ComponentInfo{com.android.fileexplorer/com.android.fileexplorer.FileExplorerTabActivity}" drawable="files3" />
@@ -438,7 +793,7 @@
     <item component="ComponentInfo{org.codeaurora.gallery/com.android.gallery3d.app.GalleryActivity}" drawable="gallery2" />
 
     <!-- Color OS -->
-    <item component="ComponentInfo{com.coloros.alarmclock/com.coloros.alarmclock.AlarmClock}" drawable="clock2" />
+    <item component="ComponentInfo{com.coloros.alarmclock/com.coloros.alarmclock.AlarmClock}" drawable="clock02" />
     <item component="ComponentInfo{com.coloros.weather2/com.coloros.weather.OppoMainActivity}" drawable="weather3" />
     <item component="ComponentInfo{com.coloros.video/com.oppo.video.VideoListActivity}" drawable="videos3" />
     <item component="ComponentInfo{com.nearme.themestore/com.nearme.themespace.activities.ThemeActivity}" drawable="themes2" />
