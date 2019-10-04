@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="Version 2.1" />
-    <item text="Added 20 new icon" />
+    <version title="Version 2.2" />
+    <item text="Added 11 new icon" />
+    <item text="Added 41 dynamic clock" />
     <item text="Few icons redesigned" />
-    <item text="Few icons reshaded" />
-    <item text="Dashboard UI redesigned." />
-    <item text="Fixed license problems." />
+    <item text="Added 25 wallpaper." />
+    <item text="Updated dashboard." />
+    <item text="Removed support for pre-oreo devices." />
     <item text="Now, icon pack contains" />
-    <item text="1190 adaptive and pixelish static icon" />
-    <item text="125 wallpaper" />
+    <item text="1142 adaptive icon" />
+    <item text="150 wallpaper" />
     <item text="If you like icon pack, support me. Make a donation." />
     <item text="Thank you for downloading. Make icon request for missing icons. I try cover them." />
 </resources>
