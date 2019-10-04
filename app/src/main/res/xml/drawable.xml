@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <category title="New" />
-    <item drawable="aptoide" />
-    <item drawable="aptoide_uploader" />
-    <item drawable="brainly" />
-    <item drawable="business_calendar" />
-    <item drawable="google_dialer2" />
-    <item drawable="google_messages2" />
-    <item drawable="ibispaint_x" />
-    <item drawable="my_boy" />
-    <item drawable="night_mode_for_samsung" />
-    <item drawable="pixelful_icons" />
-    <item drawable="pixel_icons" />
-    <item drawable="school_planner" />
-    <item drawable="spanish_dictionary" />
-    <item drawable="spotify_stations" />
-    <item drawable="spotify_stations2" />
-    <item drawable="stokie" />
-    <item drawable="textra" />
-    <item drawable="twitter2" />
-    <item drawable="youtube4" />
+    <item drawable="airtel" />
+    <item drawable="android" />
+    <item drawable="between" />
+    <item drawable="memrise" />
+    <item drawable="minty_icons" />
+    <item drawable="skype2" />
+    <item drawable="sololearn" />
+    <item drawable="tumblr2" />
+    <item drawable="usb_settings" />
+    <item drawable="videos5" />
+    <item drawable="vivaldi" />
 
     <category title="System" />
     <item drawable="browser" />
@@ -86,6 +78,7 @@
     <item drawable="videos2" />
     <item drawable="videos3" />
     <item drawable="videos4" />
+    <item drawable="videos5" />
     <item drawable="sound_recorder" />
     <item drawable="sound_recorder2" />
     <item drawable="sound_recorder3" />
@@ -402,6 +395,7 @@
     <item drawable="airbrush" />
     <item drawable="aircut" />
     <item drawable="airdroid" />
+    <item drawable="airtel" />
     <item drawable="airvpn" />
     <item drawable="alarmy" />
     <item drawable="alarmy2" />
@@ -422,6 +416,7 @@
     <item drawable="amoled_walls" />
     <item drawable="ampere" />
     <item drawable="androdumpper" />
+    <item drawable="android" />
     <item drawable="another_widget" />
     <item drawable="any_do" />
     <item drawable="apkeditor" />
@@ -477,6 +472,7 @@
     <item drawable="benefits" />
     <item drawable="better_battery_stats" />
     <item drawable="betternet" />
+    <item drawable="between" />
     <item drawable="bible" />
     <item drawable="billiards" />
     <item drawable="bima_plus" />
@@ -724,6 +720,7 @@
     <item drawable="megaphone" />
     <item drawable="me_meteo" />
     <item drawable="memoria" />
+    <item drawable="memrise" />
     <item drawable="mendeley" />
     <item drawable="meteor_swipe" />
     <item drawable="microsoft_authenticator" />
@@ -734,6 +731,7 @@
     <item drawable="mimo" />
     <item drawable="migrate" />
     <item drawable="mint_browser" />
+    <item drawable="minty_icons" />
     <item drawable="miui_hidden_settings" />
     <item drawable="miui_ify" />
     <item drawable="mixplorer" />
@@ -888,6 +886,7 @@
     <item drawable="sketch" />
     <item drawable="skit" />
     <item drawable="skype" />
+    <item drawable="skype2" />
     <item drawable="skyview" />
     <item drawable="slack" />
     <item drawable="slack2" />
@@ -898,6 +897,7 @@
     <item drawable="snapchat" />
     <item drawable="solitaire" />
     <item drawable="solo_launcher" />
+    <item drawable="sololearn" />
     <item drawable="sonic" />
     <item drawable="soundcloud" />
     <item drawable="spanish_dictionary" />
@@ -952,6 +952,7 @@
     <item drawable="true_caller" />
     <item drawable="tuenti" />
     <item drawable="tumblr" />
+    <item drawable="tumblr2" />
     <item drawable="tunnel_bear" />
     <item drawable="turkcell" />
     <item drawable="turkeygov" />
@@ -969,6 +970,7 @@
     <item drawable="universal_copy" />
     <item drawable="unnotification" />
     <item drawable="updates" />
+    <item drawable="usb_settings" />
     <item drawable="utorrent" />
     <item drawable="via_browser" />
     <item drawable="viber" />
@@ -981,6 +983,7 @@
     <item drawable="viper4android_fx" />
     <item drawable="virtual_hots" />
     <item drawable="virus_cleaner" />
+    <item drawable="vivaldi" />
     <item drawable="vk" />
     <item drawable="vlc" />
     <item drawable="vlc_remote" />

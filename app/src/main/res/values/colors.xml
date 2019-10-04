@@ -666,4 +666,13 @@
     <color name="night_mode_for_samsung_background">#424957</color>
     <color name="google_dialer2_background">#3D5AFE</color>
     <color name="google_messages2_background">#3D5AFE</color>
+    <color name="android_background">#2ABF6F</color>
+    <color name="skype2_background">#28A8EA</color>
+    <color name="airtel_background">#E60000</color>
+    <color name="between_background">#1BCEC5</color>
+    <color name="sololearn_background">#E4E4E4</color>
+    <color name="tumblr2_background">#3F5979</color>
+    <color name="usb_settings_background">#AFD817</color>
+    <color name="videos5_background">#3E384E</color>
+    <color name="vivaldi_background">#EF3939</color>
 </resources>
