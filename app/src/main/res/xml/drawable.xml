@@ -1,32 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <category title="New" />
-    <item drawable="a3b_meteo" />
-    <item drawable="a500_px" />
-    <item drawable="abbey" />
-    <item drawable="acorn" />
-    <item drawable="adobe_captivate_prime" />
-    <item drawable="adobe_connect" />
-    <item drawable="adobe_ditigal_editions" />
-    <item drawable="adobe_fill_sign" />
-    <item drawable="adobe_rush" />
-    <item drawable="adobe_scan" />
-    <item drawable="adobe_scout" />
-    <item drawable="adobe_sign" />
-    <item drawable="adobe_spark_post" />
-    <item drawable="adobe_xd" />
-    <item drawable="amino" />
-    <item drawable="anydesk" />
-    <item drawable="app_saver" />
-    <item drawable="appy_weather" />
-    <item drawable="asos2" />
-    <item drawable="blogger" />
-    <item drawable="flick_launcher_pro" />
-    <item drawable="fuelio" />
-    <item drawable="google_lens2" />
-    <item drawable="live_ua_map" />
-    <item drawable="ovo" />
-    <item drawable="snapseed2" />
+    <item drawable="android_accessibility_suite" />
+    <item drawable="autozone" />
+    <item drawable="best_buy" />
+    <item drawable="bookshelf" />
+    <item drawable="brosix" />
+    <item drawable="caffeine" />
+    <item drawable="clock08" />
+    <item drawable="clock09" />
+    <item drawable="clock10" />
+    <item drawable="credit_karma" />
+    <item drawable="edge_game" />
+    <item drawable="messages6" />
+    <item drawable="music9" />
+    <item drawable="music10" />
+    <item drawable="plague_inc" />
+    <item drawable="settings7" />
+    <item drawable="settings8" />
+    <item drawable="sms_organizer" />
+    <item drawable="sofi" />
+    <item drawable="tasker" />
+    <item drawable="teamspeak3_alt" />
+    <item drawable="wallfy" />
+    <item drawable="wiznote" />
+    <item drawable="word_spark" />
 
     <category title="System" />
     <item drawable="browser" />
@@ -94,6 +92,7 @@
     <item drawable="messages3" />
     <item drawable="messages4" />
     <item drawable="messages5" />
+    <item drawable="messages6" />
     <item drawable="music" />
     <item drawable="music2" />
     <item drawable="music3" />
@@ -102,6 +101,8 @@
     <item drawable="music6" />
     <item drawable="music7" />
     <item drawable="music8" />
+    <item drawable="music9" />
+    <item drawable="music10" />
     <item drawable="notes" />
     <item drawable="notes2" />
     <item drawable="radio" />
@@ -113,6 +114,8 @@
     <item drawable="settings4" />
     <item drawable="settings5" />
     <item drawable="settings6" />
+    <item drawable="settings7" />
+    <item drawable="settings8" />
     <item drawable="themes" />
     <item drawable="themes2" />
     <item drawable="themes3" />
@@ -347,6 +350,7 @@
     <item drawable="lineageos_settings" />
 
     <category title="Google" />
+    <item drawable="android_accessibility_suite" />
     <item drawable="blogger" />
     <item drawable="google_admin" />
     <item drawable="google_adsense" />
@@ -573,6 +577,7 @@
     <item drawable="auto_notification" />
     <item drawable="auto_voice" />
     <item drawable="auto_wear" />
+    <item drawable="autozone" />
     <item drawable="autoroid" />
     <item drawable="avast_antivirus" />
     <item drawable="avencis_ssox" />
@@ -591,6 +596,7 @@
     <item drawable="beeline" />
     <item drawable="belfius" />
     <item drawable="benefits" />
+    <item drawable="best_buy" />
     <item drawable="better_battery_stats" />
     <item drawable="betternet" />
     <item drawable="between" />
@@ -613,16 +619,19 @@
     <item drawable="bluetooth_app_sender" />
     <item drawable="booking_com" />
     <item drawable="book_reader" />
+    <item drawable="bookshelf" />
     <item drawable="boost_for_reddit" />
     <item drawable="bouncer" />
     <item drawable="box" />
     <item drawable="brainly" />
     <item drawable="brave_browser" />
     <item drawable="brawl_stars" />
+    <item drawable="brosix" />
     <item drawable="business_calendar" />
     <item drawable="busybox" />
     <item drawable="buzzfeed" />
     <item drawable="bxactions" />
+    <item drawable="caffeine" />
     <item drawable="call_of_duty" />
     <item drawable="camera_360" />
     <item drawable="camera_360_lite" />
@@ -657,6 +666,7 @@
     <item drawable="cpu_float" />
     <item drawable="cpu_z" />
     <item drawable="creative" />
+    <item drawable="credit_karma" />
     <item drawable="cryptomator" />
     <item drawable="customized_pixel_launcher" />
     <item drawable="cymetry" />
@@ -690,6 +700,7 @@
     <item drawable="dy_dx" />
     <item drawable="easy_dnd" />
     <item drawable="ebay" />
+    <item drawable="edge_game" />
     <item drawable="edge_wallpaper" />
     <item drawable="eksin" />
     <item drawable="elevate" />
@@ -983,6 +994,7 @@
     <item drawable="picsart" />
     <item drawable="pipette" />
     <item drawable="pixlr" />
+    <item drawable="plague_inc" />
     <item drawable="play_memories" />
     <item drawable="playstation" />
     <item drawable="playstation2" />
@@ -1072,11 +1084,13 @@
     <item drawable="sleep_as_android" />
     <item drawable="smart_launcher" />
     <item drawable="smart_office" />
+    <item drawable="sms_organizer" />
     <item drawable="snail_ride" />
     <item drawable="snapchat" />
     <item drawable="snapchat2" />
     <item drawable="snapchat3" />
     <item drawable="snapmod" />
+    <item drawable="sofi" />
     <item drawable="solitaire" />
     <item drawable="solo_launcher" />
     <item drawable="sololearn" />
@@ -1115,7 +1129,9 @@
     <item drawable="sync_me" />
     <item drawable="syncthing_fork" />
     <item drawable="tachiyomi" />
+    <item drawable="tasker" />
     <item drawable="teamspeak3" />
+    <item drawable="teamspeak3_alt" />
     <item drawable="teamviewer" />
     <item drawable="telegram" />
     <item drawable="telegram2" />
@@ -1190,6 +1206,7 @@
     <item drawable="vysor" />
     <item drawable="waip" />
     <item drawable="walldrobe" />
+    <item drawable="wallfy" />
     <item drawable="wallhub" />
     <item drawable="walli" />
     <item drawable="wallpaper_modder" />
@@ -1212,9 +1229,11 @@
     <item drawable="windows_phone_companion" />
     <item drawable="winzip" />
     <item drawable="wire" />
+    <item drawable="wiznote" />
     <item drawable="wom_wifi" />
     <item drawable="wordpress" />
     <item drawable="wordreference" />
+    <item drawable="word_spark" />
     <item drawable="wps_fill" />
     <item drawable="wps_office" />
     <item drawable="wps_office2" />
@@ -1439,4 +1458,7 @@
     <item drawable="clock05" />
     <item drawable="clock06" />
     <item drawable="clock07" />
+    <item drawable="clock08" />
+    <item drawable="clock09" />
+    <item drawable="clock10" />
 </resources>

@@ -257,7 +257,7 @@
     <color name="box_background">#0061D5</color>
     <color name="chrome_remote_desktop_background">#4587F3</color>
     <color name="devcheck_background">#87B158</color>
-    <color name="duolingo_background">#8EE000</color>
+    <color name="duolingo_background">#8BC34A</color>
     <color name="elevate_background">#4F4F4F</color>
     <color name="fast_reboot_background">#7BBB36</color>
     <color name="feedback_background">#2CBCC6</color>
@@ -273,7 +273,7 @@
     <color name="ruthless_launcher_background">#FC0017</color>
     <color name="science_background">#48CAC2</color>
     <color name="sesame_background">#204489</color>
-    <color name="settings4_background">#546E7A</color>
+    <color name="settings4_background">#FFEE57</color>
     <color name="shareit_background">#1D99F3</color>
     <color name="smart_launcher_background">#03004C</color>
     <color name="speedtest_background">#26273B</color>
@@ -493,7 +493,7 @@
     <color name="sleep_as_android_background">#D1EDF3</color>
     <color name="syncthing_fork_background">#1CA4D4</color>
     <color name="video_downloader_background">#48630D</color>
-    <color name="a9_gag_background">#E6E6E6</color>
+    <color name="a9_gag_background">#4F4F4F</color>
     <color name="adguard_background">#4D964E</color>
     <color name="aimp_background">#FE7906</color>
     <color name="amazon_drive_background">#5370F4</color>
@@ -549,7 +549,7 @@
     <color name="kodi_background">#31AFE1</color>
     <color name="pinterest_background">#ED2D34</color>
     <color name="wearable_extensions_background">#9C27B0</color>
-    <color name="youtube_vanced_background">#0C0C0F</color>
+    <color name="youtube_vanced_background">#323232</color>
     <color name="playstation2_background">#1D1D29</color>
     <color name="aqua_mail_background">#2B899A</color>
     <color name="audible2_background">#3F3F3F</color>
@@ -774,8 +774,8 @@
     <color name="snapseed2_background">#3F3F3F</color>
     <color name="vpn_background">#FFE0A9</color>
     <color name="adobe_captivate_prime_background">#2C4338</color>
-    <color name="adobe_lightroom_background">#00A1A3</color>
-    <color name="adobe_rush_background">#955FCB</color>
+    <color name="adobe_lightroom_background">#21847C</color>
+    <color name="adobe_rush_background">#511B8A</color>
     <color name="adobe_scout_background">#4E4855</color>
     <color name="adobe_xd_background">#900D65</color>
     <color name="adobe_connect_background">#49C391</color>
@@ -790,4 +790,23 @@
     <color name="a3b_meteo_background">#F9CE1D</color>
     <color name="a500_px_background">#4F4F4F</color>
     <color name="anydesk_background">#E25252</color>
+    <color name="brosix_background">#2097D4</color>
+    <color name="caffeine_background">#695FFF</color>
+    <color name="messages6_background">#3F7ED9</color>
+    <color name="plague_inc_background">#B81C42</color>
+    <color name="teamspeak3_alt_background">#334468</color>
+    <color name="bookshelf_background">#C29875</color>
+    <color name="tasker_background">#616161</color>
+    <color name="wiznote_background">#41A5C7</color>
+    <color name="android_accessibility_suite_background">#FABD7F</color>
+    <color name="auto_zone_background">#4E4E4E</color>
+    <color name="best_buy_background">#3F51B5</color>
+    <color name="credit_karma_background">#4D753C</color>
+    <color name="music9_background">#F93157</color>
+    <color name="settings7_background">#3F51B5</color>
+    <color name="settings8_background">#E8863F</color>
+    <color name="sms_organizer_background">#F4F4F4</color>
+    <color name="sofi_background">#00A9CE</color>
+    <color name="wallfy_background">#FFFFFF</color>
+    <color name="word_spark_background">#324191</color>
 </resources>
