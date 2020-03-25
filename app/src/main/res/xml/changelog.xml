@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="Version 2.4.3" />
-    <item text="Added 24 new icon" />
-    <item text="Some icon redesigned" />
+    <version title="Version 2.5" />
+    <item text="Added 22 new icon" />
+    <item text="Icons rescaled" />
+    <item text="Some icons redesigned" />
     <item text="Now, icon pack contains" />
-    <item text="1410 adaptive icon" />
+    <item text="1441 adaptive icon" />
     <item text="165 wallpaper" />
     <item text="If you like icon pack, support me. Make a donation." />
     <item text="Thank you for downloading. Make icon request for missing icons. I try cover them." />

@@ -90,7 +90,7 @@
         defaultMinute="10" />
 
     <!-- Global -->
-    <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="logo_calendar_29" />
     <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" prefix="logo_calendar_" />
     <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="calculator" />
     <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="camera4"/>
@@ -143,9 +143,9 @@
     <item component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActivity}" drawable="google_keep2" />
     <item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}" drawable="play_books2" />
     <item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" drawable="play_games2" />
-    <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="playstore2" />
+    <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="playstore3" />
     <item component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}" drawable="play_movies2" />
-    <item component="ComponentInfo{com.google.android.apps.cultural/com.google.android.apps.cultural.web.WebViewActivity}" drawable="google_artsandculture" />
+    <item component="ComponentInfo{com.google.android.apps.cultural/com.google.android.apps.cultural.web.WebViewActivity}" drawable="google_arts_culture" />
     <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="play_music" />
     <item component="ComponentInfo{com.google.android.apps.pdfviewer/com.google.android.apps.viewer.PdfViewerActivity}" drawable="google_pdf" />
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />
@@ -179,11 +179,14 @@
     <item component="ComponentInfo{com.google.android.launcher/com.google.android.launcher.StubApp}" drawable="google_assistant_launcher" />
     <item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity#0}" drawable="solitaire" />
     <item component="ComponentInfo{com.google.android.apps.blogger/com.google.android.apps.blogger.ApplicationActivity}" drawable="blogger" />
+    <item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity}" drawable="opinion_rewards2" />
+    <item component="ComponentInfo{com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity}" drawable="google_voice" />
+    <item component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="youtube_music" />
 
     <!-- Asus -->
     <item component="ComponentInfo{com.asus.maxxaudio.audiowizard/com.asus.maxxaudio.audiowizard.MainActivity}" drawable="equalizer" />
     <item component="ComponentInfo{com.asus.browser/com.android.browser.BrowserActivity}" drawable="browser2" />
-    <item component="ComponentInfo{com.asus.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
+    <item component="ComponentInfo{com.asus.calendar/com.android.calendar.AllInOneActivity}" drawable="logo_calendar_29" />
     <calendar component="ComponentInfo{com.asus.calendar/com.android.calendar.AllInOneActivity}" prefix="logo_calendar_" />
     <item component="ComponentInfo{com.asus.calculator/com.asus.calculator.Calculator}" drawable="calculator3" />
     <item component="ComponentInfo{com.asus.camera/com.asus.camera.CameraApp}" drawable="camera4" />
@@ -226,7 +229,7 @@
 
     <!-- HTC -->
     <item component="ComponentInfo{com.htc.sense.browser/com.htc.sense.browser.BrowserActivity}" drawable="browser2" />
-    <item component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}" drawable="calendar" />
+    <item component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}" drawable="logo_calendar_29" />
     <calendar component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}" prefix="logo_calendar_" />
     <item component="ComponentInfo{com.htc.camera2/com.htc.camera2.CameraEntry}" drawable="camera4"/>
     <item component="ComponentInfo{com.htc.camera/com.htc.camera.CameraEntry}" drawable="camera4" />
@@ -265,6 +268,9 @@
     <item component="ComponentInfo{com.huawei.hwvplayer/com.huawei.hwvplayer.framework.MainActivity}" drawable="videos"/>
     <item component="ComponentInfo{com.huawei.android.totemweather/com.huawei.android.totemweather.WeatherHome}" drawable="weather3"/>
     <item component="ComponentInfo{com.huawei.health/com.huawei.health.MainActivity}" drawable="fit2" />
+    <item component="ComponentInfo{com.huawei.android.thememanager/com.huawei.android.thememanager.mvp.view.activity.onlinebase.PageActivity}" drawable="themes2" />
+    <item component="ComponentInfo{com.huawei.android.remotecontroller/com.huawei.android.remotecontroller.StartActivity}" drawable="huawei_smart_remote" />
+    <item component="ComponentInfo{com.huawei.hisuite/com.huawei.hisuite.activity.MainActivity}" drawable="hisuite" />
 
     <!-- LG -->
     <item component="ComponentInfo{com.lge.camera/com.lge.camera.CameraAppLauncher}" drawable="camera7"/>
@@ -312,7 +318,7 @@
     <item component="ComponentInfo{com.nextbit.gallery/com.nextbit.gallery.main.MainActivity}" drawable="gallery3" />
 
     <!-- OnePlus -->
-    <item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
+    <item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" drawable="logo_calendar_29" />
     <calendar component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" prefix="logo_calendar_" />
     <item component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}" drawable="calculator3" />
     <item component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}" drawable="camera4"/>
@@ -346,8 +352,8 @@
     <!-- Samsung -->
     <item component="ComponentInfo{com.sec.android.app.sbrowser.beta/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="browser3" />
     <item component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="browser3" />
-    <item component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
-    <item component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}" drawable="calendar" />
+    <item component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" drawable="logo_calendar_29" />
+    <item component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}" drawable="logo_calendar_29" />
     <calendar component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" prefix="logo_calendar_" />
     <item component="ComponentInfo{com.sec.android.app.calculator/com.sec.android.app.calculator.calculator.Calculator}" drawable="calculator2" />
     <item component="ComponentInfo{com.sec.android.app.calculator/com.sec.android.app.calculator.Calculator}" drawable="calculator2" />
@@ -387,7 +393,7 @@
     <item component="ComponentInfo{com.samsung.android.video/com.samsung.android.video.list.activity.VideoList}" drawable="videos4" />
 
     <!-- Sony -->
-    <item component="ComponentInfo{com.sonymobile.calendar/com.sonymobile.calendar.LaunchActivity}" drawable="calendar" />
+    <item component="ComponentInfo{com.sonymobile.calendar/com.sonymobile.calendar.LaunchActivity}" drawable="logo_calendar_29" />
     <calendar component="ComponentInfo{com.sonymobile.calendar/com.sonymobile.calendar.LaunchActivity}" prefix="logo_calendar_" />
     <item component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}" drawable="camera4"/>
     <item component="ComponentInfo{com.sonyericsson.organizer/com.sonyericsson.organizer.Organizer}" drawable="clock02" />
@@ -411,7 +417,7 @@
     <!-- Xiaomi -->
     <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="browser2" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.launch.SplashActivity}" drawable="browser2" />
-    <item component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="calendar" />
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="logo_calendar_29" />
     <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" prefix="logo_calendar_" />
     <item component="ComponentInfo{com.miui.calculator/com.miui.calculator.cal.CalculatorActivity}" drawable="calculator3" />
     <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClockTabActivity}" drawable="clock02" />
@@ -500,6 +506,68 @@
     <item component="ComponentInfo{}" drawable="" />
     <item component="ComponentInfo{}" drawable="" />
     <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{}" drawable="" />
+    <item component="ComponentInfo{xyz.fancystuff.weatherlauncher/xyz.fancystuff.weatherlauncher.LauncherActivity}" drawable="weather3" />
+    <item component="ComponentInfo{eleutheromania.edebiyatkaptani/eleutheromania.edebiyatkaptani.MainActivity}" drawable="book_reader" />
+    <item component="ComponentInfo{in.startv.hotstar/in.startv.hotstar.rocky.launch.splash.SplashActivity}" drawable="hotstar" />
+    <item component="ComponentInfo{com.intuit.turbotax.mobile/com.intuit.turbotaxuniversal.startup.activity.StartUpActivity}" drawable="turbotax" />
+    <item component="ComponentInfo{com.gg2.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="youtube_music" />
+    <item component="ComponentInfo{com.indeed.android.jobsearch/com.indeed.android.jobsearch.launch.LaunchActivity}" drawable="indeed_job_search" />
+    <item component="ComponentInfo{com.curiosity.dailycuriosity/com.curiosity.dailycuriosity.MainActivity}" drawable="curiosity" />
+    <item component="ComponentInfo{com.huawei.appmarket/com.huawei.appmarket.MainActivity}" drawable="appgallery" />
+    <item component="ComponentInfo{net.tsapps.appsales/net.tsapps.appsales.ui.main.MainActivity}" drawable="app_sales" />
+    <item component="ComponentInfo{app.galleryx/app.galleryx.activity.MainActivity}" drawable="a1gallery" />
+    <item component="ComponentInfo{org.kustom.widget.pro/org.kustom.pro.MainActivity}" drawable="kwgt_pro" />
+    <item component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity}" drawable="lawnchair_settings" />
+    <item component="ComponentInfo{com.fsphost.atomicclock/com.fsphost.atomicclock.AtomicClock_}" drawable="atomic_clock" />
+    <item component="ComponentInfo{ru.ok.android/ru.ok.android.ui.activity.main.OdklActivity}" drawable="ok_ru" />
+    <item component="ComponentInfo{com.sonymobile.xperiatransfermobile/com.sonymobile.xperiatransfermobile.ui.LaunchActivity}" drawable="xperia_transfer_mobile" />
+    <item component="ComponentInfo{com.sonymobile.assist/com.sonymobile.assist.AssistMainActivity}" drawable="xperia_assistant" />
+    <item component="ComponentInfo{com.sonymobile.support/com.sonymobile.support.InAppSupportLauncher}" drawable="feedback" />
+    <item component="ComponentInfo{com.xiaomiui.pocopack/com.xiaomiui.pocopack.MainActivity}" drawable="poco_launcher" />
+    <item component="ComponentInfo{org.chromium.webapk.a01684c55bfc38659/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="instagram" />
+    <item component="ComponentInfo{ind.aang.iconpack.cerebro/ind.aang.iconpack.cerebro.HomeActivity}" drawable="cerebro" />
+    <item component="ComponentInfo{com.s.cleaner/com.avast.android.cleaner.activity.StartActivity}" drawable="avg_cleaner" />
+    <item component="ComponentInfo{com.ichi2.anki/com.ichi2.anki.IntentHandler}" drawable="ankidroid" />
+    <item component="ComponentInfo{ru.pt.iconpack.miui11/ru.pt.iconpack.miui11.activities.SplashActivity}" drawable="iconpack_miui" />
+    <item component="ComponentInfo{com.amazon.kindle/com.amazon.kindle.UpgradePage}" drawable="amazon_kindle" />
+    <item component="ComponentInfo{com.filemanager.amazecloud/com.filemanager.amazecloud.activity.MainActivity}" drawable="amaze_cloud_plugin" />
+    <item component="ComponentInfo{ru.pt.iconpack.miui11/ru.pt.iconpack.miui11.activities.SplashActivity}" drawable="iconpack_miui" />
+    <item component="ComponentInfo{com.vnpay.hdbank/com.vnpay.hdbank.activity.SplashActivity}" drawable="hd_bank" />
+    <item component="ComponentInfo{com.deishelon.emuifontmanager/com.deishelon.emuifontmanager.ui.activities.HomeActivity}" drawable="fonts" />
+    <item component="ComponentInfo{com.alexandrucene.dayhistory/com.alexandrucene.dayhistory.activities.MainActivity}" drawable="historical_calendar" />
+    <item component="ComponentInfo{lozi.loship_user/lozi.loship_user.screen.launcher.activity.LauncherActivity}" drawable="loship" />
+    <item component="ComponentInfo{reddit.news/reddit.news.RedditNavigation}" drawable="relay_pro" />
+    <item component="ComponentInfo{com.ml.mobile.mymerrill/com.ml.mobile.android.main.StartUpActivity}" drawable="mymerrill" />
     <item component="ComponentInfo{com.google.android.marvin.talkback/android.app.AppDetailsActivity}" drawable="android_accessibility_suite" />
     <item component="ComponentInfo{com.histudiogames.games.wordspace/com.unity3d.player.UnityMainActivity}" drawable="word_spark" />
     <item component="ComponentInfo{com.sofi.mobile/com.sofi.mobile.login.splashscreen.SplashScreenActivity}" drawable="sofi" />
@@ -1048,7 +1116,7 @@
     <item component="ComponentInfo{com.paolinoalessandro.cmromdownloaderadfree/com.paolinoalessandro.cmromdownloader.activities.MainActivity}" drawable="lineage_downloader" />
     <item component="ComponentInfo{org.proninyaroslav.libretorrent/org.proninyaroslav.libretorrent.MainActivity}" drawable="torrent" />
     <item component="ComponentInfo{com.playdead.limbo.full/com.playdead.limbo.LimboActivity}" drawable="limbo" />
-    <item component="ComponentInfo{org.kustom.widget/org.kustom.widget.picker.WidgetPicker}" drawable="kgwt" />
+    <item component="ComponentInfo{org.kustom.widget/org.kustom.widget.picker.WidgetPicker}" drawable="kwgt" />
     <item component="ComponentInfo{com.evo.inware/com.evo.inware.ui.activities.SplashActivity}" drawable="inware" />
     <item component="ComponentInfo{com.balda.intenttask/com.balda.intenttask.ui.MainActivity}" drawable="intent_task" />
     <item component="ComponentInfo{xeus.iconic/xeus.iconic.ui.main.MainActivity}" drawable="iconic" />
@@ -1275,7 +1343,7 @@
     <item component="ComponentInfo{com.gismart.realpianofree/com.gismart.piano.MonetizationActivity}" drawable="piano" />
     <item component="ComponentInfo{com.photovideoeditor.piano/com.photovideoeditor.piano.activity.SplashActivity}" drawable="piano" />
     <item component="ComponentInfo{com.prankworld.realpiano/com.prankworld.realpiano.Activity.SplashActivity}" drawable="piano" />
-    <item component="ComponentInfo{com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity}" drawable="wallpapers" />
+    <item component="ComponentInfo{com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity}" drawable="wallpapers2" />
     <item component="ComponentInfo{ch.deletescape.lawnchair.ci/ch.deletescape.lawnchair.LawnchairLauncher}" drawable="lawnchair" />
     <item component="ComponentInfo{tr.gov.turkiye.edevlet.kapisi/tr.gov.turkiye.edevlet.kapisi.activity.SplashActivity}" drawable="turkeygov" />
     <item component="ComponentInfo{com.ziraat.ziraatmobil/com.veripark.ziraatmobile.screens.splash.activities.SplashActivity}" drawable="ziraat" />
@@ -1479,7 +1547,6 @@
     <item component="ComponentInfo{org.airvpn.eddie/org.airvpn.eddie.MainActivity}" drawable="airvpn" />
     <item component="ComponentInfo{org.geometerplus.zlibrary.ui.android/org.geometerplus.android.fbreader.FBReader}" drawable="fb_reader" />
     <item component="ComponentInfo{co.pamobile.gamelauncher/co.pamobile.gamelauncher.MainActivity}" drawable="games2" />
-    <item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity}" drawable="opinion_rewards" />
     <item component="ComponentInfo{com.riotgames.mobile.leagueconnect/com.riotgames.mobile.leagueconnect.ui.MainActivity}" drawable="league_of_legends" />
     <item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityWelcomeMX}" drawable="mx_player" />
     <item component="ComponentInfo{amirz.rootless.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity}" drawable="launcher" />

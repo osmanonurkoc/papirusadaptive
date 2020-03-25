@@ -50,8 +50,8 @@ android {
         applicationId "osmanonurkoc.papirus"
         minSdkVersion 26
         targetSdkVersion versions.targetSdk
-        versionCode 28
-        versionName "2.4.3"
+        versionCode 31
+        versionName "2.5"
         vectorDrawables.useSupportLibrary = true
         proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
         consumerProguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'

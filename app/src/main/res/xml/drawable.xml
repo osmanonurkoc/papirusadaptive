@@ -1,30 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <category title="New" />
-    <item drawable="android_accessibility_suite" />
-    <item drawable="autozone" />
-    <item drawable="best_buy" />
-    <item drawable="bookshelf" />
-    <item drawable="brosix" />
-    <item drawable="caffeine" />
-    <item drawable="clock08" />
-    <item drawable="clock09" />
-    <item drawable="clock10" />
-    <item drawable="credit_karma" />
-    <item drawable="edge_game" />
-    <item drawable="messages6" />
-    <item drawable="music9" />
-    <item drawable="music10" />
-    <item drawable="plague_inc" />
-    <item drawable="settings7" />
-    <item drawable="settings8" />
-    <item drawable="sms_organizer" />
-    <item drawable="sofi" />
-    <item drawable="tasker" />
-    <item drawable="teamspeak3_alt" />
-    <item drawable="wallfy" />
-    <item drawable="wiznote" />
-    <item drawable="word_spark" />
+    <item drawable="a1gallery" />
+    <item drawable="amaze_cloud_plugin" />
+    <item drawable="amazon_kindle" />
+    <item drawable="ankidroid" />
+    <item drawable="atomic_clock" />
+    <item drawable="avg_cleaner" />
+    <item drawable="cerebro" />
+    <item drawable="curiosity" />
+    <item drawable="google_photos2" />
+    <item drawable="google_voice" />
+    <item drawable="hotstar" />
+    <item drawable="indeed_job_search" />
+    <item drawable="kwgt_pro" />
+    <item drawable="ok_ru" />
+    <item drawable="opinion_rewards2" />
+    <item drawable="play_developer_console2" />
+    <item drawable="playstore3" />
+    <item drawable="turbotax" />
+    <item drawable="wallpapers2" />
+    <item drawable="xperia_assistant" />
+    <item drawable="xperia_transfer_mobile" />
+    <item drawable="youtube_music" />
 
     <category title="System" />
     <item drawable="browser" />
@@ -93,6 +91,7 @@
     <item drawable="messages4" />
     <item drawable="messages5" />
     <item drawable="messages6" />
+    <item drawable="messages7" />
     <item drawable="music" />
     <item drawable="music2" />
     <item drawable="music3" />
@@ -338,6 +337,7 @@
     <item drawable="lineageos_calculator" />
     <item drawable="lineageos_calendar" />
     <item drawable="lineageos_camera" />
+    <item drawable="clock07" />
     <item drawable="lineageos_contacts" />
     <item drawable="lineageos_dialer" />
     <item drawable="lineageos_files" />
@@ -355,7 +355,7 @@
     <item drawable="google_admin" />
     <item drawable="google_adsense" />
     <item drawable="google_analytics" />
-    <item drawable="google_artsandculture" />
+    <item drawable="google_arts_culture" />
     <item drawable="google_assistant" />
     <item drawable="google_assistant_launcher" />
     <item drawable="google_authenticator" />
@@ -404,7 +404,9 @@
     <item drawable="google_messages2" />
     <item drawable="google_news" />
     <item drawable="google_news2" />
+    <item drawable="google_voice" />
     <item drawable="opinion_rewards" />
+    <item drawable="opinion_rewards2" />
     <item drawable="chrome_remote_desktop" />
     <item drawable="google_pdf" />
     <item drawable="play_books" />
@@ -415,15 +417,18 @@
     <item drawable="play_movies2" />
     <item drawable="play_music" />
     <item drawable="play_music2" />
+    <item drawable="playstore" />
+    <item drawable="playstore2" />
+    <item drawable="playstore3" />
+    <item drawable="play_developer_console" />
+    <item drawable="play_developer_console2" />
     <item drawable="google_photos" />
+    <item drawable="google_photos2" />
     <item drawable="google_photoscan" />
     <item drawable="google_podcasts" />
     <item drawable="google_tasks" />
     <item drawable="google_pay" />
     <item drawable="google_wear_os" />
-    <item drawable="playstore" />
-    <item drawable="playstore2" />
-    <item drawable="play_developer_console" />
     <item drawable="google" />
     <item drawable="google_go" />
     <item drawable="google_sheets" />
@@ -435,7 +440,9 @@
     <item drawable="youtube2" />
     <item drawable="youtube3" />
     <item drawable="youtube4" />
+    <item drawable="youtube_music" />
     <item drawable="wallpapers" />
+    <item drawable="wallpapers2" />
     <item drawable="datally" />
     <item drawable="find_my_phone" />
     <item drawable="live_transcribe" />
@@ -444,6 +451,7 @@
 
     <category title="Apps" />
     <item drawable="a1_1_1_1" />
+    <item drawable="a1gallery" />
     <item drawable="a1lyrics" />
     <item drawable="a1password" />
     <item drawable="a2dehands" />
@@ -519,10 +527,12 @@
     <item drawable="aliexpress" />
     <item drawable="all_in_one_calculator" />
     <item drawable="amaze_browser" />
+    <item drawable="amaze_cloud_plugin" />
     <item drawable="amaze_file_manager" />
     <item drawable="amazfit_bip" />
     <item drawable="amazon" />
     <item drawable="amazon_drive" />
+    <item drawable="amazon_kindle" />
     <item drawable="amc_theatres" />
     <item drawable="amd" />
     <item drawable="amdm" />
@@ -533,6 +543,7 @@
     <item drawable="androdumpper" />
     <item drawable="android" />
     <item drawable="anime_dlr" />
+    <item drawable="ankidroid" />
     <item drawable="another_widget" />
     <item drawable="any_do" />
     <item drawable="apkeditor" />
@@ -566,6 +577,7 @@
     <item drawable="asus_zentalk" />
     <item drawable="asus_zenui_help" />
     <item drawable="ath_movil" />
+    <item drawable="atomic_clock" />
     <item drawable="audible" />
     <item drawable="audible2" />
     <item drawable="aurora_droid" />
@@ -581,6 +593,7 @@
     <item drawable="autoroid" />
     <item drawable="avast_antivirus" />
     <item drawable="avencis_ssox" />
+    <item drawable="avg_cleaner" />
     <item drawable="aviary" />
     <item drawable="babe" />
     <item drawable="backdrops" />
@@ -642,6 +655,7 @@
     <item drawable="cast_task" />
     <item drawable="cek_tagihan_pln" />
     <item drawable="ccleaner" />
+    <item drawable="cerebro" />
     <item drawable="cheetah_keyboard" />
     <item drawable="chefkoch" />
     <item drawable="chess" />
@@ -661,6 +675,7 @@
     <item drawable="cloud_innovation_gallery" />
     <item drawable="color_os_clone_phone" />
     <item drawable="compass" />
+    <item drawable="compass2" />
     <item drawable="convert_all" />
     <item drawable="coub" />
     <item drawable="cpu_float" />
@@ -668,6 +683,7 @@
     <item drawable="creative" />
     <item drawable="credit_karma" />
     <item drawable="cryptomator" />
+    <item drawable="curiosity" />
     <item drawable="customized_pixel_launcher" />
     <item drawable="cymetry" />
     <item drawable="dailyhunt" />
@@ -792,13 +808,18 @@
     <item drawable="gym_run" />
     <item drawable="hacker_s_keyboard" />
     <item drawable="hangman" />
+    <item drawable="hd_bank" />
     <item drawable="health" />
     <item drawable="hermit" />
     <item drawable="hide_it_pro" />
     <item drawable="hishoot2i_material" />
+    <item drawable="historical_calendar" />
+    <item drawable="hisuite" />
     <item drawable="home_agenda_calendar_widget" />
     <item drawable="home_workout" />
+    <item drawable="hotstar" />
     <item drawable="hp" />
+    <item drawable="huawei_smart_remote" />
     <item drawable="hurry" />
     <item drawable="hyperion_launcher" />
     <item drawable="ibispaint_x" />
@@ -810,6 +831,7 @@
     <item drawable="identify_dog_breeds" />
     <item drawable="idm" />
     <item drawable="iftt" />
+    <item drawable="indeed_job_search" />
     <item drawable="inshot" />
     <item drawable="inshot_photo_editor" />
     <item drawable="instagram" />
@@ -831,7 +853,8 @@
     <item drawable="kbbi" />
     <item drawable="kdeconnect" />
     <item drawable="kdeconnect2" />
-    <item drawable="kgwt" />
+    <item drawable="kwgt" />
+    <item drawable="kwgt_pro" />
     <item drawable="khan_academy" />
     <item drawable="kingdom_rush" />
     <item drawable="kingdom_rush_frontiers" />
@@ -867,6 +890,7 @@
     <item drawable="lockscreen" />
     <item drawable="loffee" />
     <item drawable="loopsie" />
+    <item drawable="loship" />
     <item drawable="lucky_patcher" />
     <item drawable="magic_rampage" />
     <item drawable="mailru" />
@@ -934,6 +958,7 @@
     <item drawable="myedenred" />
     <item drawable="myjdownloader" />
     <item drawable="mymal" />
+    <item drawable="mymerrill" />
     <item drawable="my_orange" />
     <item drawable="my_proximus" />
     <item drawable="nav_explorer" />
@@ -954,6 +979,7 @@
     <item drawable="nt_calculator" />
     <item drawable="nvidia" />
     <item drawable="octo_stream" />
+    <item drawable="ok_ru" />
     <item drawable="oled_tools" />
     <item drawable="olx" />
     <item drawable="oneplus_switch" />
@@ -1034,6 +1060,7 @@
     <item drawable="realme_store" />
     <item drawable="reddit" />
     <item drawable="reddit_is_fun" />
+    <item drawable="relay_pro" />
     <item drawable="remote" />
     <item drawable="rename_photos" />
     <item drawable="resize_me" />
@@ -1165,6 +1192,7 @@
     <item drawable="tumblr" />
     <item drawable="tumblr2" />
     <item drawable="tunnel_bear" />
+    <item drawable="turbotax" />
     <item drawable="turkcell" />
     <item drawable="turkeygov" />
     <item drawable="twilight" />
@@ -1243,6 +1271,8 @@
     <item drawable="xender" />
     <item drawable="x_home_bar" />
     <item drawable="xodo" />
+    <item drawable="xperia_assistant" />
+    <item drawable="xperia_transfer_mobile" />
     <item drawable="yahoo_mail" />
     <item drawable="yandex" />
     <item drawable="yandex_browser" />
