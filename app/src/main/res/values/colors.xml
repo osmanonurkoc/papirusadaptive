@@ -111,7 +111,7 @@
     <color name="papirus_mega_background">#E32037</color>
     <color name="papirus_mendeley_background">#BE212E</color>
     <color name="papirus_messages2_background">#2A5083</color>
-    <color name="google_messages_background">#3D5AFE</color>
+    <color name="google_messages_background">#5068F0</color>
     <color name="papirus_movies_background">#FECD38</color>
     <color name="papirus_opera_background">#D2D2D2</color>
     <color name="papirus_opera_beta_background">#D2D2D2</color>
@@ -146,7 +146,7 @@
     <color name="slack2_background">#612862</color>
     <color name="video_background">#4F4F4F</color>
     <color name="videos2_background">#4F4F4F</color>
-    <color name="eksin_background">#4D4D4D</color>
+    <color name="eksin_background">#3F3F3F</color>
     <color name="google_duo_background">#1A73E8</color>
     <color name="snapseed_background">#454545</color>
     <color name="adventurecap_background">#FBE643</color>
@@ -194,8 +194,8 @@
     <color name="stk_background">#ECECEC</color>
     <color name="themes2_background">#4F4F4F</color>
     <color name="dialer3_background">#FFC10A</color>
-    <color name="google_dialer_background">#3D5AFE</color>
-    <color name="google_contacts_background">#3D5AFE</color>
+    <color name="google_dialer_background">#5068F0</color>
+    <color name="google_contacts_background">#5068F0</color>
     <color name="iscep_background">#08335E</color>
     <color name="yapikredi_background">#1F4677</color>
     <color name="ziraat_background">#ED1C24</color>
@@ -559,7 +559,7 @@
     <color name="sync_me_background">#0088D4</color>
     <color name="timer_background">#28B628</color>
     <color name="xodo_background">#E9E9E9</color>
-    <color name="downloads3_background">#626262</color>
+    <color name="downloads3_background">#4D4D4D</color>
     <color name="ds_video_background">#E83238</color>
     <color name="fing_background">#009EEE</color>
     <color name="firefox2_background">#486BA8</color>
@@ -648,8 +648,8 @@
     <color name="floating_apps_background">#585858</color>
     <color name="my_boy_background">#F9BE2D</color>
     <color name="night_mode_for_samsung_background">#424957</color>
-    <color name="google_dialer2_background">#3D5AFE</color>
-    <color name="google_messages2_background">#3D5AFE</color>
+    <color name="google_dialer2_background">#5068F0</color>
+    <color name="google_messages2_background">#5068F0</color>
     <color name="android_background">#2ABF6F</color>
     <color name="skype2_background">#28A8EA</color>
     <color name="airtel_background">#FF0000</color>
@@ -737,7 +737,7 @@
     <color name="droid_optimizer_background">#37A0F2</color>
     <color name="flashscore_background">#87B158</color>
     <color name="fresh_ebt_background">#5DC349</color>
-    <color name="google_earth3_background">#304F9B</color>
+    <color name="google_earth3_background">#E8E8E8</color>
     <color name="hishoot2i_material_background">#D8EFFF</color>
     <color name="messages5_background">#E8B928</color>
     <color name="ms_office_background">#F63DB6</color>
@@ -846,7 +846,7 @@
     <color name="mobilism_background">#4569C4</color>
     <color name="moto_background">#16A082</color>
     <color name="motorola_notifications_background">#03B9C6</color>
-    <color name="myki_background">#0C2834</color>
+    <color name="myki_background">#073740</color>
     <color name="naptime_background">#252837</color>
     <color name="nextdoor_background">#569A40</color>
     <color name="pano_scrobbler_background">#941A7C</color>
@@ -858,4 +858,21 @@
     <color name="xbox_gamepass_background">#107C10</color>
     <color name="xbox_game_streaming_background">#107C10</color>
     <color name="yiffur_background">#252837</color>
+    <color name="apex_launcher_background">#4D8CF3</color>
+    <color name="apex_launcher_pro_background">#4D8CF3</color>
+    <color name="google_drive3_background">#E8E8E8</color>
+    <color name="panda_vpn_background">#5EC674</color>
+    <color name="pcb_droid_background">#29D682</color>
+    <color name="tinder2_background">#E4E4E4</color>
+    <color name="gallery7_background">#3F51B5</color>
+    <color name="ios_background">#3F3F3F</color>
+    <color name="light_notes_background">#00BCD4</color>
+    <color name="facebook_gaming_background">#3B5999</color>
+    <color name="mi_banco_movil_background">#E25252</color>
+    <color name="sysctl_gui_background">#607D8B</color>
+    <color name="twitter3_background">#4584E7</color>
+    <color name="usps_mobile_background">#344092</color>
+    <color name="vectorify_da_home_background">#2975E6</color>
+    <color name="vpn_hotspot_background">#00E552</color>
+    <color name="wps_office3_background">#2975E6</color>
 </resources>

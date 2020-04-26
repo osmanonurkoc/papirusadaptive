@@ -1,40 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <category title="New" />
-    <item drawable="appnotifier" />
-    <item drawable="audiolab" />
-    <item drawable="bandlab" />
-    <item drawable="deezloader" />
-    <item drawable="duckduckgo" />
-    <item drawable="firefox_preview_nightly" />
-    <item drawable="genius" />
-    <item drawable="google_ads" />
-    <item drawable="google_classroom" />
-    <item drawable="google_cloud_search" />
-    <item drawable="google_maps_go" />
-    <item drawable="google_my_business" />
-    <item drawable="google_one" />
-    <item drawable="google_support_services" />
-    <item drawable="google_wifi" />
-    <item drawable="hangouts_chat" />
-    <item drawable="hangouts_dialer" />
-    <item drawable="hangouts_meet" />
-    <item drawable="imgur" />
-    <item drawable="mobilism" />
-    <item drawable="moto" />
-    <item drawable="motorola_notifications" />
-    <item drawable="myki" />
-    <item drawable="naptime" />
-    <item drawable="nextdoor" />
-    <item drawable="pano_scrobbler" />
-    <item drawable="plus_messenger" />
-    <item drawable="plus_themes" />
-    <item drawable="the_wolfs_stash" />
-    <item drawable="utk_io" />
-    <item drawable="xbox" />
-    <item drawable="xbox_gamepass" />
-    <item drawable="xbox_game_streaming" />
-    <item drawable="yiffur" />
+    <item drawable="apex_launcher" />
+    <item drawable="apex_launcher_pro" />
+    <item drawable="facebook_gaming" />
+    <item drawable="feather_notes" />
+    <item drawable="gallery7" />
+    <item drawable="google_drive3" />
+    <item drawable="google_maps2" />
+    <item drawable="ios" />
+    <item drawable="light_notes" />
+    <item drawable="mi_banco_movil" />
+    <item drawable="panda_vpn" />
+    <item drawable="pcb_droid" />
+    <item drawable="pixel_dungeon" />
+    <item drawable="sysctl_gui" />
+    <item drawable="tinder2" />
+    <item drawable="twitter3" />
+    <item drawable="usps_mobile" />
+    <item drawable="vectorify_da_home" />
+    <item drawable="vpn_hotspot" />
+    <item drawable="vpn_servers" />
+    <item drawable="wps_office3" />
+    <item drawable="youtube_vanced2" />
 
     <category title="System" />
     <item drawable="browser" />
@@ -92,6 +80,7 @@
     <item drawable="gallery4" />
     <item drawable="gallery5" />
     <item drawable="gallery6" />
+    <item drawable="gallery7" />
     <item drawable="mail" />
     <item drawable="mail2" />
     <item drawable="mail3" />
@@ -397,6 +386,7 @@
     <item drawable="google_documents" />
     <item drawable="google_drive" />
     <item drawable="google_drive2" />
+    <item drawable="google_drive3" />
     <item drawable="google_duo" />
     <item drawable="google_duo2" />
     <item drawable="google_earth" />
@@ -418,6 +408,7 @@
     <item drawable="google_lens" />
     <item drawable="google_lens2" />
     <item drawable="google_maps" />
+    <item drawable="google_maps2" />
     <item drawable="google_maps_go" />
     <item drawable="google_messages" />
     <item drawable="google_messages2" />
@@ -569,6 +560,8 @@
     <item drawable="ankidroid" />
     <item drawable="another_widget" />
     <item drawable="any_do" />
+    <item drawable="apex_launcher" />
+    <item drawable="apex_launcher_pro" />
     <item drawable="apkeditor" />
     <item drawable="apk_extractor" />
     <item drawable="apollo_tv" />
@@ -760,6 +753,7 @@
     <item drawable="express_vpn" />
     <item drawable="fabby" />
     <item drawable="facebook" />
+    <item drawable="facebook_gaming" />
     <item drawable="facebook_lite" />
     <item drawable="fastmail" />
     <item drawable="fast_reboot" />
@@ -767,6 +761,7 @@
     <item drawable="fb_messenger_lite" />
     <item drawable="fb_reader" />
     <item drawable="fdroid" />
+    <item drawable="feather_notes" />
     <item drawable="feedback" />
     <item drawable="figma" />
     <item drawable="fing" />
@@ -873,6 +868,7 @@
     <item drawable="internet_browser" />
     <item drawable="intruder_catcher" />
     <item drawable="inware" />
+    <item drawable="ios" />
     <item drawable="ip_tv" />
     <item drawable="iscep" />
     <item drawable="i_translate" />
@@ -907,6 +903,7 @@
     <item drawable="lecture_notes" />
     <item drawable="lens_disturtions" />
     <item drawable="lich_am" />
+    <item drawable="light_notes" />
     <item drawable="limbo" />
     <item drawable="lime" />
     <item drawable="line" />
@@ -946,6 +943,7 @@
     <item drawable="memrise" />
     <item drawable="mendeley" />
     <item drawable="meteor_swipe" />
+    <item drawable="mi_banco_movil" />
     <item drawable="microsoft_authenticator" />
     <item drawable="mi_drop" />
     <item drawable="mi_fit" />
@@ -1035,16 +1033,19 @@
     <item drawable="oxygen_updater" />
     <item drawable="pacman" />
     <item drawable="paid_free" />
+    <item drawable="panda_vpn" />
     <item drawable="pano_scrobbler" />
     <item drawable="paper_artist" />
     <item drawable="password" />
     <item drawable="paytm" />
     <item drawable="paypal" />
+    <item drawable="pcb_droid" />
     <item drawable="pcloud" />
     <item drawable="pedometer" />
     <item drawable="penup" />
     <item drawable="piano" />
     <item drawable="pinterest" />
+    <item drawable="pixel_dungeon" />
     <item drawable="pixelful_icons" />
     <item drawable="pixel_icons" />
     <item drawable="phone_check" />
@@ -1195,6 +1196,7 @@
     <item drawable="sync_for_reddit" />
     <item drawable="sync_me" />
     <item drawable="syncthing_fork" />
+    <item drawable="sysctl_gui" />
     <item drawable="tachiyomi" />
     <item drawable="tasker" />
     <item drawable="teamspeak3" />
@@ -1216,6 +1218,7 @@
     <item drawable="timbre" />
     <item drawable="timer" />
     <item drawable="tinder" />
+    <item drawable="tinder2" />
     <item drawable="titanium_backup" />
     <item drawable="todoist" />
     <item drawable="tokopedia" />
@@ -1240,6 +1243,7 @@
     <item drawable="twitch" />
     <item drawable="twitter" />
     <item drawable="twitter2" />
+    <item drawable="twitter3" />
     <item drawable="twitter_lite" />
     <item drawable="uber" />
     <item drawable="uc_browser" />
@@ -1252,8 +1256,10 @@
     <item drawable="unnotification" />
     <item drawable="updates" />
     <item drawable="usb_settings" />
+    <item drawable="usps_mobile" />
     <item drawable="utk_io" />
     <item drawable="utorrent" />
+    <item drawable="vectorify_da_home" />
     <item drawable="via_browser" />
     <item drawable="viber" />
     <item drawable="video_downloader" />
@@ -1272,6 +1278,8 @@
     <item drawable="vlc_remote" />
     <item drawable="vodafone" />
     <item drawable="vpn" />
+    <item drawable="vpn_hotspot" />
+    <item drawable="vpn_servers" />
     <item drawable="vsco" />
     <item drawable="vysor" />
     <item drawable="waip" />
@@ -1307,6 +1315,7 @@
     <item drawable="wps_fill" />
     <item drawable="wps_office" />
     <item drawable="wps_office2" />
+    <item drawable="wps_office3" />
     <item drawable="xbox" />
     <item drawable="xbox_gamepass" />
     <item drawable="xbox_game_streaming" />
@@ -1338,6 +1347,7 @@
     <item drawable="yiffur" />
     <item drawable="ymusic" />
     <item drawable="youtube_vanced" />
+    <item drawable="youtube_vanced2" />
     <item drawable="zarchiver" />
     <item drawable="zedge" />
     <item drawable="ziraat" />
