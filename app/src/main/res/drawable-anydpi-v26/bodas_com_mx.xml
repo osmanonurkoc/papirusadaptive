@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/bodas_com_mx_background"/>
+    <foreground android:drawable="@mipmap/bodas_com_mx_foreground"/>
+</adaptive-icon>
