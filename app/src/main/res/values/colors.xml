@@ -977,4 +977,16 @@
     <color name="mercado_libre_background">#FFE500</color>
     <color name="mercado_pago_background">#2D3277</color>
     <color name="netguard_background">#EEEEEE</color>
+    <color name="albo_background">#3150B9</color>
+    <color name="amazfit_background">#D34444</color>
+    <color name="amazfit_maps_background">#C9F2BA</color>
+    <color name="amazon_music_background">#3F7EE1</color>
+    <color name="beddi_background">#EEECED</color>
+    <color name="bitshares_background">#38BDEC</color>
+    <color name="ing_bank_background">#FF6800</color>
+    <color name="pocket_casts_background">#E25252</color>
+    <color name="sandisk_connect_drive_background">#EE3535</color>
+    <color name="santander_movil_background">#FFFDFE</color>
+    <color name="stori_background">#384967</color>
+    <color name="udemy_background">#FEFDF8</color>
 </resources>
