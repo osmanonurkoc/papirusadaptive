@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+<?xml version="1.0" encoding="utf-8"?><!--suppress CheckTagEmptyBody -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+    <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
     <item>a1</item>
     <item>a2</item>

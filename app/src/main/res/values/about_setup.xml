@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation,MissingTranslation">
+    <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
+        <item>https://1.bp.blogspot.com/-YWeFL6XYmOQ/XJeIqeJf8oI/AAAAAAAAE0Q/qll1N5yXUNU8V6xIopBzEaZXuciOKkGNgCLcBGAs/s1600/me.jpg</item>
+    </string-array>
+
+    <string-array name="credits_titles">
+        <item>Osman Onur KOÇ</item>
+    </string-array>
+
+    <string-array name="credits_descriptions">
+        <item>I am 20 years old student from Turkey. Sometimes I create android things.</item>
+    </string-array>
+
+    <string-array name="credits_buttons">
+        <item>Telegram|GitHub</item>
+    </string-array>
+
+    <string-array name="credits_links">
+        <item>https://t.me/osmanonurkoc|https://github.com/osmanonurkoc</item>
+    </string-array>
+</resources>

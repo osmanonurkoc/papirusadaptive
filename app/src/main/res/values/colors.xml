@@ -1,22 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<color name="notification_color">#69F0AE</color>
-	<color name="muzei_color">#69F0AE</color>
-	<color name="light_theme_primary_dark">#7666be</color>
-	<color name="light_theme_primary">#7666be</color>
-	<color name="light_theme_accent">#8971FD</color>
-	<color name="light_theme_background">#FAFAFA</color>
-	<color name="light_theme_card_background">#FFFFFF</color>
-	<color name="light_theme_dialogs_button_color">@color/light_theme_accent</color>
-	<color name="splash_light_status_bar">@color/light_theme_primary_dark</color>
-	<color name="dark_theme_primary_dark">#292929</color>
-	<color name="dark_theme_primary">#292929</color>
-	<color name="dark_theme_accent">#8971FD</color>
-	<color name="dark_theme_background">#2E2E2E</color>
-	<color name="dark_theme_card_background">#333333</color>
-	<color name="dark_theme_dialogs_button_color">@color/dark_theme_accent</color>
-	<color name="splash_dark_status_bar">@color/dark_theme_primary_dark</color>
-    <color name="ic_launcher_icon_pack_background">#335A9E</color>
+    <!-- Light Theme Colors -->
+    <color name="primary">#f0f0f0f0</color>
+    <color name="primaryDark">#f0f0f0</color>
+    <color name="onPrimary">#de000039</color>
+
+    <color name="accent">#595afd</color>
+    <color name="onAccent">#ffffff</color>
+
+    <color name="surface">#ffffff</color>
+    <color name="onSurface">#de000000</color>
+    <color name="onSurfaceVariant">#8a000000</color>
+
+    <color name="background">#fafafa</color>
+    <color name="onBackground">#de000000</color>
+
+    <color name="snackbarBackgroundColor">#424242</color>
+    <color name="snackbarTextColor">#ffffff</color>
+    <color name="snackbarButtonColor">#88b3fc</color>
+
+    <!-- Dark Theme Colors -->
+    <color name="darkThemePrimary">#1b1b1b</color>
+    <color name="darkThemePrimaryDark">#1b1b1b</color>
+    <color name="darkThemeOnPrimary">#f3c72f</color>
+
+    <color name="darkThemeAccent">#8a72ff</color>
+    <color name="darkThemeOnAccent">#ffffff</color>
+
+    <color name="darkThemeSurface">#282828</color>
+    <color name="darkThemeOnSurface">#ffffff</color>
+    <color name="darkThemeOnSurfaceVariant">#b3ffffff</color>
+
+    <color name="darkThemeBackground">#1b1b1b</color>
+    <color name="darkThemeOnBackground">#f3c72f</color>
+
+    <color name="darkThemeSnackbarBackgroundColor">#cc3266</color>
+    <color name="darkThemeSnackbarTextColor">#de000000</color>
+    <color name="darkThemeSnackbarButtonColor">#cc3266</color>
+
+    <!-- Amoled Theme Colors -->
+    <color name="amoledThemePrimary">#000000</color>
+    <color name="amoledThemePrimaryDark">#000000</color>
+    <color name="amoledThemeOnPrimary">#ffffff</color>
+
+    <color name="amoledThemeAccent">#4fdaeb</color>
+    <color name="amoledThemeOnAccent">#de000000</color>
+
+    <color name="amoledThemeSurface">#212121</color>
+    <color name="amoledThemeOnSurface">#ffffff</color>
+    <color name="amoledThemeBackground">#101010</color>
+
+    <color name="amoledThemeOnSurfaceVariant">@color/darkThemeOnSurfaceVariant</color>
+    <color name="amoledThemeOnBackground">@color/darkThemeOnBackground</color>
+
+    <color name="amoledThemeSnackbarBackgroundColor">#ffffff</color>
+    <color name="amoledThemeSnackbarTextColor">#de000000</color>
+    <color name="amoledThemeSnackbarButtonColor">#3c9983</color>
+
+    <!-- Icon Backgrounds -->
+    <color name="ic_launcher_icon_pack_background">#2d559c</color>
     <color name="apps_netflix_background">#4F4F4F</color>
     <color name="apps_matlab_background">#FF9959</color>
     <color name="papirus_settings_background">#E94A63</color>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?><!--suppress CheckTagEmptyBody -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingDefaultResource">
+    <!--
+        Home actions style ==> Share / Rate / Donate buttons
+        0. Hidden
+        1. Small
+        2. Big
+    -->
+    <integer name="home_actions_style">2</integer>
+
+    <!--
+        Do you want to show overview in home section?
+        True, means yes.
+        False, means no.
+    -->
+    <bool name="show_overview">true</bool>
+
+    <!--
+        Do you want the quick apply button to show its text?
+        True, means yes.
+        False, means no.
+    -->
+    <bool name="show_quick_apply_text">true</bool>
+
+    <!--
+        Set a custom text to the quick apply button.
+        Be sure to add translations, or it might not be shown in other languages.
+        Leave empty for the app to use the default "Quick Apply" text
+    -->
+    <string name="quick_apply_custom_text"></string>
+
+    <!-- These arrays are for the list of apps or links in main section. -->
+    <string-array name="home_list_titles">
+        <item>Contact</item>
+        <item>Community Group</item>
+        <item>Source Code</item>
+        <item>Premium Icon Request</item>
+        <item>Papirus Clocks</item>
+        <item>Other Icon Packs</item>
+    </string-array>
+    <string-array name="home_list_descriptions">
+        <item>If you have a suggestion, complaint or anything. Write me.</item>
+        <item>Telegram group of icon pack. Join and ask your questions.</item>
+        <item>GitHub page of icon pack. If you are interested.</item>
+        <item>Make a unlimited and priority icon request.</item>
+        <item>Dynamic clock pack. Try alternatives. </item>
+        <item>My other adaptive icon packs. Maybe you might like it.</item>
+    </string-array>
+    <string-array name="home_list_icons">
+        <item>mail</item>
+        <item>telegram</item>
+        <item>github</item>
+        <item>icon_request</item>
+        <item>clock09</item>
+        <item>rose</item>
+    </string-array>
+    <string-array name="home_list_links">
+        <item>mailto:osmanonurkoc@gmail.com</item>
+        <item>https://t.me/joinchat/IfNYJFYUXWSmBD57_0VKOw</item>
+        <item>https://github.com/osmanonurkoc/papirusadaptive/</item>
+        <item>market://details?id=osmanonurkoc.request</item>
+        <item>market://details?id=osmanonurkoc.clockpack</item>
+        <item>https://play.google.com/store/apps/developer?id=osmanonurkoc</item>
+    </string-array>
+</resources>
