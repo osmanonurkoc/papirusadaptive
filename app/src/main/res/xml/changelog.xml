@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="v1.0.0" />
-    <item text="Initial Changelog" />
-    <item text="Bullet point here" />
-    <item text="More points" />
-    <item text="" /> <!-- this one is empty and therefore ignored -->
+    <version title="v2.7" />
+    <item text="Added 320+ icons" />
+    <item text="Added 6 wallpaper" />
+    <item text="Some icon redesigned" />
+    <item text="Fixed missing icons" />
+    <item text="Icons recategorized" />
+    <item text="Dashboard upgraded" />
+    <item text="Now, icon pack contains" />
+    <item text="1962 adaptive icon and 169 wallpaper" />
 </resources>
