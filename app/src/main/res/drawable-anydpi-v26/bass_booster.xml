@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/bass_booster_background"/>
+    <foreground android:drawable="@mipmap/bass_booster_foreground"/>
+</adaptive-icon>
