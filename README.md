@@ -37,16 +37,14 @@ You can control the look of your adaptive launcher icon by defining 2 layers, co
 
 
 
-## **ICON PACKS**
-|Icons:|Names:|Description:| Downloads:|
-|--|--|--|--|
-|![](https://3.bp.blogspot.com/-es1zBghUF3k/XLokq_QnbgI/AAAAAAAAE7k/5cEPeJXhg4wVKD_pQ5jCMdobVcURJr59ACLcBGAs/s1600/papirus.png)|Papirus Adaptive|Famous gtk icon theme port also adaptive. |[download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Papirus)
-|![](https://4.bp.blogspot.com/-oK3JzE3S2lo/XLokm_psRdI/AAAAAAAAE7M/dLUIuMolj1oufo1GdcjXAuq26-jnJSBawCLcBGAs/s1600/iconpack_asus.png)|Asus Adaptive|Asus ZenuUI™ 4 and 5 icons and fully adaptive.|[download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Asus)
-|![](https://4.bp.blogspot.com/-yLPJPYnkwgc/XLoknPi0VzI/AAAAAAAAE7U/HgIdIJseakgpAjrKsl_ttq8FNJEhidpOACLcBGAs/s1600/iconpack_lg.png)|LG Adaptive|LG Icons are fully adaptive!|[download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Lg)
-|![enter image description here](https://1.bp.blogspot.com/-ZAXynuK1KOk/XLokmyZBHrI/AAAAAAAAE7Q/xWQN_sFbG-kKQzQ3bkj-uWw5dfV-xF9rQCLcBGAs/s1600/iconpack_miui.png)|MIUI Adaptive|MIUI™ icons are material and adaptive.|[download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Miui)
-|![](https://3.bp.blogspot.com/-AD5o58uCGsY/XLokndJXW8I/AAAAAAAAE7Y/zge7i8mPVBsri5xnwnOYWZ6rWBx_NF7pgCLcBGAs/s1600/iconpack_oneplus.png)|OnePlus Adaptive|Standart OxygenOS icons.Only difference is these are adaptive! |[download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Oneplus)
-|![](https://2.bp.blogspot.com/-hsb0VNk6ZQg/XLokn-4U-qI/AAAAAAAAE7g/z7jcpGQ7Kjo207meJeDEBwwPbTsYqsDBACLcBGAs/s1600/iconpack_samsung.png)|Samsung Adaptive|Samsung OneUI icons are fully adaptive. |[download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Samsung)
-|![enter image description here](https://3.bp.blogspot.com/-uxqCRRsyesY/XLokn3cn1yI/AAAAAAAAE7c/L1gHZ6vWrkUBm0QvWvSPLjHM_bqkkBWqQCLcBGAs/s1600/iconpack_sony.png)|Sony Adaptive|Xperia Icons are fully adaptive. |[download](https://osmanonurkoc.github.io/AdaptiveIconsShowcase/Sony)
+## **License**
+Papirus icon theme is free and open source project distributed under the terms of the GNU General Public License, version 3. See the [`LICENSE`](LICENSE) file for details.
+
+Every logo in this icon theme is owned by the respective trademark holder. We have not received approval to create these logos from any of the trademark owners, and the existence of an icon in this repository is in no way supported by the trademark owner.
+
+Where possible, we stayed true to the branding and official guidelines.
+
+If you are a trademark holder or application owner for one of these applications and disapprove of the icons we've created for your application, please submit an issue to this repository.
 
 
 
