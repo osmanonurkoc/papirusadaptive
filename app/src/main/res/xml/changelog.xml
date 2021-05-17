@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="v2.7" />
-    <item text="Added 320+ icons" />
-    <item text="Added 6 wallpaper" />
+    <version title="v2.7.1 Last Update" />
+    <item text="Added 142 icons" />
     <item text="Some icon redesigned" />
-    <item text="Fixed missing icons" />
-    <item text="Icons recategorized" />
-    <item text="Dashboard upgraded" />
-    <item text="Now, icon pack contains" />
-    <item text="1962 adaptive icon and 169 wallpaper" />
+    <item text="Dear users;" />
+    <item text="Because of my school and my job, I no longer have time to continue the project. Sorry about this. I've tried to add requests as much as I can, but many are still missing. If you made a paid request and it still hasn't been covered, please contact me. Thank you for your understanding and supports." />
 </resources>

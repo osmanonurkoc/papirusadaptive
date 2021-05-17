@@ -12,8 +12,8 @@ class MainActivity : BottomNavigationBlueprintActivity() {
     override val billingEnabled = true
 
     override fun amazonInstallsEnabled(): Boolean = false
-    override fun checkLPF(): Boolean = true
-    override fun checkStores(): Boolean = true
+    override fun checkLPF(): Boolean = false
+    override fun checkStores(): Boolean = false
     override val isDebug: Boolean = BuildConfig.DEBUG
 
     /**

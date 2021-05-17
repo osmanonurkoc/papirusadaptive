@@ -34,32 +34,32 @@
         <item>Contact</item>
         <item>Community Group</item>
         <item>Source Code</item>
-        <item>Premium Icon Request</item>
-        <item>Papirus Clocks</item>
+        <item>Lavien Adaptive</item>
+        <item>Lavien Icon Pack</item>
         <item>Other Icon Packs</item>
     </string-array>
     <string-array name="home_list_descriptions">
         <item>If you have a suggestion, complaint or anything. Write me.</item>
         <item>Telegram group of icon pack. Join and ask your questions.</item>
-        <item>GitHub page of icon pack. If you are interested.</item>
-        <item>Make a unlimited and priority icon request.</item>
-        <item>Dynamic clock pack. Try alternatives. </item>
+        <item>GitHub page of icon pack. You are free to fork and continue the project. Just contact me.</item>
+        <item>Elegant and modern icon pack and also adaptive.</item>
+        <item>Non-adaptive version of Lavien icon pack. </item>
         <item>My other adaptive icon packs. Maybe you might like it.</item>
     </string-array>
     <string-array name="home_list_icons">
         <item>mail</item>
         <item>telegram</item>
         <item>github</item>
-        <item>icon_request</item>
-        <item>clock09</item>
+        <item>lavien</item>
+        <item>lavien_lite</item>
         <item>rose</item>
     </string-array>
     <string-array name="home_list_links">
         <item>mailto:osmanonurkoc@gmail.com</item>
         <item>https://t.me/joinchat/IfNYJFYUXWSmBD57_0VKOw</item>
         <item>https://github.com/osmanonurkoc/papirusadaptive/</item>
-        <item>market://details?id=osmanonurkoc.request</item>
-        <item>market://details?id=osmanonurkoc.clockpack</item>
+        <item>market://details?id=osmanonurkoc.lavien</item>
+        <item>market://details?id=osmanonurkoc.lavien.lite</item>
         <item>https://play.google.com/store/apps/developer?id=osmanonurkoc</item>
     </string-array>
 </resources>
