@@ -1,8 +1,3 @@
-# Adaptive Icon Packs
-
-Hi guys I created several icon packs for adaptive icons supported launchers. You can access them here.
-
-
 ## What is the Adaptive Icons ?
 Android 8.0 (API level 26) introduces adaptive launcher icons, which can display a variety of shapes across different device models. For example, an adaptive launcher icon can display a circular shape on one OEM device, and display a squircle on another device. Each device OEM provides a mask, which the system then uses to render all adaptive icons with the same shape. Adaptive launcher icons are also used in shortcuts, the Settings app, sharing dialogs, and the overview screen.
 
